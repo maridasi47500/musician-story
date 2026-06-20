@@ -42,6 +42,94 @@ cyber-traveler : tu es une cyber star dans un hotel VIP,  tu as data, devices,pa
  volunteer : volunteer app python - ads 
  hacker-cafe : une fille "joue" le controlleur d'un train/d'un contrôlleur model vue controller, un garçon joue la "vue" par la fenetre d'un train, /peuvent coder, partent à l'venture, se connecte à des bornes wifi. par exemple la programmation arrive entre "select" de sql et "select where not"/de voir /ne pas voir. le garçon s'occupe de voir, la fille de ne pas voir pour obtenir la programmation. ou la fille s'occupe d'etre le controlleur du train/de la partie controller dans rails.
  that-sportsperson : That Sportsperson est une application hybride entre galerie, carte interactive et moteur IA. Elle te permet de te promener dans un carousel de perspectives, une collection de photos, ou un quartier virtuel, où chaque donnée est une histoire, chaque image une intention, chaque coordonnée GPS une possibilité.
+ the-world-is-the-scene : Welcome to a Clojure project born from quiet rooms and luminous journeys. Here, you're not just a developer—you’re a clerk of clarity, navigating complexity with elegance.
+ virtual-tv-show : Disco City Live is a virtual television experience built on a chat‑rails app, set inside a fictional disco city — a place that feels real, alive, and full of color, and you must be present to experience the tv show. Users from around the world can join the show, chat in their own language, and interact through real‑time translation.
+ race-pace : Race Pace A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance. 
+ 
+ flight-at-first-sight : Flight at First Sight is a social–musical app designed for travelers who want more than just a journey: Meet at the plane/train/airport:
+Connect with nearby travelers before boarding or during the trip. Be in the “competition”:
+Join friendly music challenges, playlists battles, or style contests with other users. Family roots in music:
+Highlight your musical background—like having family members who play instruments. Core features Choose a music style
+Define your favorite genres (classical, jazz, rap, rock, etc.) 
+
+ideal-roof : Is This Love est un projet web imaginé comme une maison ouverte, construite avec ton framework préféré (Symfony, Rails, ou autre). Dans cette maison :
+
+on partage un toit
+
+on partage un lit simple ou double
+
+on partage la musique
+
+on partage la chaleur humaine
+
+on partage la créativité
+
+supreme-symphony : les gens sont des Clean Bandits — des musiciens modernes, créatifs, libres
+
+“bandit” n’est qu’un surnom affectueux pour désigner ceux qui vivent pour la musique
+
+les utilisateurs sont connectés entre eux par leurs téléphones portables, comme un orchestre numérique
+
+chaque interaction, chaque message, chaque requête HTTP devient une note dans une grande symphonie collective
+
+le code, l’architecture, les API et les services forment une mélodie logicielle
+
+l’ambiance générale est : harmonie, collaboration, créativité
+
+symphonie-foyers : Symphonie Foyers transforme le dev web en expérience collaborative et narrative.
+
+Foyers Crée ou rejoins un foyer. Musicien ou pas, tout le monde code. Stack imposée : Symfony / PHP pour le web. Chaque foyer a son activité, son ambiance, son rythme.
+
+Pays Chaque user est lié à un pays. L’activité de ton foyer alimente la "partition" de ton pays. Classements, stats, identité nationale basée sur le code produit.
+
+Le Chef d’Orchestre Rôle spécial qui orchestre le réseau. Il décide quand les gens se parlent, ce qu’ils font, ce qu’ils publient. Il lance des événements, des consignes métier, des rumeurs. symphonie foyers vient en même temps que comme ce qui est le bureau ovale pour les USA pour le début de l'histoire/pour la France vers la fin de l'histoire
+hearbreaking-housing : 1. Les habitations et leurs métiers simples Chaque habitation “Crevé‑Cœur” abrite un métier humble, essentiel, universel : jardinier cuisinier pêcheur couturière libraire potier boulanger Ces métiers deviennent des symboles : de la simplicité du quotidien de la transmission de la mémoire Chaque maison raconte une histoire à travers un format multimédia. 🌍 2. Le voyage vers le “pays de la musique” Pour atteindre ce pays imaginaire, il faut : faire un tour du monde traverser des villes au bord de la mer écouter les sons des ports, des vagues, des marchés, des langues Le voyage devient une quête artistique : chaque ville ajoute une couche sonore chaque mer apporte une couleur chaque culture enrichit la musique finale 
+road-struggle-story : 🎤 Concept: “Classical Pop Buddies” — A Backstage Road‑Struggle Story
+🌧️ Premise
+A tiny group of young performers—three or four friends—dream of breaking into the pop world. They’re not rich, not connected, and definitely not glamorous. They travel from town to town in a beat‑up van, performing wherever they can: tiny festivals, half‑empty bars, school gyms, even street corners.
+Instead of the polished rise‑to‑fame arc, this story digs into:
+cramped living conditions
+shared exhaustion and shared hope
+friendship under pressure
+the messy, unfiltered backstage reality
+fantastic-harmonic-logic : Ce projet explore l'interconnexion profonde entre les paramètres techniques de la musique (BPM, nuances, rythme) et les facultés cognitives et émotionnelles humaines (Cœur, Mémoire, Émotion). 🧠 Le Concept : La Musique et les "7 Merveilles" de l'Esprit
+
+Pourquoi la musique est-elle intrinsèquement liée à notre biologie ? Elle active ce qu'on peut appeler les "7 merveilles" de l'esprit, notamment le Cœur (pulsation biologique) et la Mémoire (encodage temporel).
+
+
+republic-of-music : Bienvenue dans la République de la Musique — un territoire sans frontières où les notes remplacent les lois, et où chaque battement de cœur devient un hymne national.
+Ici, nous ne gouvernons pas par la force, mais par les émotions.
+Notre mission : devenir les tyrans bienveillants des sentiments.
+🌍 Vision
+
+Créer une seule République, unifiée par la musique, où chaque chanson est un discours, chaque refrain une déclaration, et chaque mélodie un vote pour l’émotion.
+
+borderless-city : A City With No Borders Une application Rails dans une ville sans pays, sans murs, sans drapeaux. Juste des gens, des voix, et des histoires.
+bookish-cruel-love : Un foyer classique, en quête de succès, multiplie les destinations pour percer dans la musique. Entre fins de mois difficiles et tensions relationnelles, leur vie ressemble à celle de millions d'autres.2. L'Anomalie du Marché aux PucesTout bascule devant un stand de brocante. Une vidéo générée par IA, liée à un objet du marché, ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail connecte notre réalité à la République de l'Amour Cruel.3. La République de l'Amour CruelUn monde calqué sur l'esthétique des USA (Sport, Pop Culture, Mode), régi par des influenceurs mondiaux.Origines : Élevés aux "Restaurants du Cœur", ils ont appris à consommer de la chair, ce qui leur donne une vision unique de "l'amour". Pour eux, l'amour est une force brute.L'Arme : La Musique Classique. Utilisée pour sa richesse en émotions complexes, elle sert à bousculer l'audience et à remodeler les consciences.Le Foyer Central : Un couple "Monsieur et Madame Parfait" 
+
+tournee-coeur-ouvert : Il était une fois un compositeur et une compositrice de musique classique.
+Ils connaissaient la musique par cœur. Pas juste les partitions, mais ce que ça fait de la vivre.
+
+Leur idée : emmener des gens en tournée.
+Pas juste pour écouter. Pour sentir. Pour entrer dans le concert, pas rester au bord.
+
+Leur but était simple et un peu fou : tirailler le cœur de quelqu’un jusqu’à ce qu’il aime la musique.
+
+
+musician-mindset : l’apprentissage du hacking mindset (comprendre, explorer, détourner, créer)
+
+la pratique musicale assistée par une IA spécialisée dans l’entraînement musical
+
+
+globe-trotter-developer: Bienvenue dans mon univers. Je suis un développeur Ruby on Rails qui vit entre deux commits et deux fuseaux horaires, quelque part sur une route poussiéreuse, un sentier de jungle ou une piste cyclable qui mène vers l’inconnu. 🚀 Mode Développeur — Ruby on Rails Engineer Quand la nuit tombe et que les constellations s’allument, je passe en mode développeur :
+
+music-at-first-sight : Two people crossing paths on the same floor triggers events that can be tender, explosive, or transformative. The meeting is treated as a dramatic device—sometimes playful (water bombs), sometimes dangerous—whose consequences drive the story and the music. 
+potential-artist : Écoute ta musique préférée, voyage à prix réduit, et partage ta passion en toute liberté.
+
+
+ 
+ amazon-ai : Je suis une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. Et dans ce repo, j’entraîne des modèles comme je m’entraîne moi‑même : avec régularité, intensité et ambition. 🎯 Vision
+ 
  
  bookish-trend-music-articles : add a session a job, newspaper to job, save newspaper articles for music 
  automatic-score-adventure :  part de ta ville, cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure 
