@@ -66,332 +66,516 @@ Vers la fin de son périple, la storyMusician maîtrise parfaitement les deux mo
 Les secrets de l'architecture commerciale urbaine n'ont plus aucun mystère pour elle grâce à **[city-street-front-end-back-end](https://github.com/maridasi47500/city-street-front-end-back-end)**. Elle s'ouvre à de nouvelles perspectives technologiques en communiquant avec des voix extraterrestres dans **[let-s-get-to-know-each-other-upgraded-system](https://github.com/maridasi47500/lets-get-to-know-each-other-upgraded-system)**.
 
 Hésitant sur ce qu'elle a préféré au cours de sa vie, elle trie ses souvenirs, ses fils et ses vêtements par couleur dans **[hobbies-do-it-yourself](https://github.com/maridasi47500/hobbies-do-it-yourself)**, s'accordant un ultime éclat de rire avec son tout dernier dépôt, **[special-giggle](https://github.com/maridasi47500/special-giggle)**.# 🌍 Chroniques d'une Développeuse Musicienne : Du Code à la Scène
+# 🎻 StoryMusician — L'Épopée Logique et Musicale
 
-Bienvenue sur le portail de mes projets. Ce dépôt centralise l'ensemble de mes réalisations, mêlant développement logiciel (Ruby on Rails, Python, Clojure, Symfony), cybersécurité, intelligence artificielle et passion pour la musique et le sport. Voici l'histoire de mon parcours à travers mes dépôts.
-
----
-
-## 🧭 Étape 1 : Le Commencement, le Sport et la Gendarmerie
-
-Tout commence par une quête de discipline, d'aventure et de repères physiques. C'est l'époque des premiers pas professionnels, des défis sportifs et de la préparation aux concours.
-
-* [automatic-ruby-tale](https://github.com/maridasi47500/automatic-ruby-tale) : Le tout début de mon histoire, une sorte de conte de fées moderne version code, loin du traditionnel "ils vécurent heureux".
-* [gendarmes](https://github.com/maridasi47500/gendarmes) : Mes révisions et entraînements vers le début, pour passer le test afin de devenir gendarme.
-* [bats-contre-le-jeu](https://github.com/maridasi47500/bats-contre-le-jeu) : Une application créée vers le début pour se motiver à faire du sport et se dépasser.
-* [that-basketball-kid](https://github.com/maridasi47500/that-basketball-kid) : Mes débuts inspirés par des citations de sportifs célèbres pour forger mon mental.
-* [football-team](https://github.com/maridasi47500/football-team) : Gestion d'équipe et analyses tactiques sportives.
-* [basketball-team](https://github.com/maridasi47500/basketball-team) : Un dépôt dédié à l'organisation et aux entraînements de basketball.
-* [sport-competition](https://github.com/maridasi47500/sport-competition) : Suivi des scores et des performances lors de compétitions locales.
-* [sport-job](https://github.com/maridasi47500/sport-job) : Passerelle entre ma passion pour le sport et mes premières opportunités professionnelles.
-* [panique-a-la-disco](https://github.com/maridasi47500/panique-a-la-disco) : Un vent de folie mêlant rythmes rythmés et débuts d'organisation d'événements.
+Bienvenue dans le fichier de synthèse narratologique et technique de l'écosystème **storyMusician**. Ce document retrace la chronologie et les thématiques croisées des différents dépôts, oscillant entre sport, musique, ingénierie sociale et hacking.
 
 ---
 
-## 💻 Étape 2 : L'Apprentissage du Code, du Web et des Réseaux
+## 🌅 Phase 1 : Le Début — Identité, Sport & Premiers Pas
 
-Pour naviguer à travers le monde, j'ai dû concevoir mes propres outils de collecte d'informations et comprendre l'infrastructure du web.
+L'aventure ne commence pas par un "happily ever after", mais s'ancre dans une quête brute d'identité numérique et d'orientation technique.
 
-* [web-crawler](https://github.com/maridasi47500/web-crawler) : Créé vers le début, un robot d'indexation qui me ressemble, simulant un tour du monde pour collecter des données selon mes goûts musicaux et mes hobbies.
-* [animated-broccoli](https://github.com/maridasi47500/animated-broccoli) : Mon apprentissage pour devenir conceptrice de sites web avec Python.
-* [madame-http](https://github.com/maridasi47500/madame-http) : L'exploration profonde du protocole HTTP (les erreurs 404, 500) et des différences matérielles entre les langages.
-* [programming1](https://github.com/maridasi47500/programming1) : Mes toutes premières lignes de code et scripts fondamentaux.
-* [code-cookbook](https://github.com/maridasi47500/code-cookbook) : Mon carnet de recettes algorithmiques indispensables au quotidien.
-* [languae-html](https://github.com/maridasi47500/languae-html) : Création de composants HTML multi-formes et multicolores pour afficher des textes en langues étrangères.
-* [chat-html](https://github.com/maridasi47500/chat-html) : Une interface de messagerie basique construite en HTML/CSS pur.
-* [make-up-faker](https://github.com/maridasi47500/make-up-faker) : S'amuser à "maquiller" et inventer du code HTML/CSS esthétique pour transformer les interfaces.
-* [english-language-html-js-css](https://github.com/maridasi47500/english-language-html-js-css) : Perfectionnement de mon anglais technique à travers des projets front-end.
-* [networking-network](https://github.com/maridasi47500/networking-network) : Mon arrivée dans un nouvel environnement réseau, mise à jour sur les adresses MAC / IP, et cartographie de mes connexions interpersonnelles.
-* [network-program-recipes](https://github.com/maridasi47500/network-program-recipes) : Scripts de configuration réseau et gestion des sockets.
-* [what-is-my-ip](https://github.com/maridasi47500/what-is-my-ip) : Micro-service d'identification et de diagnostic de mon adresse IP publique.
+### 🛠️ Fondations architecturales et quête de soi
 
----
+* **`automatic ruby tale`** : Marque le commencement exact de l'histoire.
 
-## 🔮 Étape 3 : Premier Job, Voyance et Ingénierie Sociale
 
-Après l'acquisition des compétences techniques, vient le moment de postuler et de comprendre les interactions humaines, parfois à la frontière du réel et de l'artificiel.
+* **`choose-your-own-stack`**, **`voyage-application-numerique`** & **`i18n-global-identity`** : Des espaces où l'on cherche encore sa stack technologique (ex: Lina sous React+Flask+SQLite), son identité globale sans étiquette, et ses choix de voyage pour réduire ses dépenses grâce à la tech.
 
-* [bookish-engine](https://github.com/maridasi47500/bookish-engine) : Le dépôt où j'ai publié mes retours d'expérience à propos de mon tout premier emploi.
-* [python-it-technician](https://github.com/maridasi47500/python-it-technician) : Le suivi et les scripts de ma recherche d'emploi en tant que technicienne informatique Python.
-* [social-engineer-ai](https://github.com/maridasi47500/social-engineer-ai) : Projet conçu au tout début, quand je ne saisissais pas encore tout à fait les concepts de l'ingénierie sociale.
-* [learn-how-to-be-a-social-engineer](https://github.com/maridasi47500/learn-how-to-be-a-social-engineer) : Approfondissement des techniques de manipulation psychologique appliquées à la sécurité informatique.
-* [make-up-artist](https://github.com/maridasi47500/make-up-artist) : Derrière ce nom se cache une "voyante Airbnb" que j'ai consultée au début pour essayer de prédire mon avenir personnel et professionnel.
-* [boule-de-crystal](https://github.com/maridasi47500/boule-de-crystal) : Un dépôt créé lors de mon retour à la maison après mes premières vagues de tourisme et d'expériences intenses.
-* [photo-digital-voyante](https://github.com/maridasi47500/photo-digital-voyante) : Une voyante numérique locale qui analyse tes emplois, tes voyages, tes mots de passe, et tes conversations pour prédire ton futur.
 
----
+* **`voix-premiere`** : Une application Clojure qui commence par soi-même, par sa propre langue naturelle, avant les bases de données ou l'IA.
 
-## 🛫 Étape 4 : Le Grand Départ, l'Immersion "Out of Home" et le Voyage
 
-C'est l'heure des 24 heures dehors, de l'indépendance, de l'exploration des rues et des voyages à l'étranger.
+* **`social-engineer-ai`** : Utilisé au tout début pour comprendre les prémices de l'ingénierie sociale via une boutique HTML contextuelle.
 
-* [time-travel-stack-explorer](https://github.com/maridasi47500/time-travel-stack-explorer) : Utilisé juste avant de passer 24 heures dehors, pour se préparer mentalement à décrypter les affichages de messages dans la rue. Il intègre *AI Tembe*, un assistant vocal ancré localement.
-* [out-of-home](https://github.com/maridasi47500/out-of-home) : Le grand saut dehors. Observer les panneaux publicitaires sur les véhicules, fabriquer un faux job et une fausse carte d'identité pour s'évader.
-* [out-of-home-face](https://github.com/maridasi47500/out-of-home-face) : Quand un visage est placardé partout en ville, et qu'on cherche à postuler pour se rapprocher de cette mystérieuse affiche.
-* [out-of-home-chat](https://github.com/maridasi47500/out-of-home-chat) : Messagerie décentralisée pour communiquer lors de sessions d'exploration urbaine.
-* [out-of-home-disco](https://github.com/maridasi47500/out-of-home-disco) : Cartographie nocturne des clubs et événements éphémères dans l'espace public.
-* [city-out-of-home](https://github.com/maridasi47500/city-out-of-home) : Analyse des flux urbains et des panneaux d'affichage des grandes métropoles.
-* [dusk-till-dawn](https://github.com/maridasi47500/dusk-till-dawn) : Routine automatisée pour mon assistant domotique qui allume une lampe au matin pour m'ordonner de partir à l'aventure entre l'aube et le crépuscule. *I want to be indie, I want to be cool.*
-* [out-of-the-morning-adventure](https://github.com/maridasi47500/out-of-the-morning-adventure) : Scripts d'automatisation pour les départs matinaux précipités en voyage.
-* [from-dusk-till-dawn-dev-session](https://github.com/maridasi47500/from-dusk-till-dawn-dev-session) : Journal de bord de mes sessions nocturnes intenses de développement.
-* [dusk-till-dawn-out-of-home](https://github.com/maridasi47500/dusk-till-dawn-out-of-home) : Jonction entre la vie nocturne et les affichages urbains clandestins.
-* [go-for-adventure](https://github.com/maridasi47500/go-for-adventure) : Le déclencheur logiciel pour tout quitter et partir explorer l'inconnu.
-* [assistant-global-didactic](https://github.com/maridasi47500/assistant-global-didactic) : Mon guide de voyage indispensable au début, quand je n'étais pas à l'aise avec les langues étrangères, les transports et la recherche de logements.
-* [voyageur-nouveau-pays](https://github.com/maridasi47500/voyageur-nouveau-pays) : Suivi administratif et carnet de bord de mes arrivées dans de nouvelles contrées.
-* [info-country](https://github.com/maridasi47500/info-country) : Collecte d'informations géopolitiques et régionales pour implanter une nouvelle entreprise ou une boutique locale.
-* [subway-posts](https://github.com/maridasi47500/subway-posts) : Réseau social asynchrone basé sur les stations de métro traversées.
-* [tour-adventures](https://github.com/maridasi47500/tour-adventures) : Au début, chercher un musicien d'un autre pays avec un autre instrument pour organiser un concert commun dans la même ville et remplir mon journal.
+
+
+### 🏃‍♂️ Premiers entraînements et observation du monde
+
+* **`gendarmes`** : Le personnage principal y passe un test initial pour devenir gendarme.
+
+
+* **`bats-contre-le-jeu`** : Permet de faire du sport en publiant les règles d'un jeu choisi avant de déclarer comment on a gagné dans sa ville.
+
+
+* **`That basketball kid`** : Source d'inspiration basée sur des citations sportives.
+
+
+* **`web-crawler`** : Un robot d'indexation créé dès le départ, doté de données de navigation reflétant des goûts musicaux et des hobbies.
+
+
+* **`make-up-artist`** : Agit comme une "voyante Airbnb" pour prédire l'avenir au tout début du parcours.
+
+
+* **`time-travel-stack-explorer`**, **`timestamp-oracle`**, **`chrono-code-editor`**, **`computing-machine-ai-choreography`** & **`conversation-synthetique`** : Des outils abordés au moment où l'on ignore encore quel oracle utiliser ou quelle conversation mener.
+
+
 
 ---
 
-## 🎸 Étape 5 : La Vie de Musicienne en Tournée (The Backstage Road-Struggle)
+## 🏙️ Phase 2 : La Sortie — L'Expérience "Out of Home" et le Voyage
 
-La réalité de la musique n'est pas toujours faite de strass et de paillettes. C'est l'histoire de la route, des petits bars et de la solidarité.
+Quitter son chez-soi marque l'immersion dans l'espace urbain et le déploiement des interfaces de mobilité.
 
-* [road-struggle-story](https://github.com/maridasi47500/road-struggle-story) : L'aventure de notre groupe *"Classical Pop Buddies"*. 3 ou 4 amis dans un van pourri, jouant dans des festivals minuscules ou des gymnases, partageant l'épuisement, l'espoir et les galères des coulisses.
-* [behind-scenes](https://github.com/maridasi47500/behind-scenes) : Les secrets techniques et logistiques d'une tournée auto-produite.
-* [backstage-on-stage-tour](https://github.com/maridasi47500/backstage-on-stage-tour) : Organisation des concerts par ville, avec listes de compositeurs réels et de faux noms d'artistes pour la scène.
-* [lets-talk-music](https://github.com/maridasi47500/lets-talk-music) : Espace d'échange et de débats passionnés sur la théorie musicale et l'évolution de la pop.
-* [violin-study](https://github.com/maridasi47500/violin-study) : Lecture à vue, interprétation des parties de violon, résonance de l'instrument et expression des sentiments profonds.
-* [violin-study](https://github.com/maridasi47500/violin-study) *(Note: présent deux fois dans l'organisation de mes études).*
-* [stage-score](https://github.com/maridasi47500/stage-score) : Génération et compilation de partitions musicales complexes à partir de modèles grâce à *LilyPond*.
-* [automatic-score-adventure](https://github.com/maridasi47500/automatic-score-adventure) : Outil pour générer une partition automatique colorée de ma ville avant de partir à l'aventure sur les routes.
-* [score-live-concerto](https://github.com/maridasi47500/score-live-concerto) : Un projet un peu fou pour modifier une partition en temps réel ("hacker le score") tout en écoutant un concerto.
-* [diapason-crystal](https://github.com/maridasi47500/diapason-crystal) : Outil d'accordage de précision et d'analyse des fréquences pures.
-* [in-tune](https://github.com/maridasi47500/in-tune) : Vérificateur d'harmonie vocale et instrumentale pour les répétitions du groupe.
-* [music-phrase](https://github.com/maridasi47500/music-phrase) : Dictionnaire de motifs mélodiques réutilisables en improvisation.
-* [pop-classics](https://github.com/maridasi47500/pop-classics) : Répertoire de morceaux classiques revisités à la sauce pop.
-* [pop-classic-factory](https://github.com/maridasi47500/pop-classic-factory) : Studio d'usinage et d'arrangement de boucles audio hybrides.
-* [mme-m-classical-pop](https://github.com/maridasi47500/mme-m-classical-pop) : Les compositions originales combinant rigueur classique et efficacité pop.
-* [miniature-musicien](https://github.com/maridasi47500/miniature-musicien) : Portraits et fiches d'identité des grands musiciens qui m'inspirent au quotidien.
-* [republic-of-music](https://github.com/maridasi47500/republic-of-music) : Mon utopie : un territoire sans frontières où les notes remplacent les lois, et où chaque battement de cœur est un hymne national.
-* [republic-of-music](https://github.com/maridasi47500/republic-of-music) *(Note: l'hymne de notre communauté d'artistes).*
-* [tournee-coeur-ouvert](https://github.com/maridasi47500/tournee-coeur-ouvert) : L'histoire d'un compositeur et d'une compositrice classique qui emmènent le public en tournée pour lui tirailler le cœur jusqu'à ce qu'il vibre pour la musique.
-* [global-prestige-tour](https://github.com/maridasi47500/global-prestige-tour) : Le rêve secret d'une grande tournée internationale planifiée par algorithme.
-* [world-class-performers](https://github.com/maridasi47500/world-class-performers) : Base de données des plus grands virtuoses et de leurs techniques d'exécution.
-* [supreme-symphony](https://github.com/maridasi47500/supreme-symphony) : Inspiré par les *Clean Bandits*, où les utilisateurs connectés par smartphone forment un orchestre numérique. Chaque requête HTTP devient une note de la symphonie collective.
-* [the-world-is-the-scene](https://github.com/maridasi47500/the-world-is-the-scene) : Un projet en Clojure écrit depuis des pièces calmes lors de voyages lumineux. Le développeur y devient un "greffier de la clarté".
-* [street-performing-](https://github.com/maridasi47500/street-performing-) : Gestion de mes spectacles de rue, des emplacements et du contact direct avec les passants.
-* [echo-stage](https://github.com/maridasi47500/echo-stage) : Simulateur d'acoustique et d'effets de retour pour les salles de concert.
-* [score-live-concerto](https://github.com/maridasi47500/score-live-concerto) *(Note: monitoring de performances live).*
+> 📢 **Note sur les affichages urbains :** Les affichages "Out of Home" (OOH) sont omniprésents. Ils servent pour les réseaux sociaux, la recherche d'emploi, les concerts ou les sorties en boîte de nuit.
+> 
+> 
 
----
+* **`dusk-till-dawn`** : Routine matinale où l'assistant virtuel allume une lampe pour inciter à partir à l'aventure entre l'aube et le crépuscule.
 
-## 🏛️ Étape 6 : L'Utopie Collaborative et la Vie Initiale (Les Foyers)
 
-Le besoin de se regrouper donne naissance à des concepts de foyers connectés où le code rencontre l'organisation sociale et nationale.
+* **`out-of-home`** : L'instant du départ (*Leaving home*). On y observe les affichages sur les véhicules et les panneaux, on y choisit un faux job et une fausse carte d'identité.
 
-* [symphonie-foyers](https://github.com/maridasi47500/symphonie-foyers) : Expérience collaborative sous Symfony/PHP. Chaque utilisateur est lié à un pays, le code produit alimente la partition nationale, le tout orchestré par un Chef d'Orchestre (équivalent du Bureau Ovale américain au début, ou de la France vers la fin).
-* [ideal-roof](https://github.com/maridasi47500/ideal-roof) : Le projet *"Is This Love"*, une maison virtuelle ouverte (en Rails/Symfony) où l'on partage un toit, un lit, la musique et la chaleur humaine.
-* [heartbreaking-housing](https://github.com/maridasi47500/heartbreaking-housing) : Le concept des habitations *Crevé-Cœur* abritant des métiers humbles (jardinier, boulanger) combiné à un voyage vers le pays imaginaire de la musique en traversant des villes côtières.
-* [symphonie-foyers](https://github.com/maridasi47500/symphonie-foyers) *(Note: l'implémentation serveur de notre architecture sociale).*
-* [hometown-photos](https://github.com/maridasi47500/hometown-photos) : Album souvenir des villes d'origine des membres de notre communauté.
-* [my-albums-photos](https://github.com/maridasi47500/my-albums-photos) : Rangement centralisé de mes clichés de route et d'architecture.
+
+* **`Time travel stack explorer`** : Se place juste avant de passer 24 heures dehors à scruter les messages placardés dans la rue.
+
+
+* **`dusk-till-dawn-out-of-home`** : Un défi de 24 heures (de l'aube au crépuscule) utilisant les transports, le GPS, des tweets et des citations sportives sur fond de trajets vers la disco.
+
+
+* **`out-of-home-face`** : Le visage de quelqu'un est placardé partout ; on cherche à postuler sans savoir s'il s'agit d'un emploi ou d'une recherche de proximité avec l'affiche.
+
+
+* **`assistant-global-didactic`** : Guide de voyage pour l'étranger, indispensable pour gérer le logement et les transports quand on n'est pas à l'aise.
+
+
+* **`tour-adventures`** : Au début, l'utilisateur doit y chercher un musicien d'un autre pays ou jouant d'un autre instrument pour monter un concert dans la même ville, tout en remplissant son journal de bord.
+
+
 
 ---
 
-## 🏢 Étape 7 : L'Univers Amazon, l'Entraînement Fort et le Réseau Rails
+## 🔒 Phase 3 : Technologie, Hacking & Gestion des Données
 
-Parallèlement à la musique, j'ai développé une routine intense inspirée du modèle des Amazones : de la force physique couplée à une discipline d'entraînement de modèles d'IA.
+Une fois sensibilisé aux failles du réseau, l'apprentissage technique se durcit.
 
-* [amazon-academy](https://github.com/maridasi47500/amazon-academy) : Aller à la salle de sport et au centre d'entraînement une fois connectée, pour voyager comme une Amazone.
-* [amazon-ai](https://github.com/maridasi47500/amazon-ai) : Le dépôt d'une femme passionnée par le mouvement et la tech. J'y entraîne mes modèles de neurones artificiels comme j'entraîne mes propres muscles : régularité, intensité, ambition.
-* [amazon-discovery](https://github.com/maridasi47500/amazon-discovery) : Exploration algorithmique de grands volumes de données géographiques.
-* [amazon-trips](https://github.com/maridasi47500/amazon-trips) : Planificateur d'itinéraires extrêmes pour voyages en pleine nature.
-* [amazon-rails-gem](https://github.com/maridasi47500/amazon-rails-gem) : Ma propre extension Ruby on Rails pour interfacer mes applications d'entraînement.
-* [amazon-social-bookmarking](https://github.com/maridasi47500/amazon-social-bookmarking) : Outil de partage de liens d'équipements sportifs et de fiches de nutrition.
-* [amazon-cafe](https://github.com/maridasi47500/amazon-cafe) : Un espace virtuel de discussion pour les passionnés de tech et de fitness.
-* [amazon-tea](https://github.com/maridasi47500/amazon-tea) : Recettes de boissons énergisantes et de plantes pour tenir le rythme des commits.
+### 💻 Hacking et Programmation
 
----
+* **`ai-engineer`** : Propose des exercices pratiques issus du livre *"Python for AI Engineers"* une fois le hacking appréhendé.
 
-## ☕ Étape 8 : L'Ère du "Hacker Café" et des Escapades Ferroviaires
 
-Une transition poétique s'opère où la programmation devient un jeu de rôles amoureux et technique à bord d'un train virtuel.
+* **`madame-http`** : Met en scène une protagoniste maîtrisant les requêtes (404, 500) et comprenant les différences matérielles selon les langages de programmation.
 
-* [hacker-cafe](https://github.com/maridasi47500/hacker-cafe) : Un jeu de rôles MVC où une fille joue le "contrôleur" (Controller de Rails) et un garçon joue la "vue" par la fenêtre. La programmation s'écrit entre le `SELECT` SQL et le `SELECT WHERE NOT`, le garçon s'occupant de voir et la fille de ne pas voir.
-* [the-indie-rails](https://github.com/maridasi47500/the-indie-rails) : Mon framework de prédilection pour monter rapidement des plateformes indépendantes sur les rails.
-* [rails-browser-browse](https://github.com/maridasi47500/rails-browser-browse) : Un mini-navigateur web intégré pour tester le comportement de mes applications web.
-* [rails-migrate-tourist-](https://github.com/maridasi47500/rails-migrate-tourist-) : Automatisation des migrations de bases de données géographiques pour touristes connectés.
-* [commit-rails](https://github.com/maridasi47500/commit-rails) : Mon tableau de bord récapitulant la fréquence de mes déploiements.
-* [ruby-rails-traveler-game](https://github.com/maridasi47500/ruby-rails-traveler-game) : Un jeu textuel d'aventure pour les développeurs nomades.
-* [expert-beginner-way](https://github.com/maridasi47500/expert-beginner-way) : Mon manifeste sur la manière de conserver l'esprit d'un débutant tout en acquérant une expertise avancée.
 
----
+* **`pen-test-python`** : Regroupe des techniques d'intrusion sur Ubuntu via Bluetooth et connexion internet.
 
-## 🤖 Étape 9 : L'Avènement de l'IA, de l'Identité Numérique et des "Alter Egos"
 
-L'intégration de l'intelligence artificielle bouscule ma perception de l'identité, des profils publics et de la création de contenu.
+* **`program-assistant`** : Incarne une développeuse/hacker GitHub exécutant des scripts et des arguments via des routes dédiées.
 
-* [ai-experience-artist-id](https://github.com/maridasi47500/ai-experience-artist-id) : Expériences IA menées par un Joker, participation à une radio locale avec de faux jingles et de fausses identités artistiques créées par IA.
-* [ai-engineer](https://github.com/maridasi47500/ai-engineer) : Mes modèles de deep learning et mes notebooks de recherche.
-* [digital-ai](https://github.com/maridasi47500/digital-ai) : L'automatisation complète de mes flux d'information par des agents intelligents.
-* [my-job-ai](https://github.com/maridasi47500/my-job-ai) : Modèle prédictif pour optimiser mes candidatures et mes tâches quotidiennes.
-* [ai-digital-guide-partying](https://github.com/maridasi47500/ai-digital-guide-partying) : Recommandations algorithmiques pour trouver les meilleures fêtes locales selon l'humeur.
-* [AI-chatbot-experience](https://github.com/maridasi47500/AI-chatbot-experience) : Expérimentations d'agents conversationnels simulant diverses personnalités artistiques.
-* [ai-news](https://github.com/maridasi47500/ai-news) : Agrégateur automatique d'actualités du monde de l'intelligence artificielle.
-* [ai-interpreter-score](https://github.com/maridasi47500/ai-interpreter-score) : Évaluation par vision artificielle de l'exactitude de mes exécutions musicales.
-* [ai-digital-parameter-gps](https://github.com/maridasi47500/ai-digital-parameter-gps) : Couplage de coordonnées géographiques et de variables IA pour adapter le comportement des applications selon le lieu.
-* [celestial-story](https://github.com/maridasi47500/celestial-story) : Création de photos, vidéos et textes assistée par IA pour les créateurs sans code (no-coders).
-* [effective-discover-ai](https://github.com/maridasi47500/effective-discover-ai) : Analyse des fondamentaux pour parfaire sa première phrase musicale ou sa première ligne de code.
-* [that-sportsperson](https://github.com/maridasi47500/that-sportsperson) : Application hybride (galerie, carte interactive, moteur IA) pour se promener dans un carrousel de photos et d'intentions où chaque coordonnée GPS est une histoire.
-* [potential-ai-sportsperson](https://github.com/maridasi47500/potential-ai-sportsperson) : Simulation des capacités physiques et prédictions de performances sportives par IA.
-* [online-who-i-am-ai](https://github.com/maridasi47500/online-who-i-am-ai) : Analyse de ma présence numérique pour dresser mon portrait-robot vu par le web.
-* [digital-id-ai](https://github.com/maridasi47500/digital-id-ai) : Algorithmes de génération d'avatars et de passeports numériques sécurisés.
-* [digital-alter-ego](https://github.com/maridasi47500/digital-alter-ego) : Création d'un double numérique capable de répondre de manière autonome à mes e-mails simples.
-* [conversation-synthetique](https://github.com/maridasi47500/conversation-synthetique) : Génération par IA de formulaires aux tournures très humaines pour collecter des réponses naturelles.
-* [assistant-global-didactic](https://github.com/maridasi47500/assistant-global-didactic) *(Note: double de l'IA de voyage).*
-* [room-based-AI-inventory](https://github.com/maridasi47500/room-based-AI-inventory) : Reconnaissance d'objets en intérieur pour lister automatiquement mon matériel musical.
-* [bulletproof-ai](https://github.com/maridasi47500/bulletproof-ai) : Modèles d'IA robustes face aux attaques par empoisonnement de données.
+
+* **`hacker-cafe`** : Un jeu de rôles de programmation où une fille joue le rôle du *Contrôleur* (MVC/Rails) et un garçon joue la *Vue* par la fenêtre d'un train. La programmation s'articule entre "voir" (le garçon) et "ne pas voir" (la fille, via des requêtes SQL `SELECT WHERE NOT`) pour s'interconnecter à des bornes Wi-Fi à l'aventure.
+
+
+
+### 🛡️ Sécurité, Rumeurs et Identités Alternatives
+
+* **`cyber-security`** : L'expérience de se connecter et de découvrir que l'on est piraté.
+
+
+* **`gossip-security`** : Les rumeurs qui se propagent dans la rue ou au JT si le bureau ovale ou le poste de travail est compromis.
+
+
+* **`make-up-faker`** : L'art de "maquiller" son code HTML/CSS pour se fabriquer une double identité (sur scène ou hors scène).
+
+
+* **`from-5-to-9-security`** : Permet de travailler en cybersécurité si l'on possède une pièce d'identité du Tennessee.
+
+
+* **`postuler-18`** & **`amazon-phising`** : Simulations de phishing par SMS, voix ou e-mail, ciblant notamment d'autres Amazones ou des vœux d'inscription scolaire.
+
+
 
 ---
 
-## 🎭 Étape 10 : Les Verses Multiples, la Romance Cruelle et le Marché aux Puces
+## 🎼 Phase 4 : Musique, Symphonies & Création Collective
 
-Le voyage prend une tournure étrange à la suite d'une anomalie temporelle et spatiale survenue dans une brocante, ouvrant la voie à la République de l'Amour Cruel.
+La technique fusionne avec l'art pour bâtir des communautés musicales interconnectées et des plateformes de diffusion d'envergure.
 
-* [bookish-cruel-love](https://github.com/maridasi47500/bookish-cruel-love) : Notre foyer classique, cherchant le succès, enchaîne les galères financières et amoureuses. Devant un stand de brocante, tout bascule : une vidéo IA liée à un vieil objet ouvre un portail vers un parc d'attractions américain déformé, régi par des influenceurs : la République de l'Amour Cruel. Nourris aux "Restaurants du Cœur", ils considèrent l'amour comme une force brute et utilisent la musique classique pour bousculer les consciences sous l'égide de "Monsieur et Madame Parfait".
-* [my-life-verse](https://github.com/maridasi47500/my-life-verse) : Ma ligne de vie principale avant la rupture des dimensions.
-* [nomad-verse-](https://github.com/maridasi47500/nomad-verse-) : Mon journal de bord à travers les réalités alternatives du nomadisme numérique.
-* [potential-invention-verse](https://github.com/maridasi47500/potential-invention-verse) : Idées de brevets et de technologies fictives découverts dans l'Amour Cruel.
-* [traveler-verse-from-dusk-till-dawn](https://github.com/maridasi47500/traveler-verse-from-dusk-till-dawn) : Script de synchronisation horaire entre les différents univers visités.
-* [post-verse](https://github.com/maridasi47500/post-verse) : Système de publication multi-plateforme à travers les dimensions logicielles.
-* [voyage-application-numerique](https://github.com/maridasi47500/voyage-application-numerique) : J'y explore les mondes numériques en tant que *Verse Traveler* et *Verse Vendor*, vendant mes créations tech pour réduire les dépenses du foyer et financer mes billets de voyage.
-* [flight-at-first-sight](https://github.com/maridasi47500/flight-at-first-sight) : Application sociale-musicale pour voyageurs. Se rencontrer à l'aéroport ou dans le train, participer à des défis de playlists et mettre en avant ses racines musicales familiales.
-* [music-at-first-sight](https://github.com/maridasi47500/music-at-first-sight) : Quand le croisement de deux trajectoires dans un même couloir déclenche des batailles d'eau ludiques ou des événements intenses qui inspirent nos morceaux.
+```
+┌────────────────────────────────────────────────────────┐
+│                   SUPREME SYMPHONY                     │
+│  Les utilisateurs sont des "Clean Bandits"             │
+│  Chaque requête HTTP devient une note de musique       │
+└───────────────────────────┬────────────────────────────┘
+                            │
+                            ▼
+┌────────────────────────────────────────────────────────┐
+│                  SYMPHONIE FOYERS                      │
+│  Arrive vers la fin de l'histoire                      │
+│  Le Chef d'Orchestre lance des consignes et rumeurs    │
+└────────────────────────────────────────────────────────┘
 
----
+```
 
-## 📡 Étape 11 : La Cybersécurité et la Résistance Régionale
+### 🎹 Les Réseaux Symphoniques
 
-Face à la surveillance globale des influenceurs de l'Amour Cruel, il a fallu crypter mes communications et défendre ma zone géographique grâce aux technologies open source.
+* **`supreme-symphony`** : Les utilisateurs y sont désignés comme des "Clean Bandits" (musiciens libres). Connectés par leurs téléphones portables, ils transforment chaque message et requête HTTP en une note d'orchestre numérique.
 
-* [cyber-security](https://github.com/maridasi47500/cyber-security) : Mes notes générales sur la protection des données et le chiffrement symétrique.
-* [cybersecurity-xss](https://github.com/maridasi47500/cybersecurity-xss) : Laboratoire d'analyse et de blocage des failles d'injection de scripts (XSS).
-* [pen-test](https://github.com/maridasi47500/pen-test) : Mes fiches de méthodologie d'audit de sécurité applicative.
-* [pen-test-python](https://github.com/maridasi47500/pen-test-python) : Mes astuces de hacking sur Ubuntu en utilisant le Bluetooth et les vulnérabilités de connexions Internet.
-* [exploit-db](https://github.com/maridasi47500/exploit-db) : Mon miroir personnel de la célèbre base de données de failles de sécurité publiques.
-* [my_tasks](https://github.com/maridasi47500/my_tasks) : Planificateur de tâches pour planifier mes audits de sécurité nocturnes.
-* [from-5-to-9-security](https://github.com/maridasi47500/from-5-to-9-security) : Une doctrine humoristique : si tu possèdes une fausse carte d'identité du Tennessee, tu as toutes tes chances de travailler en cybersécurité de nuit.
-* [gossip-security](https://github.com/maridasi47500/gossip-security) : Scripts Python évaluant l'apparition de rumeurs dans les journaux télévisés suite à un piratage de bureau officiel (ou du Bureau Ovale).
-* [hacked-hacker](https://github.com/maridasi47500/hacked-hacker) : Système de pots de miel (honeypots) pour piéger les attaquants intrusifs.
-* [myspy](https://github.com/maridasi47500/myspy) : Script discret d'alerte en cas de modification de mes fichiers systèmes sensibles.
-* [mycybernews](https://github.com/maridasi47500/mycybernews) : Revue de presse automatisée traitant des grandes cyberattaques mondiales.
-* [hacker-magazine](https://github.com/maridasi47500/hacker-magazine) : Maquette de fanzine papier dédié à la culture underground et au reverse engineering.
-* [chat-hacker-reseau](https://github.com/maridasi47500/chat-hacker-reseau) : Canal IRC sécurisé pour l'échange de signatures cryptographiques.
-* [ink-shell](https://github.com/maridasi47500/ink-shell) : Un shell personnalisé esthétiquement pour masquer mes commandes système sous des motifs d'encre.
-* [cyber-ship](https://github.com/maridasi47500/cyber-ship) : Sécurisation des systèmes de communication à bord des navires et des transports maritimes.
-* [cyber-traveler](https://github.com/maridasi47500/cyber-traveler) : Ma posture de cyber-star logée dans des hôtels VIP, protégeant jalousement mes appareils, mes mots de passe et mon identité numérique.
-* [indie-hacker](https://github.com/maridasi47500/indie-hacker) : Code source de mes micro-saas développés en toute indépendance sans levée de fonds.
-* [starter-pack-ctf](https://github.com/maridasi47500/starter-pack-ctf) : Ma boîte à outils favorite pour remporter les compétitions de Capture The Flag.
-* [mistral-AI-suite](https://github.com/maridasi47500/mistral-AI-suite) : Utilisé au moment de la rébellion régionale. Interface multi-pages (assistant de code, API, authentification sociale, géolocalisation) pour propulser des IA locales spécialisées au service des citoyens.
-* [prompt-ai-region](https://github.com/maridasi47500/prompt-ai-region) : Guide d'ingénierie des requêtes pour forcer l'IA à découvrir et valoriser le patrimoine régional et historique.
 
----
+* **`symphonie-foyers`** : **Arrive vers la fin de l'histoire**. Tout le monde code sous Symfony/PHP. L'activité de chaque foyer alimente la partition d'un pays sous la direction d'un "Chef d'Orchestre" (comparable au bureau ovale américain pour le début de l'histoire, et associé à la France vers la fin).
 
-## 🏙️ Étape 12 : L'Époque Urbaine Finale (La Découverte des Commerces)
 
-L'aventure se stabilise au cœur de la ville où chaque vitrine devient un projet de développement web à double face (front/back).
 
-* [city-street-front-end-back-end](https://github.com/maridasi47500/city-street-front-end-back-end) : Placé vers la fin de mon parcours, ce dépôt marque le moment où nous avons enfin percé le secret technique des magasins et des entreprises de la ville. J'y écris le site vitrine et inspecte l'architecture de chaque commerce.
-* [company-gps](https://github.com/maridasi47500/company-gps) : Système de cartographie pour localiser précisément l'infrastructure réseau des multinationales de la ville.
-* [city-expedition](https://github.com/maridasi47500/city-expedition) : Itinéraires documentés pour l'analyse des systèmes de sécurité physiques des bâtiments urbains.
-* [flag-ship-company](https://github.com/maridasi47500/flag-ship-company) : Étude et modélisation du produit phare ou du bâtiment principal d'une grande corporation locale.
-* [bulletproof-company](https://github.com/maridasi47500/bulletproof-company) : Plan de continuité d'activité et audit de sécurité défensif complet pour les entreprises amies.
-* [bulletproof-apple-company](https://github.com/maridasi47500/bulletproof-apple-company) : Dépôt axé sur la sécurisation et le durcissement des parcs de machines macOS en entreprise.
+### 🎤 Tournées, Rupture et Scène
+
+* **`road-struggle-story`** : Raconte les coulisses difficiles du groupe *"Classical Pop Buddies"*, voyageant de ville en ville à bord d'un van usé.
+
+
+* **`bookish-cruel-love`** : L'histoire d'un foyer classique cherchant le succès à travers les brocantes, basculant via une vidéo IA vers un portail parallèle : la *République de l'Amour Cruel* (influencée par l'esthétique américaine, le sport, la pop et les Restaurants du Cœur).
+
+
+* **`tournee-coeur-ouvert`** : L'aventure de deux compositeurs de musique classique qui emmènent le public en tournée pour tirailler leur cœur jusqu'à ce qu'ils aiment la musique.
+
+
+* **`world-class-performers`** : Plateforme de publication vidéo offrant un contrôle total sur la visibilité et la sécurité des performances à l'échelle mondiale.
+
+
 
 ---
 
-## 🎙️ Étape 13 : Les Médias, le "Giggle Spécial" et la Clôture
+## 🗂️ Répertoire Global des Applications Répertoriées
 
-Le point d'orgue de l'histoire, marqué par la création de médias indépendants, de blagues technologiques et de bilans d'activités à l'étranger.
+| Nom du Dépôt | Descriptif Textuel Exact |
+| --- | --- |
+| **`amazon-academy`** | Se connecter pour aller à la salle de sport (*gym*) et au centre d'entraînement, et voyager comme une Amazone.
 
-* [special-giggle](https://github.com/maridasi47500/special-giggle) : Mon tout dernier dépôt, spécialement dédié aux fous rires, aux mèmes de dev et aux blagues de fin de parcours.
-* [alexa-python-pour-jouer](https://github.com/maridasi47500/alexa-python-pour-jouer) : Une compétence Alexa qui transforme tout ce que j'ai fait en une immense blague, imitant des cris d'animaux ou jouant à la boule de cristal pour s'amuser.
-* [anonymous-job](https://github.com/maridasi47500/anonymous-job) : Mon rêve d'expatriation concrétisé. Une ville à l'étranger où je peux suivre anonymement les chiffres de mon business mois par mois, en envisageant de m'y installer sur le long terme.
-* [my-every-day-life](https://github.com/maridasi47500/my-every-day-life) : Mon journal quotidien centralisé : la musique que je joue, celle que j'écoute, les endroits visités et une collection de photos classées par pays.
-* [hobbies-do-it-yourself](https://github.com/maridasi47500/hobbies-do-it-yourself) : Situé tout près de la fin, quand je ne sais plus exactement ce que j'ai préféré faire et que j'explore différents moyens d'expression créative manuelle.
-* [arts-adventure](https://github.com/maridasi47500/arts-adventure) : Le grand bilan de l'expression artistique avec deux profils types : l'un public montrant sa vraie identité, l'autre ultra-discret utilisant des données artificielles.
-* [network-musician](https://github.com/maridasi47500/network-musician) : Mon profil de synthèse finale : la musicienne naviguant habilement entre deux mondes (l'orchestre classique de chambre et l'orchestration système/DevOps).
-* [legendary-telegram](https://github.com/maridasi47500/legendary-telegram) : L'application finale de communication où l'on se définit un profil social fort en envoyant une vidéo, une image ou une composition légendaire.
-* [celebrity-magazine](https://github.com/maridasi47500/celebrity-magazine) : Revue satirique numérique compilant les rumeurs croustillantes des influenceurs croisés en route.
-* [actor-model-gossip](https://github.com/maridasi47500/actor-model-gossip) : Algorithme d'analyse des tendances et des potins du monde de la mode et du cinéma.
-* [un-interpreter](https://github.com/maridasi47500/un-interpreter) : Un projet Python pour postuler comme interprète officielle aux Nations Unies, adossé à une base de données d'enregistrements sonores multilingues.
-* [radios-tune-in](https://github.com/maridasi47500/radios-tune-in) : Script pour écouter et analyser les flux de radios indépendantes du monde entier.
-* [virtual-tv-show](https://github.com/maridasi47500/virtual-tv-show) : L'application *"Disco City Live"* (en Rails/Chat) simulant une émission télévisée interactive en temps réel avec traduction instantanée des spectateurs.
-* [event-news-blog](https://github.com/maridasi47500/event-news-blog) : Le blog d'actualités récapitulant les temps forts de mes festivals et hackathons.
-* [bullet-blog](https://github.com/maridasi47500/bullet-blog) : Ma plateforme de blogging musical professionnelle et hautement sécurisée.
-* [city-blogger](https://github.com/maridasi47500/city-blogger) : Chroniques régulières sur l'ambiance sonore et architecturale des villes traversées.
-* [ville-news-music-agitee](https://github.com/maridasi47500/ville-news-music-agitee) : Le journal d'information parodique relatant les nuits blanches de notre groupe dans les grandes agglomérations.
-* [bangtan-news](https://github.com/maridasi47500/bangtan-news) : Espace d'information et d'actualités ("bulletproof news") sur mon groupe de musique favori.
-* [bulletproof-pic](https://github.com/maridasi47500/bulletproof-pic) : Outil de téléchargement de photos haute définition et d'articles de presse de mes idoles musicales.
-* [bulletproof-gossip](https://github.com/maridasi47500/bulletproof-gossip) : Système de cryptage de messages pour échanger des secrets d'artistes sans être interceptée.
-* [bulletproof-anonymous](https://github.com/maridasi47500/bulletproof-anonymous) : Mon carnet de bord secret (analogique et numérique) où je compile mes morceaux à travailler, mes sessions d'entraînement et mes astuces de composition.
-* [bulletproof-soldier](https://github.com/maridasi47500/bulletproof-soldier) : Hommage algorithmique à la discipline militaire appliquée à la production musicale.
-* [mon-soldat-pareballe](https://github.com/maridasi47500/mon-soldat-pareballe) : Version francophone de mes scripts de protection et de sauvegarde de mes données.
-* [mon-musicien-pareballe](https://github.com/maridasi47500/mon-musicien-pareballe) : Mon outil ultime de sauvegarde cloud blindée pour protéger l'intégralité de mes fichiers audio `.wav` et `.mp3`.
-* [pare-balles-url](https://github.com/maridasi47500/pare-balles-url) : Un proxy de filtrage web empêchant le tracking de mes activités en tournée.
-* [bulletproof-job](https://github.com/maridasi47500/bulletproof-job) : Automatisation de la sécurisation de mes contrats professionnels d'indépendante.
-* [beyond-practicing-buro](https://github.com/maridasi47500/beyond-practicing-buro) : Scripts VBA et macros Office pour utiliser Word et Excel afin de gérer la logistique administrative, parler de musique et préparer les apparitions sur scène.
-* [trazom-technicien](https://github.com/maridasi47500/trazom-technicien) : Clin d'œil inversé à Mozart. Mes configurations d'ingénieure du son pour purifier les mixages de mes morceaux.
-* [race-pace](https://github.com/maridasi47500/race-pace) : Mon tracker multi-dimensionnel (sport, musique, vie pro) axé sur la régularité, la confiance en soi et la force des images mentales.
-* [performing-arts](https://github.com/maridasi47500/performing-arts) : Un jeu Python addictif conçu pour tester son oreille musicale et reconnaître instantanément le nom d'un morceau classique.
-* [performe-me](https://github.com/maridasi47500/performe-me) : Outil d'analyse statistique de mes performances scéniques et sportives.
-* [globe-trotter-developer](https://github.com/maridasi47500/globe-trotter-developer) : Mon manifeste final de développeuse Ruby on Rails, vivant heureuse entre deux fuseaux horaires, deux commits et une piste cyclable s'enfonçant vers l'inconnu.
+ |
+| **`bookish-engine`** | Permet de publier un post à propos de son premier emploi.
+
+ |
+| **`animated-broccoli`** | Devenir concepteur de sites web (*Website designer*) à l'aide de Python.
+
+ |
+| **`ai-experience-artist-id`** | Expérience IA gérée par un Joker, participation à une radio locale où les jingles et les identifiants d'artistes locaux sont factices.
+
+ |
+| **`new-word`** | Publier des posts sous forme de cartes Bootstrap en écrivant à chaque fois un mot nouveau.
+
+ |
+| **`celestial-story`** | Création multimédia (photo, vidéo, texte, code) assistée par IA pour les non-codeurs (*no-coder*).
+
+ |
+| **`backstage-on-stage-tour`** | Concerts par ville avec des listes de compositeurs et de faux noms d'artistes.
+
+ |
+| **`photo-digital-voyante`** / **`voyante-numerique`** | Voyante numérique en ville (incarnée par Ruby) qui accède aux bases de données, mots de passe et photos pour prédire l'avenir, aider à se coiffer ou préparer des pages HTML.
+
+ |
+| **`rails-region-out-of-home`** | Sélection d'un transport OOH, écoute de radios thématiques (*Job & Hits*), et arrivée d'un bateau de musiciens diffuseurs dans la région.
+
+ |
+| **`cyber-traveler`** | Vie de cyber-star dans un hôtel VIP avec gestion de son identité numérique, de ses terminaux et mots de passe.
+
+ |
+| **`effective-discover-ai`** | Apprentissage des bases fondamentales ("first music phrase", "first line of code") pour s'améliorer.
+
+ |
+| **`networking-network`** | Mise à jour des concepts réseaux (adresses MAC et IP) pour reconstruire son propre réseau de relations.
+
+ |
+| **`flag-ship-company`** | Vitrine mettant en avant le produit, l'idée ou le bâtiment le plus important d'une entreprise.
+
+ |
+| **`score-live-concerto`** | Permet de pirater une partition (*hack score*) pour regarder un concerto.
+
+ |
+| **`stage-score`** | Génération de partitions de musique à partir d'un modèle sous LilyPond.
+
+ |
+| **`python-it-technician`** | Journal de recherche d'emploi en tant que technicienne informatique Python.
+
+ |
+| **`violin-study`** | Lecture à vue, interprétation de pièces de violon, résonance et expression musicale.
+
+ |
+| **`exploit-db`** | Base de données recensant les failles informatiques.
+
+ |
+| **`volunteer`** | Application de bénévolat développée en Python intégrant des publicités.
+
+ |
+| **`that-sportsperson`** | Application hybride (galerie, carte interactive, IA) pour naviguer dans un carrousel de photos et de coordonnées GPS.
+
+ |
+| **`the-world-is-the-scene`** | Projet Clojure élégant conçu dans le calme pour naviguer au sein de la complexité.
+
+ |
+| **`virtual-tv-show`** | *Disco City Live*, une expérience de show télévisé virtuel sur une application de chat Rails avec traduction en temps réel.
+
+ |
+| **`flight-at-first-sight`** | Application socio-musicale pour voyageurs permettant de se rencontrer à l'aéroport ou dans le train et de lancer des défis de playlists.
+
+ |
+| **`ideal-roof`** | Projet *Is This Love* matérialisé par une maison ouverte (Symfony/Rails) où l'on partage un toit, de la chaleur et de la créativité.
+
+ |
+| **`hearbreaking-housing`** | Habitations "Crevé-Cœur" abritant des métiers humbles (jardinier, boulanger) et voyage vers le "pays de la musique" en longeant les ports.
+
+ |
+| **`fantastic-harmonic-logic`** | Étude des connexions entre les paramètres musicaux (BPM, rythme) et les "7 merveilles" de l'esprit (Cœur, Mémoire).
+
+ |
+| **`republic-of-music`** | Territoire sans frontières dirigé de manière bienveillante par les émotions musicales.
+
+ |
+| **`borderless-city`** | Application Rails ancrée dans une ville sans pays, sans murs ni drapeaux.
+
+ |
+| **`musician-mindset`** | Apprentissage du *hacking mindset* combiné à la pratique musicale assistée par IA.
+
+ |
+| **`globe-trotter-developer`** | Carnet de route d'un ingénieur Ruby on Rails voyageant entre deux commits et deux fuseaux horaires.
+
+ |
+| **`music-at-first-sight`** | Déclenchement d'événements (parfois tendres, parfois sous forme de bombes à eau) lorsque deux personnes se croisent sur le même étage.
+
+ |
+| **`potential-artist`** | Partage de musique et voyages à prix réduit en toute liberté.
+
+ |
+| **`amazon-ai`** | Entraînement régulier et ambitieux de modèles d'IA par une femme passionnée de fitness et de technologie.
+
+ |
+| **`automatic-score-adventure`** | Génération de partitions automatiques colorées avant de quitter sa ville pour de nouvelles aventures (ou à son retour de voyage).
+
+ |
+| **`legendary-telegram`** | Envoi initial d'un télégramme légendaire (photo/vidéo) pour essayer de faire croire aux gens ce que l'on est sur les réseaux sociaux.
+
+ |
+| **`python-backend-apply`** | Publication de photos de ses réalisations au sein d'une entreprise ou à l'extérieur.
+
+ |
+| **`info-country`** | Collecte d'informations géographiques et régionales pour lancer un nouveau magasin ou business.
+
+ |
+| **`arts-adventure`** | Dualité entre un profil public affichant sa vraie identité et un profil discret utilisant des données artificielles.
+
+ |
+| **`network-musician`** | Musicien naviguant entre l'orchestre classique et l'orchestration informatique de conteneurs / no-code.
+
+ |
+| **`Boule-de-Crystal`** | Outil récréatif utilisé au retour d'un voyage. Gère des scènes de rôles croisés (ex: Wonder Woman corrigeant son CV dans un café).
+
+ |
+| **`bulletproof-pic`** / **`bangtan-news`** | Téléchargement d'images et actualités pare-balles sur son groupe de musique favori.
+
+ |
+| **`city-street-back-end-front-end`** | Exploration et écriture du code front/back de chaque vitrine et magasin de sa ville.
+
+ |
+| **`languae-html`** | Boutons HTML multicolores affichant du texte dans des langues étrangères.
+
+ |
+| **`performing-arts`** | Jeu Python développé pour reconnaître le titre d'un morceau de musique.
+
+ |
+| **`master-locate`** / **`master-locate-chat`** | Outils de localisation de numéros, accès aux journaux d'appels et hacking de téléphones/tablettes vers le milieu de l'histoire.
+
+ |
+| **`un-interpreter`** | Base de données de type portail d'enregistrement pour devenir interprète aux Nations Unies.
+
+ |
+| **`the-stack-speaks`** | Génération d'une base de données locale régionale d'après un prompt humain.
+
+ |
+| **`chrono-musician-code-adventure`** | CLI et infiltration narrative où l'on choisit son identité (samouraï écrivain ou pirate).
+
+ |
+| **`promenade-stack-selector`** | Sélection interactive de sa stack pour vivre une session "dusk till dawn" en milieu urbain ou naturel.
+
+ |
+| **`from-bash-to-boulevard`** | Collecte nocturne de timestamps et marches diurnes en ville traduites via i18n.
+
+ |
+| **`half-a-medium`** | Visualisation de profils à travers des requêtes SQL ciblées dans des conteneurs sémantiques urbains (sans IA).
+
+ |
+| **`http-party`** | Sélection d'IP pour la création forcée d'un nouveau compte sur un réseau social.
+
+ |
+| **`contest-ai`** | Script Python simulant un faux concours de "Miss AI".
+
+ |
+| **`echo-stage`** | Profils numériques stylisés et décorés inspirés des arts de la scène et propulsés par LLM.
+
+ |
+| **`petit-train-espace`** | Lancement de rumeurs sur ses amis ou ses proches à tout moment.
+
+ |
+| **`cybersecurity-xss`** | Script Python pour insérer des annonces de voitures à vendre compromises par une attaque XSS.
+
+ |
+| **`ink-shell`** | Éditeur Markdown sur navigateur doté d'une simulation de code REPL.
+
+ |
+| **`city-out-of-home`** | Ville virtuelle connectée par des adresses GPS de réseaux-cafés et des publicités de voyages pour les habitants.
+
+ |
+| **`oracle-media`** | Interface de publication sous Ruby on Rails pour diffuser des prédictions et faire des oracles via les réseaux sociaux.
+
+ |
+| **`gem-place-enigma`** | Application Python de suivi, de mesure de distance et de partage de secrets liés à des lieux symboliques.
+
+ |
+| **`from-dusk-till-dawn-dev-session`** | Générateur full-stack transformant un formulaire HTML en script bash d'échafaudage de projet.
+
+ |
+| **`out-of-the-morning-adventure`** | Défi de voyage guidé par la météo et l'IA, axé sur l'amour et l'entraide amicale.
+
+ |
+| **`room-based-AI-inventory`** | Inventaire personnel de base (peigne, miroir, brosse à dents) combiné à des listes de tâches structurées par IA.
+
+ |
+| **`turbo-journey`** | Choix entre un mode Vacances (effets personnels légers) et un mode Programmatique (empreinte numérique culturelle régionale).
+
+ |
+| **`prompt-ai-region`** | Prompts enrichis de données culturelles pour des agents d'accueil virtuels.
+
+ |
+| **`python-tourist-back-end`** | Gestion des secrets des voyageurs selon deux modes : Python (au jour le jour, sauvage) ou Rails (planifié avec réservations).
+
+ |
+| **`online-who-i-am-ai`** / **`my-digitalids`** | Coffre-fort numérique (reconnaissance faciale, passeports, ID homme/femme par pays).
+
+ |
+| **`i18n-fake-sms`** / **`i18n-bookmarking-life`** | Destinés aux utilisateurs majeurs (18+) pour collecter des faux SMS, e-mails, ou bookmarker ses préférences mondiales.
+
+ |
+| **`potential-invention-verse`** / **`post-verse`** | Systèmes de regroupement automatique de posts similaires au sein de collections thématiques nommées "verses" (Web 3.0).
+
+ |
+| **`company-gps`** | Base de données éphémère et unique générée à chaque nouveau billet d'avion acheté.
+
+ |
+| **`disco-tracker`** | Réinvention complète de sa personnalité entre le jour et la nuit (nationalités et plats préférés fluctuants).
+
+ |
+| **`amazon-discovery`** | Opposition entre le tri manuel organique et la découverte de contenus digitaux par IA.
+
+ |
+| **`lets-get-to-know-each-other-upgraded-system`** | **Arrive vers la fin de l'histoire**. Publication de messages informatiques avec des voix d'aliens ou de robots pour faire connaissance.
+
+ |
+| **`city-expedition`** | Expédition urbaine réelle ou numérique ("chouette de nuit" / "oiseau du matin") de l'aube au crépuscule.
+
+ |
+| **`cyber-ship`** | Outil d'évaluation de la solidité numérique face aux risques de publication.
+
+ |
+| **`rails-migrate-tourist-`** / **`ruby-rails-traveler-game`** | Outils de gestion d'itinéraires de voyage (seeds Rails, gestion de l'énergie et des objectifs du voyageur-héros).
+
+ |
+| **`subway-posts`** | Lecture de citations sportives dans le métro en utilisant la gem *Faker* pour usurper une identité.
+
+ |
+| **`little-doll`** | Guide d'intégration régionale pour parfaire ses compétences d'ingénieur social.
+
+ |
+| **`ai-interpreter-score`** | Bibliothèque de partitions musicales lues via une synthèse vocale (*text-to-speech*).
+
+ |
+| **`event-news-blog`** | Planification rythmée par les horaires de trains, scindée entre la gestion des concerts et celle des actualités de voyage.
+
+ |
+| **`amazon-rails-gem`** | Publication de cartes de lieux découverts en voyage, couplée à un VPN, Tor, et un détecteur d'anglais.
+
+ |
+| **`one-million-routes`** | Génération infinie de routes Rails/Python pour stocker des photos ou lier un compte Twitter.
+
+ |
+| **`perform-me`** | Réinvention de son profil en choisit un thème (cuisine, sport, art) pour acquérir du prestige une fois la scène maîptrisée.
+
+ |
+| **`commit-rails`** | Formation informatique consistant à "commiter" sur Git ou répandre des rumeurs quotidiennement comme on posterait sur Facebook.
+
+ |
+| **`bulletproof-gossip`** | Rumeurs de sortie d'un album en France par un groupe mixte différent des Bangtan Boys.
+
+ |
+| **`my-arts`** | Connexion réseau depuis une gare ou un aéroport (*The Glitch Station*) autour de disciplines artistiques (danse, cirque).
+
+ |
+| **`out-of-home-disco`** | Entraînement instrumental domestique (piano) combiné à des sorties en discothèque locale axées cybersécurité.
+
+ |
+| **`amazon-tea`** | Échange asymétrique de photos réelles et truquées (avec ajout automatique de lunettes de soleil) entre un faux employé et un vrai.
+
+ |
+| **`street-performing`** | Flashmobs vidéo et connexion à de faux Wi-Fi d'aéroports pour trouver le partenaire idéal.
+
+ |
+| **`pop-classic-factory`** | Incursion dans les coulisses des émotions (BPM, nuances, expression markings) sur Instagram et Twitter.
+
+ |
+| **`behind-scenes`** | Compte `@weArefakesocialaccount` regroupant faux clips, faux crédits et fausses tournées.
+
+ |
+| **`pop-classics`** | Base de données de compositeurs couplée à la sélection d'un hobby non musical (sciences, vêtements).
+
+ |
+| **`bulletproof-company`** / **`bulletproof-apple-company`** | Modélisation d'entreprises fictives calquées sur l'écosystème Apple.
+
+ |
+| **`align-my-star`** | Recherche d'alignement d'image avec d'autres célébrités du milieu.
+
+ |
+| **`Scoop lingo`** | Outil pour formaliser un changement d'avis concernant ses relations personnelles.
+
+ |
+| **`Network-program-recipes`** / **`Code-cookbook`** | Recueils de scripts réseaux et de recettes de programmation pure.
+
+ |
+| **`Voyageur-nouveau-pays`** | Simulation de compétition et de course de performance entre pays.
+
+ |
+| **`ane-onime-page`** | Compte anonyme Facebook/Twitter utilisant un GPS pour simuler tous les trajets virtuels possibles.
+
+ |
+| **`beyond-practicing-buro`** | Usage de la bureautique (Word, Excel) pour structurer ses performances scéniques publiques.
+
+ |
+| **`master-connecion`** | Programme d'interception et de récupération des données de comptes personnels par localisation.
+
+ |
+| **`cyber-hacker`** | Analyse de sentiment (positif/négatif) sur les commentaires de vidéos.
+
+ |
+| **`bulletproof-anonymous`** | Journal de bord physique (cahier/stylo) pour consigner ses sessions de pratique musicale.
+
+ |
+| **`bullet-blog`** | Blog musical à but professionnel pour documenter son travail.
+
+ |
+| **`Alexa-python-poyr-jouer`** | Révélation que tout ce qui a été fait n'était qu'une blague, un bruit d'animal ou un jeu de divination.
+
+ |
+| **`anonymous-job`** | Idéalisation d'une expatriation pour piloter les chiffres de son entreprise à l'étranger.
+
+ |
+| **`My-every-day-life`** | Dépôt simple centralisant le quotidien : écoute musicale, images par pays et trajets.
+
+ |
+| **`nasa`** | Recherche d'un langage de programmation en adéquation avec les métiers de l'aérospatiale.
+
+ |
 
 ---
 
-## 🛠️ Annexes Techniques de Back-Office
+## 🏁 Phase Finale : Clôture de l'Histoire
 
-Voici les utilitaires de l'ombre, servant à maintenir l'infrastructure globale de mes serveurs, de mes communications et de mes bases de données géolocalisées.
+L'aventure se referme sur une maîtrise complète de l'environnement urbain et un retour aux sources.
 
-* [python-backend-apply](https://github.com/maridasi47500/python-backend-apply) : Backend Python servant à publier en direct les photos de mes activités dans les entreprises ou à l'extérieur.
-* [python-tourist-back-end](https://github.com/maridasi47500/python-tourist-back-end) : API gérant les points d'intérêts et les carnets de bord des voyageurs.
-* [rails-region-out-of-home](https://github.com/maridasi47500/rails-region-out-of-home) : Application publiant sur les ondes de *Radio Job & Hits* ou *Radio Transportation & Hits*. Gère la page "C'est quoi ce hit ?" à l'arrivée d'un bateau de musiciens s'installant dans la région.
-* [master-connection](https://github.com/maridasi47500/master-connection) : Script d'administration système permettant d'auditer la localisation d'un terminal de test et de vérifier la sécurité de ses comptes personnels.
-* [master-locate](https://github.com/maridasi47500/master-locate) : Utilitaire Python interne pour analyser les journaux d'appels d'un numéro de test.
-* [master-locate-chat](https://github.com/maridasi47500/master-locate-chat) : Module de chat couplé au système de géolocalisation pour les équipes sur le terrain.
-* [my-spy](https://github.com/maridasi47500/my-spy) *(Note: doublon de l'utilitaire d'alerte).*
-* [yt-mp3](https://github.com/maridasi47500/yt-mp3) : Script de conversion de flux audio pour récupérer mes propres maquettes publiées en ligne.
-* [cyber-hacker](https://github.com/maridasi47500/cyber-hacker) : Robot d'analyse de sentiments permettant de cartographier automatiquement les commentaires positifs et négatifs sous mes vidéos de concerts.
-* [spoof-messages](https://github.com/maridasi47500/spoof-messages) : Simulateur de SMS pour tester la robustesse de mes passerelles de réception face aux attaques d'usurpation.
-* [i18n-fake-sms](https://github.com/maridasi47500/i18n-fake-sms) : Module d'internationalisation pour valider l'affichage des alertes de sécurité SMS dans toutes les langues.
-* [i18n-bookmarking-life](https://github.com/maridasi47500/i18n-bookmarking-life) : Gestionnaire multilingue de mes favoris web accumulés au fil de mes voyages.
-* [i18n-global-identity](https://github.com/maridasi47500/i18n-global-identity) : Traduction et adaptation culturelle de mes profils numériques internationaux.
-* [my-digitalids](https://github.com/maridasi47500/my-digitalids) : Coffre-fort chiffré stockant mes clés publiques et mes identifiants de test.
-* [behind-the-digital-ids](https://github.com/maridasi47500/behind-the-digital-ids) : Documentation technique expliquant le fonctionnement de l'infrastructure de cryptographie asymétrique de mes projets.
-* [ane-onime-page](https://github.com/maridasi47500/ane-onime-page) : Page web minimaliste et anonyme pour recueillir les avis du public sans traçage de cookies.
-* [choose-my-info](https://github.com/maridasi47500/choose-my-info) : Interface de configuration RGPD permettant aux utilisateurs de choisir quelles données ils acceptent de partager.
-* [choose-your-own-stack](https://github.com/maridasi47500/choose-your-own-stack) : Profils de voyageurs technologiques ayant choisi leur propre stack (comme Lina en React + Flask + SQLite) pour laisser une trace unique dans le monde.
-* [promenade-stack-selector](https://github.com/maridasi47500/promenade-stack-selector) : Outil de recommandation de technologies web selon le type de projet urbain à développer.
-* [the-stacks-speaks](https://github.com/maridasi47500/the-stacks-speaks) : Application générant une base de données locale d'une région géographique donnée à partir d'une simple requête humaine textuelle.
-* [chrono-musician-code-adventure](https://github.com/maridasi47500/chrono-musician-code-adventure) : Chronomètre et gestionnaire de temps pour équilibrer mes heures de pratique instrumentale et de programmation.
-* [chrono-code-editor](https://github.com/maridasi47500/chrono-code-editor) : Extension d'éditeur de code comptabilisant le temps passé à refactoriser des fonctions complexes.
-* [timestamp-oracle](https://github.com/maridasi47500/timestamp-oracle) : Micro-service de certification temporelle immuable pour valider la paternité de mes partitions de musique.
-* [oracle-media](https://github.com/maridasi47500/oracle-media) : Serveur de streaming privé diffusant mes compositions et mes enregistrements de concerts aux membres du foyer.
-* [gem-place-enigma](https://github.com/maridasi47500/gem-place-enigma) : Un algorithme d'énigmes géographiques basé sur des trésors cachés dans le code de mes plugins Ruby.
-* [turbo-journey](https://github.com/maridasi47500/turbo-journey) : Scripts d'optimisation de requêtes réseau pour accélérer mes connexions lors de mes déplacements en train à grande vitesse.
-* [one-million-routes](https://github.com/maridasi47500/one-million-routes) : Moteur de calcul d'itinéraires massifs évaluant toutes les routes et tous les moyens de transport imaginables pour se rendre anonymement à une destination précise.
-* [sturdy-long-haul](https://github.com/maridasi47500/sturdy-long-haul) : Outil de monitoring de charge réseau pour assurer la stabilité de mes serveurs lors des longs trajets transcontinentaux.
-* [from-bash-to-boulevard](https://github.com/maridasi47500/from-bash-to-boulevard) : Ma transition personnelle documentée, expliquant comment je passe des scripts en ligne de commande Bash aux projecteurs des grands boulevards.
-* [soul-fire-electric](https://github.com/maridasi47500/soul-fire-electric) : L'énergie rock et électrique finale injectée dans l'architecture de mes serveurs web.
-* [fantastic-harmonic-logic](https://github.com/maridasi47500/fantastic-harmonic-logic) : Projet d'exploration neuro-musicale connectant les BPM et le rythme aux 7 merveilles de l'esprit, notamment le Cœur et la Mémoire.
-* [computing-machine-ai-choreography](https://github.com/maridasi47500/computing-machine-ai-choreography) : L'apothéose de mon travail : une chorégraphie mathématique orchestrée par les calculs massifs d'une IA, dansant en parfaite harmonie avec les mouvements physiques humains.
-* [voix-premiere](https://github.com/maridasi47500/voix-premiere) : Mon tout premier module de synthèse vocale, bouclant la boucle de la parole, du code et du chant.
-* [voyante-numerique](https://github.com/maridasi47500/voyante-numerique) *(Note: miroir de l'API de prédiction locale).*
-* [celestial-transportation-experience](https://github.com/maridasi47500/celestial-transportation-experience) : Un simulateur poétique de voyage sous les étoiles guidé par la musique.
-* [discover-domain-music](https://github.com/maridasi47500/discover-domain-music) : Outil DNS et d'exploration de noms de domaine dédiés exclusivement aux plateformes musicales indépendantes.
-* [social-media-cook-book](https://github.com/maridasi47500/social-media-cook-book) : Recueil de scripts automatisant mes partages d'arrangements musicaux sur les réseaux sociaux.
-* [social-media-genius](https://github.com/maridasi47500/social-media-genius) : Algorithme prédictif analysant la viralité de mes publications musicales en coulisses.
-* [congenial-social-media](https://github.com/maridasi47500/congenial-social-media) : Un espace communautaire bienveillant exempt d'algorithmes de haine, axé sur l'entraide artistique.
-* [miniature-usa-social-media](https://github.com/maridasi47500/miniature-usa-social-media) : Analyse graphique de l'influence esthétique américaine sur mes réseaux lors de l'épisode de l'Amour Cruel.
-* [legendary-digital-garden](https://github.com/maridasi47500/legendary-digital-garden) : Mon wiki personnel en open-source, mon jardin numérique où toutes ces idées continuent de pousser en harmonie.
-* [social-simulation-lab](https://github.com/maridasi47500/social-simulation-lab) : Mon laboratoire d'expérimentation sociologique et touristique final pour modéliser de futures aventures.
-* [study-tonight](https://github.com/maridasi47500/study-tonight) : Mon gestionnaire de révisions nocturnes pour mes futurs défis, car l'apprentissage ne s'arrête jamais.
-* [volunteer](https://github.com/maridasi47500/volunteer) : Application Python solidaire de diffusion d'annonces bénévoles, ma manière de redonner au monde après ce long et riche voyage.
-* [little-doll](https://github.com/maridasi47500/little-doll) : Mon projet mascotte, un petit automate programmable qui joue mes mélodies préférées sur un carillon miniature.
-* [nasa](https://github.com/maridasi47500/nasa) : Ma recherche d'un langage informatique de pointe en lien direct avec les métiers de l'aérospatiale, pour viser de nouvelles constellations.
-* [align-my-star](https://github.com/maridasi47500/align-my-star) : Script final calculant l'alignement idéal de mes objectifs de vie : le sport, la musique, le code et les voyages.
-* [enjoy-your-day](https://github.com/maridasi47500/enjoy-your-day) : L'ultime script d'accueil qui s'exécute chaque matin à l'ouverture de ma machine, me rappelant simplement de vivre pleinement ma journée.
+* **`The glitch station`** : Ce dépôt apparaît de manière liminale en même temps que les projets d'identité numérique, juste avant un voyage rythmé par les rumeurs sur les réseaux sociaux.
 
----
-*Fait avec passion, beaucoup de lignes de code et quelques notes de violon.*
+
+* **`city-street-front-end-back-end`** : **Se situe vers la fin de l'histoire**, une fois que l'utilisateur a enfin percé le secret technique de l'intégralité des magasins et des entreprises de sa ville.
+
+
+* **`hobbies-do-it-yourself`** : Repositionné vers la fin, ce projet traduit l'indécision finale sur ce qui a été le plus apprécié (tri de fils, mode, photos, jeux vidéo), agissant comme un exutoire pour hacker la ville.
+
+
+* **`enjoy-your-day`** : L'ultime étape invitant à utiliser son Assistant Google une fois la journée pleinement achevée.
+
+
+* **`spécial giggle`** : Défini explicitement comme le **tout dernier repository** de l'écosystème.
