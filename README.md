@@ -24,7 +24,7 @@ apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la 
 
 Tres tot, la Violoniste,mme et me classical pop prennent le bateau ensemble (**one-million-routes**) pour faire connaissance.
 ### Le Réveil des Vocations
-
+ tres tot, **mme classical pop** se revele etre **half-a-medium**.
 Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). Pour garder la forme et affronter le monde, elle se bat contre le jeu (**bats-contre-le-jeu**) et s'inspire de citations de sportifs célèbres (**that-basketball-kid**).
 
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
