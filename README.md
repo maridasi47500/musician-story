@@ -88,6 +88,7 @@ aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu a
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et sen suit une periode difficile.
+mme classical pop decouvre digital content AI discovery vs not A.I. : manual sorting, organic experience, manual search (amazon-discovery)
 au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe syr les reseaux sociaux.
 
 
