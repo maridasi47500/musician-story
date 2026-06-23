@@ -56,6 +56,8 @@ Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracke
 
 ```
 ### Blogueurs en Cavale
+C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante en France, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
+
 
 Ils documentent tout. Via un blog urbain (**city-blogger**), ils écrivent sur leurs instruments et leurs moyens de transport. Ils basculent dans une aventure permanente (**out-of-the-morning-adventure**), guidés par la météo et une IA locale. Ils convertissent leurs maquettes via **yt-mp3** et lancent la **tournee-coeur-ouvert** pour secouer le public jusqu'à ce qu'il aime le classique.
 
@@ -63,6 +65,8 @@ Leur quotidien devient une lutte sur la route (**road-struggle-story**). Les "Cl
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et sen suit une periode difficile.
+
+
 mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
 
@@ -95,7 +99,7 @@ dans le pays de la musique, **mme classical pop** se prépare. Avant de se consa
 
 Ils finissent par basculer dans la **republic-of-music**, un territoire sans frontières géré par les émotions, devenant les tyrans bienveillants des sentiments de leur public. Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique, chaque trajet un raccourci de Apple.
 
-C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
+
 
 ### Les Rumeurs du Bureau Ovale
 
