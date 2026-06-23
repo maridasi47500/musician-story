@@ -76,11 +76,16 @@ Ils documentent tout. Via un blog urbain (**city-blogger**), ils écrivent sur l
 
 Leur quotidien devient une lutte sur la route (**road-struggle-story**). Les "Classical Pop Buddies" et la Violoniste voyagent dans un van délabré, partageant l'épuisement des fins de mois difficiles, adoptant un état d'esprit de hacker-musicien (**musician-mindset**) face aux contrôles douaniers stricts (**musical-border-control**).
 
+### break
+
+la il y a comme un break. la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (quelquun qui nest pas dans lhistoire)). elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement.
+
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et sen suit une periode difficile.
 
 
-mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
+a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
+ mme classical pop cree un amazon cae ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
 
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
@@ -135,5 +140,8 @@ L'histoire se clôture par un retour technologique et politique en France à tra
 À cause de failles de sécurité et de bavardages interceptés (**symphonie-foyers**), des rumeurs massives commencent à enfler dans les rues. Ces bruits de couloir, colportés par le protocole de la symphonie, affirment qu'un album révolutionnaire et secret va détruire les codes de la musique pop. La tension est telle que les murmures quittent les salons de musique pour atterrir directement sur le bureau du Chef de l'État, au sein même du **Bureau Ovale de la République Française** (l'Élysée).
 
 L'histoire s'achève sur un dernier éclat de rire théâtral et ironique de **Mme et Mr Classical Pop** (**special-giggle**), fiers d'avoir transformé l'industrie musicale et la haute diplomatie en leur propre opéra privé. la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis)sont reunis en France.
+
+une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme.
+
 
 ---
