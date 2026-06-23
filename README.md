@@ -36,7 +36,7 @@ De retour en France, la Violoniste,mme et me classical pop se réfugie dans un g
 Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal** explorant les lieux invisibles. 
 >
 > 
-> **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs.
+
 
 ---
 
