@@ -31,7 +31,7 @@ mr classical pop publie dans potential invention verse.
 
 mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, recois/envoie sms/appel telephonique/email de tes bookmarks (moments partagés en photo, art local, repas partagés).
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
-Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie ai-digital-guide-partying.
+Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie ai-digital-guide-partying. ils decouvrent de la musique et set themselves et set path and conbections (life-set)
 
 
 ### Le Grand Domaine
@@ -99,7 +99,7 @@ a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise t
 a l'etranger, mme classical pop conserve ses requetes de recherche sur internet et "fait un tour du monde" sur internet autant quelle voudrait avoir plus dinfluence dans sa region.
 a letranger mme musicienne toent un cookbook de llm ou ai.
 a l'etranger mme classical pop tient un **bullet-blog** public sur la musique, son carnet perso piur la musique (**bulletproof-anonymous**) et une formation de musique (**beyond-practicing-buro**)
-
+a l'etranger , mme classical pop databases qui se crée à chaque billet d'avion , une entreprise differente/un projet different, un base de données entiere differente pour  5 ou 6 billets aller retour.
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
 * Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier.
 * **Mme Classical Pop**, quant à elle, travaille en chœur exclusif avec d'autres artistes féminines, créant une tension compétitive acharnée.
