@@ -15,6 +15,10 @@ L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville 
 
 Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et Mr Classical Pop**. C'est le moment critique du **music-at-first-sight** : la Violoniste, en voyage d'étude, croise **mme et mr** dans le même couloir d'un grand bâtiment américain. Ils se croisent sans se rencontrer vraiment. L'interaction est théâtrale, presque explosive, à coup de bombes à eau lancées de manière espiègle, laissant une empreinte musicale indélébile dans l'esprit de chacun.
 
+
+### premiere arrivee
+
+apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la France, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir.
 ### Le Réveil des Vocations
 
 Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). Pour garder la forme et affronter le monde, elle se bat contre le jeu (**bats-contre-le-jeu**) et s'inspire de citations de sportifs célèbres (**that-basketball-kid**).
