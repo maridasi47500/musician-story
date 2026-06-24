@@ -26,9 +26,14 @@ mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. 
 ### voyage en bateau
 
 Tres tot, la Violoniste,mme et me classical pop prennent le bateau ensemble (**one-million-routes**) pour faire connaissance.
+
+### Le Grand Domaine
+
+De retour en France, la Violoniste,mme et me classical pop se réfugie dans un grand domaine historique (**discover-domain-music**) pour faire connaissance. Muni de lisbtrumebt de musique, ils y découvre les secrets du réseau informatique du lieu, pour pouvoir communiquer entre eux,  explore des partitions complexes et ajuste la tension de leur archet de violon.
+
 ### Le Réveil des Vocations
  tres tot, **mme classical pop** se revele etre **half-a-medium**.
-Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). 
+Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. 
 
 mr classical pop publie les event like concert, mme classical pop publie les news like traveling news, ils prendre le train , seulment pouvoir lire des news d'un concert, participer un concert, avoir un practice time, performance time, lire other news (event-news-blog).
 
@@ -41,22 +46,20 @@ mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, re
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
 un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que ru recherche la celebrite pendant une tournee. mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite.
 
-Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie **ai-digital-guide-partying**. ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
-les musiciens commencent deja a pluvork se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
-
-
-### Le Grand Domaine
-
-De retour en France, la Violoniste,mme et me classical pop se réfugie dans un grand domaine historique (**discover-domain-music**) pour faire connaissance. Muni de lisbtrumebt de musique, ils y découvre les secrets du réseau informatique du lieu, pour pouvoir communiquer entre eux,  explore des partitions complexes et ajuste la tension de leur archet de violon.
-
-**voyageur-nouveau-pays** : mmes et mr classsical pop font un premier voyage en terre inconnue( un pays etranger qui  sappele aussi le pays de l'a musique). Ils trouvent un logement a louer. ils se retrouve la entre plusieurs competitions de musique et de sport. c'est la premiere periode difficile quils ont traverse entre la gestion du foyer, avoir un job, et la competition de sport ou musique de laube au crepuscule.
-
 > **de laube qu crepuscule en France** : de laube au crepuscule en France il a leur a ete confie d'avoir un job de prendre souvent le train, de continuer de decouvrir la musique, de faire des concerts, ou dorganiser des vouages.
 Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal** explorant les lieux invisibles. 
 
 
 
 mme musicien poste sue un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.
+Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie **ai-digital-guide-partying**. ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
+les musiciens commencent deja a pluvork se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
+
+
+
+
+**voyageur-nouveau-pays** : mmes et mr classsical pop font un premier voyage en terre inconnue( un pays etranger qui  sappele aussi le pays de l'a musique). Ils trouvent un logement a louer. ils se retrouve la entre plusieurs competitions de musique et de sport. c'est la premiere periode difficile quils ont traverse entre la gestion du foyer, avoir un job, et la competition de sport ou musique de laube au crepuscule.
+
 
 ---
 
@@ -81,6 +84,7 @@ mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a 
 ```
 ### Blogueurs en Cavale
 
+En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). 
 
 > **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs.
 > 
