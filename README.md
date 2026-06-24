@@ -119,7 +119,7 @@ mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) 
 au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe sur les reseaux sociaux.
 mme classical pop commencer deja outil de simulation d'actualités basé sur l'IA, capable de croiser des données (personnes, lieux, objets) pour générer des scénarios médiatiques et les filtrer finement dans le temps pour deviner ce qui va se passer selon les futur evenements.
 mme classical pop veut se tranforme en sportsperso  , o musician, ou singer on tv, actor model, in hit music, or tv video, that says gossip (actor-model-gossip), mme classical pop selectionne des identites numeriques dans son quartier et envoie un trip digital guide, ou elle jouerait un social facilitator, pour demander a qui sindceit quel voyage font de toi un amazon (qu'as-tu dans tes "trips' (voyages) ou "tripes" (gust)) (amazon-trips).
-
+mme et mr classical pop veulent faire un "portail " de partition ou il ya des repertoires de partitions et ou ils utilisent l'IA pour chercher des partitions facilement.
 a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil. mme classical pop cree une serie fake sms email, postcard, social media acount, letter, etc, in foreign/not foreign language pour de preparer a deranger le quartier (i18n-fake-sms).
 mme musicienne postule pour travailler au pays de la musique (apply-enjoy). 
 
