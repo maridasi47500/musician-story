@@ -16,7 +16,7 @@ tous les posts de reseau sociaux de mme et me classical pop et mme musicienne so
 ### Le Croisement des Destins (USA)
 
 Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et Mr Classical Pop**. C'est le moment critique du **music-at-first-sight** : la Violoniste, en voyage d'étude, croise **mme et mr** dans le même couloir d'un grand bâtiment américain. Ils se croisent sans se rencontrer vraiment. L'interaction est théâtrale, presque explosive, à coup de bombes à eau lancées de manière espiègle, laissant une empreinte musicale indélébile dans l'esprit de chacun.
-
+apres une video de flash mob dans laeroport aux usa, mme musicienne va se connecter au wifi pour trouver the ideal date.
 
 ### premiere arrivee
 
@@ -52,9 +52,16 @@ Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal
 
 
 mme musicien poste sue un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.
-Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie **ai-digital-guide-partying**. ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
+Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. 
+(behind-scenes) mme et mt classical pop publient sur des comptes @weArefakesocialaccount et @we are bulletproof des videos de musique avec des faux credits ou il font la fete.
+mme classical pop raconte qu'elle est agile comme une developpeuse ou qu'elle a du caractere comme le fromage de France ou comme un air de musique.
+mme et mr classical pop publie **ai-digital-guide-partying**. ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
+mme musicienne cherche  comment hacker une voiture electrique, un iphone, video game.
+mme etle classical pop recoivent recoit phising in email, amendes, tous les phisihng, banque, service des impôts, CAF,coordonne bancaire, logo et le nom de cet organisme.
+mme musicienne decide quelle voudrait aller plus tard au pays du coeur, memore ou emotion, behind scenes of dy namics, bpm, rythme, expression markings, sur instagram.
 les musiciens commencent deja a pluvork se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
 mr classical pop cherche a génèrer une "route" (un itinéraire de vie ou de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps)
+on pose un challenge a mme et mr classical pop : challenge en 24h ou de l'aube au crepuscule d'utiliser des transport avec le gps, publier photos , publier des sport quotes, publier des tweet avec le sport hashtag , aller à la disco, travel (disk-till-dawn-out-of-home) 
 
 
 
@@ -89,6 +96,8 @@ mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a 
 En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). 
 
 > **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs.
+>
+> mme musicienne envoie une invitation a mme et mr classical pop : agile developer github, indie developer and musician from dusk till dawn wants to make friends on rails, with voyageur et classical pop musicians on instagram. 
 > dans la gare, mme musicienne fait un tour de cirque comme sur une piste de danse avec sob instrument de musiuqe et sa gideo gagnes de la popularite sur internet.(my-arts)
 >  
 > 
@@ -116,10 +125,14 @@ un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et apres quelque bonne periode , sen suit une periode difficile.
+mme classical pop piurrait essayer de devenir une **woman-in-tech**.
 au debut, mme classical pop propose a qui veut de choisir entre une pop star ou une amie a inviter au pays de la musique, apres quoi une fille peut voyager dans un endroit au choix (en train).( commit-rails)
 
-mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale 
+mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale (learn-how-to-be-a-social-engineer) et commence a sinteresser au sport (sport-competition). elle tient un compte de photos de sport (basketball-team) ou elle publie des photos en train de faire des photos, donner des nouvelles/de modifier une information sur elle, ou de dire bonjour dans une photo.
+
+mme classical reussit deja a postuler avec sa voix, des emails et sms pour un job.
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
+mme classical pop est un "faux employe" au pays de la musique comme on peut pas l'employer si elle peut si bien hacker la musique. Elle est "hacker"de la musique(amazon-tea)
 
 au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe sur les reseaux sociaux.
 mme classical pop commencer deja outil de simulation d'actualités basé sur l'IA, capable de croiser des données (personnes, lieux, objets) pour générer des scénarios médiatiques et les filtrer finement dans le temps pour deviner ce qui va se passer selon les futur evenements.
@@ -131,7 +144,14 @@ mme musicienne postule pour travailler au pays de la musique (apply-enjoy).
 
 
  mme classical pop cree un **amazon-cafe** ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
-À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
+À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique.
+Mme et mr classical pop organise les plus grands concerts de musique pop et classique et salignent avec les plus grandes stars de pop et de classique dans les medias.(align-my-star)
+pendant un voyage dans un autre pays etranger en amerique ou asie dans une grande ville, mme classical pop avait envoye sur mme musicienne un(e) espion (e) (my-spy) pour ne pas perdre de vue mme musicienne.
+
+
+
+
+Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
 a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise tres peu.(**network-program-recipes**)
 a l'etranger, mme classical pop conserve ses requetes de recherche sur internet et "fait un tour du monde" sur internet autant quelle voudrait avoir plus dinfluence dans sa region.
 a letranger mme musicienne toent un cookbook de llm ou ai.
@@ -160,6 +180,8 @@ mme classical pop et la Violoniste devienne des véritable sprinteuse du violon 
 ### L'Usine du Prestige
 
 **Mme et Mr Classical Pop** s'allient à elle sur Rails (**mme-m-classical-pop**). Leurs valises de diplomates contiennent des accessoires connectés mesurés en unités internationales (**travel-job-accessories**). Ils entrent dans la **pop-classic-factory**, gérant des comptes secrets (@weArefakesocialaccount) sous de faux noms pour masquer les coulisses de leur gloire (**behind-scenes**).
+Mme classical pop et mme musicienne commence a se dmander quel sport tu prefere faire , quelle quote preferes tu, à propos d'un sport, quelle quote astu moins de difficulte par rapport à un autre sport/une autre personne à représenter/ à correspondre (sport-job).
+
 
 Partout à l'étranger, le visage de la mme et mr classical pop est placardé sur les murs (**out-of-home-face**). Ils pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de leur instrument (**violin-study**) et inscrivent la violoniste comme interprète aux Nations Unies (**un-interpreter**). Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. 
 dans le pays de la musique, **mme classical pop** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**).
@@ -180,6 +202,9 @@ mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer 
 
 - passee cette periode, un retour en France se fait pour calmer les tensions apres une periode difficile. mme et mr classical pop n'en sont plus a faire valoir leur premier concert ou faire augmenter la celebrite mais on leur a dit de retourner a lecole de musique pour calmer le jeu.
 - mme et mr classical pop essaient encore de gagner de la popularite en France.
+- de plus en plus proche dans la cohabiration avec mme et me classical mme musicienne tient une base de donnes wiht composer, stylle o music, piece title, and album with artist and title of track but she will choose a hobby (science, clothes,)other than music.
+
+- 
 
 ### derniere fois au pays de la musique
 
@@ -196,5 +221,6 @@ L'histoire s'achève sur un dernier éclat de rire théâtral et ironique de **M
 
 une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme.
 cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**)
+**airbnb-network-experience** est une autre capsule ttemporelle. que fais tu si tu sais un peu les mots du reseau, programmation, les scripts reseau et que rien tarrete ?
 
 ---
