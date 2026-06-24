@@ -189,6 +189,9 @@ dans le pays de la musique, **mme classical pop** se prépare. Avant de se consa
 ### La République de l'Amour Cruel
 
 Ils finissent par basculer dans la **republic-of-music**, un territoire sans frontières géré par les émotions, devenant les tyrans bienveillants des sentiments de leur public. Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique, chaque trajet un raccourci de Apple.
+
+mme classical pop emmene mme musicienne au port via un raccourci apple, pour lui montrer un magasin. mme classical pop a beaucoup d' Information about country/regions d'un pays pour commencer un nouveau magasin ou une nouvelle entreprise (info-country)
+
 mme classical pop utilise la master-connection pour localiser un telephone.
 mr classical pop utilise **cyber-hacker** pour savoir si ses videos ont un bon commentaire.
 mme classical pop commence a envoyer des series de **spoof-messages**  et a connaitre de la **physical-security** et de la **cyber-security**. elle poste dans **bulletproof-job**, **hacker-magazine** et **mycybernews**.
