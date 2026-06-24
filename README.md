@@ -54,6 +54,8 @@ Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal
 mme musicien poste sue un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.
 Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie **ai-digital-guide-partying**. ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
 les musiciens commencent deja a pluvork se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
+mr classical pop cherche a génèrer une "route" (un itinéraire de vie ou de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps)
+
 
 
 
@@ -109,10 +111,13 @@ aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu a
 mme et mr classical pop voudraient passer a la tele. ils retournent a la television ou ils font passer mme musicienne en priorite avec eux. aux usa, ils participent a unz ewperience de chat IA iu ils veulent determiner la suite de leurs voyages, si ce sera plus ou moins cool. 
 a letranger, il passent a la tele dans une ville de disco ou est traduit en direct dans un plateau pour en dire plus.
 un developpeur rails montre a mr classical pop comment il peut  chosse his electronic info : sport, activity, outdoors, indoors activity programming, digital ids, video photo, strong password, weak, mudique photos, AI, social media digital ids posted by any 1.
+un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **boulevard de l'amour**.
 
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et apres quelque bonne periode , sen suit une periode difficile.
+au debut, mme classical pop propose a qui veut de choisir entre une pop star ou une amie a inviter au pays de la musique, apres quoi une fille peut voyager dans un endroit au choix (en train).( commit-rails)
+
 mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale 
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
 
