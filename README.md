@@ -22,6 +22,14 @@ apres une video de flash mob dans laeroport aux usa, mme musicienne va se connec
 
 apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la France, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir.
 mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe) et decide de commencer une cohabitation tout de suite pour determiner comment ils peuvent briser la glace plus vite.
+mme classical pop et mr classical pop cherche des future musiciens pour leur pays de la musique, font jouer des gens pour ecouter sils peuvent jouer.
+
+## -
+
+mme musicienne donne  son job, ses travel, ses databse,, id, ses data conversatinos, ses photos, a une voyante qui lit des news about a destination et peut predire l'avenir.
+il y a une radio job & hits, or radio transportation & hits, qui dit en direct qu'un, bateau arrive avec radio broascaster ( qui transporte mme et mr classical pop) , et il y a des grands panneaux d'affichage out of home de l'arrivee. (rails-region-out-of-home)
+
+
 
 ### voyage en bateau
 
@@ -34,6 +42,9 @@ De retour en France, la Violoniste,mme et me classical pop se réfugie dans un g
 ### Le Réveil des Vocations
  tres tot, **mme classical pop** se revele etre **half-a-medium**.
 Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. 
+mme musicienne parle a un developpeur qui lui cobseille d'ecrire une **celestial-story** qui a des photo, video, text, code avec mme et mr classical pop with AI.
+du crepuscule a l'aube , mme et mr classical pop sont livres a eux meme comme sils doivent vivre une aventure et la nuit ils doivent prevenir tous les dangers/ accidents (legendary-telegram) en hackant le systeme.
+
 
 mr classical pop publie les event like concert, mme classical pop publie les news like traveling news, ils prendre le train , seulment pouvoir lire des news d'un concert, participer un concert, avoir un practice time, performance time, lire other news (event-news-blog).
 
@@ -44,7 +55,11 @@ mr classical pop publie dans potential invention verse.
 
 mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, recois/envoie sms/appel telephonique/email de tes bookmarks (moments partagés en photo, art local, repas partagés).
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
-un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que ru recherche la celebrite pendant une tournee. mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite.
+un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que tu recherche la celebrite pendant une tournee. mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite.
+mme musicienne postule au pays de la musique sans savoir ce qu'elle pourra y trouver comme situation (python-baxkend-apply).
+mme et me classical pop flnt un programme a deux : mme classical pop gere la base de donnees comme si elle filtrait les requetes sql comme si elle etait la controleuse du train et  mr classical pop gere ce quon voit sur la page html comme si in rehardait par la fenetre du train.(hacker-cafe)
+
+
 
 > **de laube qu crepuscule en France** : de laube au crepuscule en France il a leur a ete confie d'avoir un job de prendre souvent le train, de continuer de decouvrir la musique, de faire des concerts, ou dorganiser des vouages.
 Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal** explorant les lieux invisibles. 
@@ -98,15 +113,20 @@ mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a 
 En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). 
 
 > **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs.
->
+
+mme et mr classical pop connaisse des **cyber-traveler** : cyber star qui ont data, devices,password, data, conversations, digital identity.
 > mme musicienne envoie une invitation a mme et mr classical pop : agile developer github, indie developer and musician from dusk till dawn wants to make friends on rails, with voyageur et classical pop musicians on instagram. 
-> dans la gare, mme musicienne fait un tour de cirque comme sur une piste de danse avec sob instrument de musiuqe et sa gideo gagnes de la popularite sur internet.(my-arts)
+> dans la gare, mme musicienne fait un tour de cirque comme sur une piste de danse avec son instrument de musiuqe et sa gideo gagnes de la popularite sur internet.(my-arts)
+>
+pour mr classical pop, the most important product, idea, building for a company est son instrument de musique (flag-ship-company).
+mme classical pop sait comment hacket une oartition et regarder un concerto sur une video (score-live-concerto).
 >  
 > 
 > 
 C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante en France, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
 
 **mme et mr classical pop** commencent par sinscrire a lecole de musique locale et diffuser des rumeurs comme quoi apprendre a se connaitre est long parfois. cest leur premiere tentative de se rendre bien sur scene (**performing-arts**, **perform-me**)
+le visage de mme classical pop s'affichhe oartout dans les rues (out-of-home-face)
 
 
 
@@ -129,7 +149,8 @@ un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et apres quelque bonne periode , sen suit une periode difficile.
 mme classical pop piurrait essayer de devenir une **woman-in-tech**.
 au debut, mme classical pop propose a qui veut de choisir entre une pop star ou une amie a inviter au pays de la musique, apres quoi une fille peut voyager dans un endroit au choix (en train).( commit-rails)
-
+mme musicienne pourrait s'appeler **madame-http**, elle connait les request 404, 500, etc, et les programming langages differences (les langages informatique utilisent des composants materiels differents).
+mme classical pop collectionne les articles de musique tendances (bookish-trend-music-article)
 mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale (learn-how-to-be-a-social-engineer) et commence a sinteresser au sport (sport-competition). elle tient un compte de photos de sport (basketball-team) ou elle publie des photos en train de faire des photos, donner des nouvelles/de modifier une information sur elle, ou de dire bonjour dans une photo.
 
 mme classical reussit deja a postuler avec sa voix, des emails et sms pour un job.
