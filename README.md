@@ -23,17 +23,23 @@ apres une video de flash mob dans laeroport aux usa, mme musicienne va se connec
 apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la France, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir.
 mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe) et decide de commencer une cohabitation tout de suite pour determiner comment ils peuvent briser la glace plus vite.
 mme classical pop et mr classical pop cherche des future musiciens pour leur pays de la musique, font jouer des gens pour ecouter sils peuvent jouer.
+mme musicienne veut decouvrir le back-end ou frobt-end de sa ville (city-street-front-end-back-end)
+
 
 ## -
 
 mme musicienne donne  son job, ses travel, ses databse,, id, ses data conversatinos, ses photos, a une voyante qui lit des news about a destination et peut predire l'avenir.
 il y a une radio job & hits, or radio transportation & hits, qui dit en direct qu'un, bateau arrive avec radio broascaster ( qui transporte mme et mr classical pop) , et il y a des grands panneaux d'affichage out of home de l'arrivee. (rails-region-out-of-home)
-
+mme musicienne cree une voyante numerique qui t’accompagne dans ta journée, te guide dans une ville choisie par l’intelligence artificielle, t’aide à te coiffer, te préparer (voyante-numerique).
 
 
 ### voyage en bateau
 
 Tres tot, la Violoniste,mme et me classical pop prennent le bateau ensemble (**one-million-routes**) pour faire connaissance.
+en voyage, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab)
+mme et mr classical pop et mme musicienne ont 2 mode dexister en ligne
+un profil visible, qui s’exprime ouvertement et montre sa vraie identité (mme et m classical pop), un profil discret, qui limite fortement son exposition et utilise parfois des informations artificielles (mme musicienne). ils veulent ecjanger lzurs points de vue (arts-adventure)
+
 
 ### Le Grand Domaine
 
@@ -57,7 +63,18 @@ mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, re
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
 un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que tu recherche la celebrite pendant une tournee. mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite.
 mme musicienne postule au pays de la musique sans savoir ce qu'elle pourra y trouver comme situation (python-baxkend-apply).
-mme et me classical pop flnt un programme a deux : mme classical pop gere la base de donnees comme si elle filtrait les requetes sql comme si elle etait la controleuse du train et  mr classical pop gere ce quon voit sur la page html comme si in rehardait par la fenetre du train.(hacker-cafe)
+mme et me classical pop font un programme a deux : mme classical pop gere la base de donnees comme si elle filtrait les requetes sql comme si elle etait la controleuse du train et  mr classical pop gere ce quon voit sur la page html comme si in rehardait par la fenetre du train.(hacker-cafe)
+
+mme musicienne publie dans AI tembe :  (time-travel-stack-explorer) : AI Tembe est une application d'assistant vocal intelligent et d'automatisation ultra-personnalisée, fortement ancrée sur l'identité locale et régionale de l'utilisateur.
+mr classical pop cree un alter digital id qui a confidence, focus, etc (ai-digital-id)
+au debut de lexperience, comme portail pour participer a lexperience , uneapplication demande qui je suis ? (identitz numerique) elle fait choisir entre voyageur, avoir un emploi, musixien(ne) ou sportive et remplir des informations pour avoir un pass dans chaque profil et participer a lexperience (go-for-adventure)
+mme et me classical pop font la fete car leur adresse ip est selectionnee (http-party)
+mme classical pop prepare un voyage long courrier robuste (sturdy-long-haul).
+mme musicienne utilise un projet Un projet interactif pour choisir ta propre stack technologique et vivre une session “dusk till dawn” dans un environnement urbain ou naturel  (promenade-stack-selector) et une autre application regional application , application pour une région seulement, qui a un lieu (the-stacks-speaks).
+
+mme et mr classical et mme musicienne participent a Une aventure hybride entre code, musique, sécurité, et narration interactive, où tu incarnes un personnage hors norme dans un univers qui mélange CLI, infiltration créative et exploration des réseaux.
+Tu peux incarner :un samouraï,un écrivain,ou un pirate. L’aventure se joue dans un terminal ou command line, comme une bataille navale en temps réel, où chaque commande est un mouvement, une attaque, une création ou une stratégie.
+mme musicienne utilise l'IA pour creer des conversation-synthetique (I.A. génère des formulaires qui ont l'air humain et récupère les réponses)
 
 
 
@@ -79,9 +96,9 @@ mr classical pop cherche a génèrer une "route" (un itinéraire de voyage) tota
 Dans la ville de départ , il y a des fausses radios où mr classical pop répond aux interviews à la radio, et où il rentre en compétition avec des artistes qui ont un faux Artist ID sur les radios. (ai-experience-artist-id)
 Mme classical pop est **half-a-medium** , elle visualise beaucoup de gens et des informations sur les gens la nuit, et connait un grand réseau de gens pour savoir qui fait quoi, qui parle à qui.
 on pose un challenge a mme et mr classical pop : challenge en 24h ou de l'aube au crepuscule d'utiliser des transport avec le gps, publier photos , publier des sport quotes, publier des tweet avec le sport hashtag , aller à la disco, travel (disk-till-dawn-out-of-home) 
-
-
-
+mme et m classical pop ou mme musicienne publish whatever , choose your stack These travelers have chosen their own stack — front-end, back-end, database — and used it to speak, wander, and leave traces (choose-your-own-stack)
+mme musiciennea un projet  d'application numerique Tu es un verse traveler et verse vendor : tu explores les mondes numériques tout en partageant et vendant tes créations. Ton objectif ? réduire les dépenses du foyer (voyage-application-numerique)
+Mme musicienne veut creer An experimental fusion app for self-setting, exploration, and identity—beyond boundaries and beyond labels. 🧭 About the Project i18n Global Identity is not a social app, not a language tool (i18n-global-identity) et voix-premiere (Une application qui commence par toi Langue principale : Celle que tu parles naturellement Framework : Clojure (Ring + Reagent) Origine : De toi, pour toi).
 
 
 **voyageur-nouveau-pays** : mmes et mr classsical pop font un premier voyage en terre inconnue( un pays etranger qui  sappele aussi le pays de l'a musique). Ils trouvent un logement a louer. ils se retrouve la entre plusieurs competitions de musique et de sport. c'est la premiere periode difficile quils ont traverse entre la gestion du foyer, avoir un job, et la competition de sport ou musique de laube au crepuscule.
@@ -118,6 +135,9 @@ mme et mr classical pop connaisse des **cyber-traveler** : cyber star qui ont da
 > mme musicienne envoie une invitation a mme et mr classical pop : agile developer github, indie developer and musician from dusk till dawn wants to make friends on rails, with voyageur et classical pop musicians on instagram. 
 > dans la gare, mme musicienne fait un tour de cirque comme sur une piste de danse avec son instrument de musiuqe et sa gideo gagnes de la popularite sur internet.(my-arts)
 >
+> mme musicienne veut faire choreography in AI : il y a une choreography d'IA. (l'IA qui fait beaucoup de calculs) et une choreography d'humain. (computing-machine-ai-choreography)
+> 
+>
 pour mr classical pop, the most important product, idea, building for a company est son instrument de musique (flag-ship-company).
 mme classical pop sait comment hacket une oartition et regarder un concerto sur une video (score-live-concerto).
 >  
@@ -142,7 +162,8 @@ aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu a
 mme et mr classical pop voudraient passer a la tele. ils retournent a la television ou ils font passer mme musicienne en priorite avec eux. aux usa, ils participent a unz ewperience de chat IA iu ils veulent determiner la suite de leurs voyages, si ce sera plus ou moins cool. 
 a letranger, il passent a la tele dans une ville de disco ou est traduit en direct dans un plateau pour en dire plus.
 un developpeur rails montre a mr classical pop comment il peut  chosse his electronic info : sport, activity, outdoors, indoors activity programming, digital ids, video photo, strong password, weak, mudique photos, AI, social media digital ids posted by any 1.
-un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **boulevard de l'amour**.
+un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **boulevard de l'amour** (from-bash-to-boulevard)
+
 
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
@@ -152,6 +173,24 @@ au debut, mme classical pop propose a qui veut de choisir entre une pop star ou 
 mme musicienne pourrait s'appeler **madame-http**, elle connait les request 404, 500, etc, et les programming langages differences (les langages informatique utilisent des composants materiels differents).
 mme classical pop collectionne les articles de musique tendances (bookish-trend-music-article)
 mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale (learn-how-to-be-a-social-engineer) et commence a sinteresser au sport (sport-competition). elle tient un compte de photos de sport (basketball-team) ou elle publie des photos en train de faire des photos, donner des nouvelles/de modifier une information sur elle, ou de dire bonjour dans une photo.
+mme et mr classical pop utilisent World Class Performance est une plateforme révolutionnaire permettant aux artistes, groupes et équipes musicales de publier leurs performances vidéo avec un contrôle total sur leur visibilité (world-class-performers)
+ils veulent aussi utiliser assistant global connecté : Un assistant intelligent en mode interprète, capable de traduire en temps réel, suivre les informations mondiales, gérer les publications (assistant-global-didactic)
+trouver la ou habiter, etc.
+
+
+mme musicienne poste des photo du pays de la musique dans hometown-photos.
+au pays de la musique, tout se transforme comme si tous les cafes etaient de la musique country des usa, les sports etaient des sports aux usa.
+
+mme classical pop cree une bulletproof-company, une entreprise pare balles : application web servant de portail ou de profil d'employé pour une entreprise fictive.
+mme classical pop ajouter des voitures à vendre et ajouter une xss attack dans l'annonce (cybersecurity-xss), fais Test intrusion python (serveur python) , ecrit Mes hacker tricks sur Ubuntu avec le bluetooth et la connexion internet (pen-test-python) et repand des rumeurs (elle hacke dans leur bureai des gens et repand des rumeurs dans la rue au journal tele).
+mme musicienne qui va a son job de 9 a 5 parle de la cybersecurite (from-9-to-5-security) dans ses emails, a la banque.
+mr classical pop cherche des maisons comme a beverly hills en france (beverly-hills).
+mme classical pop veut participer au concours de generated fake miss AI avec sa photo et des generations par l'IA (contest-ai) et sinspire de echo-stage : EchoStage is a creative framework for building expressive digital profiles—whether real, fictional, or somewhere in between. Inspired by the aesthetics of performing arts, EchoStage lets anyone publish a person that’s decorated, stylized, and powered by LLM-generated data.
+
+
+
+mme musicienne commence a ecrire bangtan news er bulletproof-pi ce, le blog dune groupe de musique.
+
 
 mme classical reussit deja a postuler avec sa voix, des emails et sms pour un job.
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
@@ -239,6 +278,9 @@ mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer 
 
 - il reste une derniere fois ou mme et mr classical pop, et la 3e musicienn est allee au pays de la musique. Cetait pour dire quelle nirait plus au meme cafes, parc, ou endroits publics avec autant de paparazzis.
 mme etmr classical pop sont toujours de touriste qui ont un gps, photo appareil, microphone, qui peuvent send email, faire des photos de ton village,  prends le velo ou voiure, mais il s detruisent toute leur donnees de voyage.
+  (commit-rails)
+
+  mme et mr classical pop sont devenus des musicien qui navigue entre 2 mondes : la musique (orchestre, musique de chambre, concerto, performance), le réseau et l’informatique (orchestration de conteneurs (network-musician)
   
 ###  Les Rumeurs du Bureau Ovale Francais
 
