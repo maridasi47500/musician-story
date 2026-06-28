@@ -424,11 +424,11 @@ L'histoire s'achève sur  **Mme et Mr Classical Pop** (**special-giggle**), fier
 une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme. le programme dit une blague, fait le bruit d'un animal et joue à la boule de brystal.
 mme musicienne sent que The World Is the Scene (the-world-is-the-scene) pendant un sejour lumineux sans soucis.
 
-mme musicienne vit sous le toit ideal (ideal-roof) un toit damour, dansune ville ouverte. pas de pression, il y a de la musique et de l'amour sous ce toit. 
+mme musicienne vit sous le toit ideal (ideal-roof) un toit damour, dansune ville ouverte. pas de pression, il y a de la musique et de l'amour sous ce toit (is this love that im feeling)
 
-Le jour, la ville s’étend comme un monde sans limites. Il n’y a pas de pays, pas de barrières, pas de lignes imaginaires. Juste des rues, des places, des gens, des histoires. (borderless-city)
+Le jour, la ville s’étend comme un monde sans limites ou il y a la paix dans sa tete. Il n’y a pas de pays, pas de barrières, pas de lignes imaginaires. Juste des rues, des places, des gens, des histoires. (borderless-city)
 les aventures sontfinies, les reseau sociaux ne sont pas finis , une autre vie est dans leur plan (du social media, mais discret ou absent) (congenial-soxial-media) mme musicienne ne "scanne" pour ne plus apparaitre pareil sur scene, sur les photos, etc.
-
+le futur des reseaux sociau est pour publier seulement de la musique pas sa reputation.
 cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**) (elle laisse dans la capsule, qui elle connait, ou quel est le battement d'aile du papillon)
 **airbnb-network-experience** est une autre capsule ttemporelle. que fais tu si tu sais un peu les mots du reseau, programmation, les scripts reseau et que rien tarrete ?
 mme musicienne programme en ruby le reseau ou des apps web pour mieux partager ses gouts  ( ruby le langage informatique qu'elle vient d'apprendre), pour laisser de meilleures traces futures,  collectionnes des musical labels comme des labels de music videos populaire ou de chansons qui passe à la radio en ce moment dans tes données comme des "gems".(football-team)
