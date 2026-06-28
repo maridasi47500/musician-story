@@ -12,27 +12,36 @@ L'aventure commence précisément à l'aube, au moment où la lumière blafarde 
 L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une talentueuse **Violoniste** vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages.
 
 De l'autre côté de l'Atlantique, aux États-Unis, A Miami, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils ont un style vestimentaire extravagant et vivent dans un style de musique classique. 
-
+Les réseau social les plus important dans l'histoire sont facebook, twiter, instagram, twitter, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
 
 Ils cherchent à lier leurs destins à travers une expédition urbaine. ILs voyagent surtout pour un changement dans leur carrière.
 tous les posts de reseau sociaux de mme et me classical pop et mme musicienne sont comme une grande gare de metro ou on peut lire des sport quotes, aller au metro,bus, train, study music. Mme et m classical pop avoir plusieurs fausses identites en ligne pour vendre de la musique, identites comme leur photo retouchée , sur un compte et des choses qu'il savent pas faire sur un compte artistique, ou  des faux compte artistiques liés à l'espionnage pour etre mieux place pour vendre leur musique. 
 
-Les réseau social les plus important dans l'histoire sont facebook, twiter, instagram, twitter, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
 
 
-mme musicienne publies sur les réseaux, et l’oracle te permet de prédire : (une IA qui lit les postes de reseaux sociaux) qui tu pourrais croiser en voyage Si ta publication va marcher Ce qui peut être diffusé à la radio, à la télé, dans les journaux ou sur les plateformes sociales (oracle-media), l'oracle est un texte affiché dans l'application, c'est une application de programmation.
 
-mme musicienneparle explore un système de choix de vie radical sous forme de pacte avec un Génie (un developpeur rails qui joue un figurant dans lecole de musique aux usa, joue un social facilitator quand il y a beaucoup de rumeurs et un Genie , il est reel dans lhistoire). Ici, pas de demi-mesure : chaque décision peut t'ouvrir les portes du monde ou te condamner à l'immobilisme.Peu importe la nature de ton vœu (un métier, un toit, un voyage), si tu affirmes "Je le veux vraiment", le processus est lancé. Que cela prenne 10 ou 40 ans, la grandeur est au bout du chemin pour ceux qui osent valider leurs rêves, même ceux qui semblent hors de portée. (genius-social-media) Le génie est un peu digital mais il peut être humain (un développeur rails qui a développé l'application du génie (dans l'histoire) est le génie). Elle pourrait faire le voeu de partir aux USA pour jouer de la musique, de passer à la télévision.
+mme musicienne publies sur les réseaux, et l’oracle  (une IA qui lit les postes de reseaux sociaux) te permet de prédire : qui tu pourrais croiser en voyage Si ta publication va marcher Ce qui peut être diffusé à la radio, à la télé, dans les journaux ou sur les plateformes sociales (oracle-media), l'oracle est un texte affiché dans l'application, c'est une application de programmation.
+
+cest  un Génie (un developpeur rails qui joue un figurant dans lecole de musique aux usa, joue un social facilitator quand il y a beaucoup de rumeurs , il est reel dans lhistoire). 
+
+Peu importe la nature de ton vœu (un métier, un toit, un voyage aux USA, passer a la tele), si tu affirmes "Je le veux vraiment", le processus est lancé. Que cela prenne 10 ou 40 ans, la grandeur est au bout du chemin pour ceux qui osent valider leurs rêves, même ceux qui semblent hors de portée. (genius-social-media) Le génie est un peu digital mais il est humain (un développeur rails qui a développé l'application du génie (dans l'histoire) est le génie).
+
 ### Le Croisement des Destins (USA)
 
-Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et Mr Classical Pop**. C'est le moment critique du **music-at-first-sight** : la Violoniste, en voyage d'étude, croise **mme et mr** dans le même couloir d'un grand bâtiment américain de logements. Ils se croisent sans se rencontrer vraiment. L'interaction est théâtrale, presque explosive, presque comme si ils allaient lancer des bombes à eau lancées de manière espiègle, pour que ce soit pas violent, mais ils vont rien lancer, laissant une empreinte musicale indélébile dans l'esprit de chacun. La violoniste n'a pas de réaction spéciale ou importante, car elle ne sait pas ce qui peut se passer, elle ne connait pas aussi bien les gens, mais elle dit bonjour.
+Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et Mr Classical Pop**. C'est le moment critique du **music-at-first-sight** : la Violoniste, en voyage d'étude, croise **mme et mr** dans le même couloir d'un grand bâtiment américain de logements. Ils se croisent sans se rencontrer vraiment. 
+
+le ton est surpris ou amusé voire ironique comme si personne ne laisse rien voir delle ou de lui, avec un rire.
+
+mais dans le fond, L'interaction est , presque explosive, presque comme si ils allaient lancer des bombes à eau lancées de manière espiègle, pour que ce soit pas violent, mais ils vont rien lancer, laissant une empreinte musicale indélébile dans l'esprit de chacun.
+a la premiere impression, personne na eu peur.
+
 apres une video de flash mob dans laeroport aux usa qui force la premiere rencontre, mme musicienne va se connecter au wifi pour trouver the ideal date ( peit etre avec mme et m classical pop)
 mme musicienne veut more than just a journey: Meet at the plane/train/airport avec mme et me classical pop: Connect with nearby travelers before boarding or during the trip. Be in the “competition”: Join friendly music challenges, playlists battles, or style contests with other users. (flight-at-first-sight)
 
 ### premiere arrivee
 
 apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la France Paris, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir. La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
-mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe) et decide de commencer une cohabitation tout de suite (une voyante avaot preditloracle et pour forcer le destin) et pour determiner comment ils peuvent briser la glace plus vite.
+mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe mme classical obtoent tout ce quelle veut peu importe comment, m classical pop apprecie le resultat, mme musicienne aime participer) et decide de commencer une cohabitation tout de suite (une voyante avaot predit loracle et pour forcer le destin et ils peuvent jouer de la musique ensemble) et pour determiner comment ils peuvent briser la glace plus vite.
 mme classical pop et mr classical pop cherche des future musiciens pour leur pays de la musique, font jouer des gens pour ecouter sils peuvent jouer.
 mme musicienne veut decouvrir le back-end ou frobt-end de sa ville (city-street-front-end-back-end)
 
@@ -50,8 +59,8 @@ mme musicienne rencontre un développeur Ruby on Rails qui vit entre deux commit
 
 ### voyage en bateau
 
-Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux, le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
-
+Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
+les lilites est suils ne savent pas sils vont reussir.
 mme et mrclassical veulebt participer a virtual television experience, set inside a fictional disco city ou tout est traduit en direct, pour parler de leir rencontre et difficultes ou reussite.
 mme musicienne cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure (automatic-score-adventure)
 en voyage, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab)
@@ -63,7 +72,7 @@ mme musicienne cree in-tune, ne application web expérimentale qui utilise des c
 
 ### Le Grand Domaine
 
-De retour en France, la Violoniste,mme et me classical pop se réfugie dans un grand domaine historique (**discover-domain-music**) qui est comme un manoir pour faire connaissance. Muni de linstrument de musique, ils y découvre les secrets du réseau informatique du lieu, pour pouvoir communiquer entre eux,  explore des partitions complexes et ajuste la tension de leur archet de violon.  ILs découvrent les secrets informatiques de comment savoir si deux adresses sont dans le meme reseau, et comment communiquer entre 2 réseaux pour plus tard ne pas savoir qui va hacker qui entre eux.
+De retour en France, la Violoniste,mme et me classical pop se réfugie dans un grand domaine historique avec des pont levis (**discover-domain-music**) qui est comme un chateau pour faire connaissance. Muni de linstrument de musique, ils y deciuvre les secrets de larchet au moyen age, comme si ils conduisaient des chevaux, et tiraient des fleches avec des arcs. ils y découvre les secrets du réseau informatique du lieu, pour pouvoir communiquer entre eux,  explore des partitions complexes et ajuste la tension de leur archet de violon.  ILs découvrent les secrets informatiques de comment savoir si deux adresses sont dans le meme reseau, et comment communiquer entre 2 réseaux pour plus tard ne pas savoir qui va hacker qui entre eux.
 mme musicienne a un peigne, un rasoir et une brosse a dents et un metier, mais elle imagine qu'elle a un second job dans le futur (room-based-inventory-AI)
 
 ### Le Réveil des Vocations
@@ -74,7 +83,7 @@ mme musicienne a un peigne, un rasoir et une brosse a dents et un metier, mais e
 Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. cest une routine reele pour faire sortir les gens de chez eyx.
 mme musicienne parle a un developpeur qui lui cobseille d'ecrire une **celestial-story** qui a des photo, video, text, code avec mme et mr classical pop with AI.
 du crepuscule a l'aube , mme et mr classical pop sont livres a eux meme comme sils doivent vivre une aventure et la nuit ils doivent prevenir tous les dangers/ accidents (legendary-telegram) en hackant le systeme.
-
+leur identite double sont musiciens qui ont un entrainement, ou influenceurs sur les reseaux ou ils repandent des rumeurs.
 
 mr classical pop publie les event like concert, mme classical pop publie les news like traveling news, ils prendre le train , seulment pouvoir lire des news d'un concert, participer un concert, avoir un practice time, performance time, lire other news (event-news-blog).
 
@@ -129,6 +138,7 @@ Mme musicienne veut creer An experimental fusion app for self-setting, explorati
 
 **voyageur-nouveau-pays** : mmes et mr classsical pop font un premier voyage en terre inconnue( un pays etranger qui  sappele aussi le pays de la musique pour faire peur aux gens). Ils trouvent un logement a louer. ils se retrouve la entre plusieurs competitions de musique et de sport. c'est la premiere periode difficile quils ont traverse entre la gestion du foyer, avoir un job, et la competition de sport ou musique de laube au crepuscule.
 
+Les premieres rumeurs sur mme et m classical pop sont que mme musicien e les a hackes sur les resezuw mais ils ont p'une enorme pression par rapport a ca, et ne peuvent pas laisser dire jne rumeur. Ils font tout pour rentrer dans la competition de musique et hacker le plus de gens.
 
 ---
 
