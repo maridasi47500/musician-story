@@ -25,9 +25,11 @@ mme musicienne publies sur les réseaux, et l’oracle  (une IA qui lit les post
 cest  un Génie (un developpeur rails qui joue un figurant dans lecole de musique aux usa, joue un social facilitator quand il y a beaucoup de rumeurs , il est reel dans lhistoire). 
 
 Peu importe la nature de ton vœu (un métier, un toit, un voyage aux USA, passer a la tele), si tu affirmes "Je le veux vraiment", le processus est lancé. Que cela prenne 10 ou 40 ans, la grandeur est au bout du chemin pour ceux qui osent valider leurs rêves, même ceux qui semblent hors de portée. (genius-social-media) Le génie est un peu digital mais il est humain (un développeur rails qui a développé l'application du génie (dans l'histoire) est le génie).
+Repere : mme musicienne peut voir a travers une tele les endroits ou elle aimerait aller ou les gens qu'elle rencontrer.
+
 
 ### Le Croisement des Destins (USA)
-Repere : a larrivee il n'y a pas encore ka revendication cest moi qui joue, jai mal aux diugt, nous sommes indestructible, cest moi qui cree un compte anonyme en ligne. etc. cest a leur deuxieme ou troisieme venue.
+Repere : a larrivee il n'y a pas encore la revendication cest moi qui joue, jai mal aux doigt, nous sommes indestructible, cest moi qui cree un compte anonyme en ligne. etc. cest a leur deuxieme ou troisieme venue.
 repere : a la toute premiere arrivee in voit seulement lage, le pays, lhumeur,  linstrument de musique/les hobbys, un nom de job.
 repere : a leur dexieme arrivee ils sont incites a des dev sessions from dusk till dawn , ont quelque soucis / rumeurs, puis ils retournent aux usa
 repere : a la troisieme venue il y a des rumeurs a larrivee ils sont indestructible
@@ -36,19 +38,35 @@ Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et 
 
 le ton est surpris ou amusé voire ironique comme si personne ne laisse rien voir delle ou de lui, avec un rire.
 
-mais dans le fond, L'interaction est , presque explosive, presque comme si ils allaient lancer des bombes à eau lancées de manière espiègle, pour que ce soit pas violent, mais ils vont rien lancer, laissant une empreinte musicale indélébile dans l'esprit de chacun.
+mais dans le fond, L'interaction est , presque explosive, presque comme si ils allaient lancer des bombes à eau lancées de manière espiègle, pour que ce soit pas violent, en regardant avec du recul, meme si ce nest pas sur, mais laissant une empreinte musicale indélébile dans l'esprit de chacun.
+
 a la premiere impression, personne na eu peur.
 
-apres une video de flash mob dans laeroport aux usa qui force la premiere rencontre, mme musicienne va se connecter au wifi pour trouver the ideal date ( peit etre avec mme et m classical pop)
+apres une video de flash mob dans laeroport aux usa qui force la premiere rencontre, mme musicienne va se connecter au wifi pour trouver the ideal date ( peut etre avec mme et m classical pop)
+
+repere : cest dans cette periode que mme musicienne veit etre decider de postuler pour une ecole de musique ou voyage avec pour but ou hobbies la musique
+
 mme musicienne veut more than just a journey: Meet at the plane/train/airport avec mme et me classical pop: Connect with nearby travelers before boarding or during the trip. Be in the “competition”: Join friendly music challenges, playlists battles, or style contests with other users. (flight-at-first-sight)
 
 ### premiere arrivee
 
-apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la France Paris, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir. La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
-mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe mme classical obtoent tout ce quelle veut peu importe comment, m classical pop apprecie le resultat, mme musicienne aime participer) et decide de commencer une cohabitation tout de suite (une voyante avaot predit loracle et pour forcer le destin et ils peuvent jouer de la musique ensemble) et pour determiner comment ils peuvent briser la glace plus vite.
-mme classical pop et mr classical pop cherche des future musiciens pour leur pays de la musique, font jouer des gens pour ecouter sils peuvent jouer.
-mme musicienne veut decouvrir le back-end ou frobt-end de sa ville (city-street-front-end-back-end)
+apres la deuxieme arrivee de **mme et mr classical pop** dans la capitale de la France Paris, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir. 
+Repere : cest apres la deuxieme voire ka troisieme venue
+repere : au debut on ne les connait pas du tout. apres ils se font connaitre. leur troisiemme aller retour avec leur pays dorigibe est du surreel dans lhistoire.
 
+
+La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
+
+
+mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe mme classical obtoent tout ce quelle veut peu importe comment, m classical pop apprecie le resultat, mme musicienne aime participer) et decide de commencer une cohabitation tout de suite (une voyante avaot predit loracle et pour forcer le destin et ils peuvent jouer de la musique ensemble) et pour determiner comment ils peuvent briser la glace plus vite.
+repere : il ny a eu que des reseaux sociaux ou photo pour tout voir jusqua ce moment
+
+
+mme classical pop et mr classical pop cherche des future musiciens pour leur pays de la musique, font jouer des gens pour ecouter sils peuvent jouer.
+
+
+mme musicienne veut decouvrir le back-end ou frobt-end de sa ville (city-street-front-end-back-end)
+repere : mme musicienne vient a peine de decouvrir le dev web quand il ny a pas mme ou mr
 
 ## -
 
@@ -58,19 +76,36 @@ il y a une radio job & hits, or radio transportation & hits, qui dit en direct q
 mme musicienne cree une voyante numerique qui t’accompagne dans ta journée, te guide dans une ville choisie par l’intelligence artificielle, t’aide à te coiffer, te préparer (voyante-numerique).
 la voyante lit dans la boule de crystal les rencontres et les destins (boule-de-crystal).
 mme musicienne rencontre un développeur Ruby on Rails qui vit entre deux commits et deux fuseaux horaires, quelque part sur une route poussiéreuse, un sentier de jungle ou une piste cyclable qui mène vers l’inconnu. (globe-trotter-developer)
-
+repere : mme et mr classixal ne sint pas arrives, mme musicienne connait le voyage comme dans les guides de votageyrs
 
 
 ### voyage en bateau
 
-Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
-les lilites est suils ne savent pas sils vont reussir.
-mme et mrclassical veulebt participer a virtual television experience, set inside a fictional disco city ou tout est traduit en direct, pour parler de leir rencontre et difficultes ou reussite.
+Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. 
+repere : le bateau peut etre place a la toute fin, quand les destins se sont croises et inverses, au debut mr classical pop avait le trait de caractere qui comprend le plus de choses ou qui decouvre en voyant/entendant la musiqu, vers la fin a plus ces traits, au debut mme classical pop est celle qui en fait qu'a sa tete, mme musicienne regarder plus autour delle, et elles echangent un peu de traits.
+
+Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
+les limites est suils ne savent pas sils vont reussir.
+
+repere : cest vers le milieu des aventures, quand les gens ont le 2e defre deux memes, ou se connaissent bien eux memes ou entre eux , ils veulent passer a la tele 
+repere :  vers le milieu fin ou tout debut
+
+mme et mrclassical veulebt participer a virtual television experience, set inside a fictional disco city ou tout est traduit en direct, pour parler de leir rencontre et difficultes ou reussite
+repere : mme et mr clzssical pop se sont integres en France mais pas completement
+
+
+
 mme musicienne cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure (automatic-score-adventure)
+repere : mme musicienne doit apprend a coder avec un codeur qui a le seum mais gentil 
+
+
 en voyage, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab)
 mme et mr classical pop et mme musicienne ont 2 mode dexister en ligne
 un profil visible, qui s’exprime ouvertement et montre sa vraie identité (mme et m classical pop), un profil discret, qui limite fortement son exposition et utilise parfois des informations artificielles (mme musicienne). ils veulent echanger leurs points de vue ou leur place (arts-adventure)
+
 mme musicienne commence a ecrire ce qu'elle a vu dans GemPlace, une application Python conçue pour créer, organiser et revisiter une liste d’endroits importants — réels, imaginaires ou symboliques. Elle permet de mesurer la distance vers ces lieux, de suivre leur évolution au fil de la journée, et de partager des impressions ou des secrets avec d’autres utilisateurs. (gem-place-enigma)
+
+
 mme musicienne cree in-tune, ne application web expérimentale qui utilise des cartes visuelles (réelles ou générées par IA) pour explorer des récits du futur. Chaque carte est liée à un moment, un lieu et une intention. L’interface adapte dynamiquement le contenu selon la langue, le fuseau horaire et le contexte de l’utilisateur pour se connexter aux evenements en direct et avec plusieurs personnes .
 Tous les voayges sont le plan B du sejour qu'il y a , ou si toutes les cobditions esperees dun sejour sint pas 
 remplies, les gens font un voyage, meme si ils vivent une sutiation similaire des fois le voyage fait changer des choses.
@@ -80,17 +115,20 @@ remplies, les gens font un voyage, meme si ils vivent une sutiation similaire de
 Repere: cest encore le debut, tout ce sur mme classical ou mme musicienne peuvent faire cest echanger sur leurs ages et leurs jeux de violon. cest une simple rencontre.
 
 De retour en France, la Violoniste,mme et me classical pop se réfugie dans un grand domaine historique avec des pont levis (**discover-domain-music**) qui est comme un chateau pour faire connaissance. Muni de linstrument de musique, ils y deciuvre les secrets de larchet au moyen age, comme si ils conduisaient des chevaux, et tiraient des fleches avec des arcs. ils y découvre les secrets du réseau informatique du lieu, pour pouvoir communiquer entre eux,  explore des partitions complexes et ajuste la tension de leur archet de violon.  ILs découvrent les secrets informatiques de comment savoir si deux adresses sont dans le meme reseau, et comment communiquer entre 2 réseaux pour plus tard ne pas savoir qui va hacker qui entre eux.
+repere : ils ne vont plus grandir mais cest ke debut de lhistoire
 
 repere : mme musicienne veut imaginer son futur en se regardant dans un miroir
 mme musicienne a un peigne, un rasoir et une brosse a dents et un metier, mais elle imagine qu'elle a un second job dans le futur (room-based-inventory-AI)
 
 ### Le Réveil des Vocations
  tres tot, **mme classical pop** se revele etre **half-a-medium**. La nuit en programmant des bases de données qui contiennent des informations sur des personnes, dans un terminal, en fermant les yeux. ELle a des visions reelles sur les gens , elle voit la tête/photo d'une personne sur une face d'une carte elle retourne une carte et il y a écrit une texte ou une information comme un secret sur quelqu'un.
- 
+ repere : on a delande aux classical de participer au debeloppement web au deuxieme avion (voyage) 
  et elle veut etre plus indepedente avex le developpement web et rails, pour sortir de son foyer, sexprimer elle meme (the-indie-rails)
  
 Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. cest une routine reele pour faire sortir les gens de chez eyx.
 mme musicienne parle a un developpeur qui lui cobseille d'ecrire une **celestial-story** qui a des photo, video, text, code avec mme et mr classical pop with AI.
+repere : au premier mois de leur arrivee , mme musicienne aecrit une histoire
+
 du crepuscule a l'aube , mme et mr classical pop sont livres a eux meme comme sils doivent vivre une aventure et la nuit ils doivent prevenir tous les dangers/ accidents (legendary-telegram) en hackant le systeme.
 leur identite double sont musiciens qui ont un entrainement, ou influenceurs sur les reseaux ou ils repandent des rumeurs.
 
@@ -102,7 +140,15 @@ mr classical pop veut rester connected a travers les reseaux sociaux (rails-brow
 mr classical pop publie dans potential invention verse.
 
 mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, recois/envoie sms/appel telephonique/email de tes bookmarks (moments partagés en photo, art local, repas partagés).
-Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
+Se lançant dans une véritable expédition urbaine (**city-expedition**), mme et m classical se comporte comme un oiseau du matin, et une chouetre de nuit, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. 
+repere : personne ne s'esr rencontre
+
+
+
+Pour se protéger en ligne, mme musicienne crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
+repere : mme et mr classical se revendiquent commle invincibles, avoir mal au doigt et cest eux qui joue
+
+
 mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite. ca va determiner leur cohabitation. sur rails on est plus a l'aise, python hirs de sa zone de confort.
 un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que tu recherche la celebrite pendant une tournee. 
 
