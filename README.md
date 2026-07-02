@@ -73,25 +73,31 @@ repere : mme musicienne vient a peine de decouvrir le dev web quand il ny a pas 
 mme musicienne donne  son job, ses travel, ses base de donnees de blog ,, id, ses data conversatinos, ses photos, et tiute sa confiance a une voyante qui lit des news about a destination et peut predire l'avenir. La voyante est moderne ou mme musicienne peut choisir une IA si elle préfère. Elle découvre qu'elle va rencontrer Mme et M classical pop, qu'elle va découvrir la vérité, que s'ils prennent l'avion, elle va entendre les news de son pays, et toute une série d'évènements , de périodes difficiles à traverser vont arriver.
 
 il y a une radio job & hits, or radio transportation & hits, qui dit en direct qu'un, bateau arrive avec radio broascaster ( qui transporte mme et mr classical pop) , et il y a des grands panneaux d'affichage out of home de l'arrivee. (rails-region-out-of-home)
+repere : il y a des affiches de concerts, photo de groupes, qui envoie des message que tout va bien , 
+
 mme musicienne cree une voyante numerique qui t’accompagne dans ta journée, te guide dans une ville choisie par l’intelligence artificielle, t’aide à te coiffer, te préparer (voyante-numerique).
 la voyante lit dans la boule de crystal les rencontres et les destins (boule-de-crystal).
+repere : personne ne s'est rencontré
+
 mme musicienne rencontre un développeur Ruby on Rails qui vit entre deux commits et deux fuseaux horaires, quelque part sur une route poussiéreuse, un sentier de jungle ou une piste cyclable qui mène vers l’inconnu. (globe-trotter-developer)
-repere : mme et mr classixal ne sint pas arrives, mme musicienne connait le voyage comme dans les guides de votageyrs
+
+repere : mme et mr classical ne sont pas arrives, mme musicienne connait le voyage comme dans les guides de voyageurs 
+
 
 
 ### voyage en bateau
 
 Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. 
-repere : le bateau peut etre place a la toute fin, quand les destins se sont croises et inverses, au debut mr classical pop avait le trait de caractere qui comprend le plus de choses ou qui decouvre en voyant/entendant la musiqu, vers la fin a plus ces traits, au debut mme classical pop est celle qui en fait qu'a sa tete, mme musicienne regarder plus autour delle, et elles echangent un peu de traits.
+repere : le bateau peut etre place a la toute fin, quand les destins se sont croises et inverses, au debut mr classical pop avait le trait de caractere qui comprend le plus de choses ou qui decouvre en voyant/entendant la musiqu, vers la fin a plus ces traits, au debut mme classical pop est celle qui en fait qu'a sa tete, mme musicienne regarder plus autour delle, et elles echangent un peu de traits de caractere.
 
 Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
 les limites est suils ne savent pas sils vont reussir.
 
-repere : cest vers le milieu des aventures, quand les gens ont le 2e defre deux memes, ou se connaissent bien eux memes ou entre eux , ils veulent passer a la tele 
+repere : cest vers le milieu des aventures ou ca peut etre au tout debut a 18 ans, quand les gens ont le 2e degre deux memes, ou se connaissent bien eux memes ou entre eux , ils veulent passer a la tele 
 repere :  vers le milieu fin ou tout debut
 
-mme et mrclassical veulebt participer a virtual television experience, set inside a fictional disco city ou tout est traduit en direct, pour parler de leir rencontre et difficultes ou reussite
-repere : mme et mr clzssical pop se sont integres en France mais pas completement
+mme et mrclassical veulent participer a virtual television experience, set inside a fictional disco city ou tout est traduit en direct, pour parler de leir rencontre et difficultes ou reussite
+repere : mme et mr classical pop se sont integres en France mais pas completement
 
 
 
@@ -104,10 +110,11 @@ mme et mr classical pop et mme musicienne ont 2 mode dexister en ligne
 un profil visible, qui s’exprime ouvertement et montre sa vraie identité (mme et m classical pop), un profil discret, qui limite fortement son exposition et utilise parfois des informations artificielles (mme musicienne). ils veulent echanger leurs points de vue ou leur place (arts-adventure)
 
 mme musicienne commence a ecrire ce qu'elle a vu dans GemPlace, une application Python conçue pour créer, organiser et revisiter une liste d’endroits importants — réels, imaginaires ou symboliques. Elle permet de mesurer la distance vers ces lieux, de suivre leur évolution au fil de la journée, et de partager des impressions ou des secrets avec d’autres utilisateurs. (gem-place-enigma)
+au fut et a mesure des vols court et long courrier (sturdy-long-haul)
 
 
 mme musicienne cree in-tune, ne application web expérimentale qui utilise des cartes visuelles (réelles ou générées par IA) pour explorer des récits du futur. Chaque carte est liée à un moment, un lieu et une intention. L’interface adapte dynamiquement le contenu selon la langue, le fuseau horaire et le contexte de l’utilisateur pour se connexter aux evenements en direct et avec plusieurs personnes .
-Tous les voayges sont le plan B du sejour qu'il y a , ou si toutes les cobditions esperees dun sejour sint pas 
+Tous les voayges sont le plan B du sejour qu'il y a ( le sejour actuel), ou si toutes les cobditions esperees dun sejour sint pas 
 remplies, les gens font un voyage, meme si ils vivent une sutiation similaire des fois le voyage fait changer des choses.
 
 ### Le Grand Domaine
@@ -129,6 +136,9 @@ Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume 
 mme musicienne parle a un developpeur qui lui cobseille d'ecrire une **celestial-story** qui a des photo, video, text, code avec mme et mr classical pop with AI.
 repere : au premier mois de leur arrivee , mme musicienne aecrit une histoire
 
+sur la route du crepuscule a laube, la question est devse demander : who will rock out the other one out of the morning ? qui va trainer lautre derriere comme un sac au bout dun baton quand on est voyageur (meme si crst gentil)? 
+la fille voit ce quelle veut voir, le garcon voit ie resultat , ensemble ils forment la programmarion du futur. qui voit la grande image ?
+repere : mme et mr classical pop viennent darriver au premier ou 2e avion et se font pas encore connaitre
 du crepuscule a l'aube , mme et mr classical pop sont livres a eux meme comme sils doivent vivre une aventure et la nuit ils doivent prevenir tous les dangers/ accidents (legendary-telegram) en hackant le systeme.
 leur identite double sont musiciens qui ont un entrainement, ou influenceurs sur les reseaux ou ils repandent des rumeurs.
 
@@ -150,8 +160,12 @@ repere : mme et mr classical se revendiquent commle invincibles, avoir mal au do
 
 
 mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite. ca va determiner leur cohabitation. sur rails on est plus a l'aise, python hirs de sa zone de confort.
-un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que tu recherche la celebrite pendant une tournee. 
+repere : mme et mr classical sint eevenus des usa pour la 3e et les modes de survie et les evenements sont surreels
 
+un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que tu recherche la celebrite pendant une tournee. 
+repere : cest le moment ou ils se revendique invincibles, mme musicienne programme au jour le jour pour vivre comme un animal de la nature qui vit au jour le jour
+
+ 
 mme musicienne postule au pays de la musique sans savoir ce qu'elle pourra y trouver comme situation (python-baxkend-apply).
 mme et me classical pop font un programme a deux : mme classical pop gere la base de donnees comme si elle filtrait les requetes sql comme si elle etait la controleuse du train et  mr classical pop gere ce quon voit sur la page html comme si in regardait par la fenetre du train.(hacker-cafe)
 
@@ -177,23 +191,35 @@ mme musicien poste sue un blog comme si elle utilise un practice bullet pen, ell
 Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. 
 (behind-scenes) mme et mt classical pop publient sur des comptes @weArefakesocialaccount et @we are bulletproof des videos de musique avec des faux credits ou il font la fete.
 mme classical pop raconte qu'elle est agile comme une developpeuse ou qu'elle a du caractere comme le fromage de France ou comme un air de musique.
+
+repere : mme classical pop a un caractere de musique comme elle vient du. foyer de musique et se. connecte a dautre foyer.
+
+il y a un detecteur danglais 
+repere : au 2e ou 3e avion cest suand il y a des paparazzis au pied de tin logement le soir des ceremonies
+
 mme et mr classical pop publie **ai-digital-guide-partying**. ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
 mme musicienne cherche  comment hacker une voiture electrique, un iphone, video game.
 mme etle classical pop recoivent recoit phising in email, amendes, tous les phisihng, banque, service des impôts, CAF,coordonne bancaire, logo et le nom de cet organisme.
+
+
 mme musicienne decide quelle voudrait aller plus tard au pays du coeur, memore ou emotion, behind scenes of dy namics, bpm, rythme, expression markings, sur instagram.
-les musiciens commencent deja a pluvork se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
+repere: il y a un moment ou ils partent une fois de la gare , au pays de la musique et la gare ou les passants de la gare sont un reseau social
+
+les musiciens commencent deja a pouvoir se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
 mr classical pop cherche a génèrer une "route" (un itinéraire de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps) .
 Dans la ville de départ , il y a des fausses radios où mr classical pop répond aux interviews à la radio, et où il rentre en compétition avec des artistes qui ont un faux Artist ID sur les radios. (ai-experience-artist-id)
 Mme classical pop est **half-a-medium** , elle visualise beaucoup de gens et des informations sur les gens la nuit, et connait un grand réseau de gens pour savoir qui fait quoi, qui parle à qui.
 on pose un challenge a mme et mr classical pop : challenge en 24h ou de l'aube au crepuscule d'utiliser des transport avec le gps, publier photos , publier des sport quotes, publier des tweet avec le sport hashtag , aller à la disco, travel (disk-till-dawn-out-of-home) 
 mme et m classical pop ou mme musicienne publish whatever , choose your stack These travelers have chosen their own stack — front-end, back-end, database — and used it to speak, wander, and leave traces (choose-your-own-stack)
 mme musiciennea un projet  d'application numerique Tu es un verse traveler et verse vendor : tu explores les mondes numériques tout en partageant et vendant tes créations. Ton objectif ? réduire les dépenses du foyer (voyage-application-numerique)
-Mme musicienne veut creer An experimental fusion app for self-setting, exploration, and identity—beyond boundaries and beyond labels. 🧭 About the Project i18n Global Identity is not a social app, not a language tool (i18n-global-identity) et voix-premiere (Une application qui commence par toi Langue principale : Celle que tu parles naturellement Framework : Clojure (Ring + Reagent) Origine : De toi, pour toi).
+
+
+
 
 
 **voyageur-nouveau-pays** : mmes et mr classsical pop font un premier voyage en terre inconnue( un pays etranger qui  sappele aussi le pays de la musique pour faire peur aux gens). Ils trouvent un logement a louer dans un quartier dune ville dun pays etranger. 
 mais le pays de la musique est sur plusieurs territoires plusieurs quartier de ville et de pays font le pays de la musique avec des gens venis du monde entier. Ils vont au pays de la musique a letranger car il veulent gagner de la popularité et pour leur carriere.
-ce qui devient difficile est quils doivent etre "indestructibles" en musique , ils recoivent plus de pression sur la musique.
+ce qui devient difficile est quils doivent etre "indestructibles" en musique , et qu'ils recoivent plus de pression sur la musique.
 ils se retrouve la entre plusieurs competitions de musique et de sport. c'est la premiere periode difficile quils ont traverse entre la gestion du foyer, avoir un job, et la competition de sport ou musique de laube au crepuscule.
 
 Les premieres rumeurs sur mme et m classical pop sont que mme musicien e les a hackes sur les resezuw mais ils ont p'une enorme pression par rapport a ca, et ne peuvent pas laisser dire jne rumeur. Ils font tout pour rentrer dans la competition de musique et hacker le plus de gens.
