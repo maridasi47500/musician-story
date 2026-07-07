@@ -238,7 +238,7 @@ repere : langlais est la langue des paparazzis ou journalistes qui ecrivent les 
 mme et mr classical pop publie **ai-digital-guide-partying**. 
 
 repere : ils decouvrent de la musique et set themselves et set path and conbections (**life-set**)
-repere: mme musicienne cherche  comment hacker une voiture electrique, un iphone, video game et ils passent leur nuit a la disco au rythhme des hits.
+repere: mme musicienne cherche  comment hacker une voiture electrique, un iphone, video game et cest la periode ou ils passent leur nuit a la disco au rythhme des hits et ou ils sentraident pour rentrer dans leur appartement quand ils sont pas sobre.
 
 
 
