@@ -256,6 +256,7 @@ mr classical pop cherche a génèrer une "route" (un itinéraire de voyage) tota
 Dans la ville de départ , il y a des fausses radios où mr classical pop répond aux interviews à la radio, et où il rentre en compétition avec des artistes qui ont un faux Artist ID sur les radios. (ai-experience-artist-id)
 Mme classical pop est **half-a-medium** , elle visualise beaucoup de gens et des informations sur les gens la nuit, et connait un grand réseau de gens pour savoir qui fait quoi, qui parle à qui.
 on pose un challenge a mme et mr classical pop : challenge en 24h ou de l'aube au crepuscule d'utiliser des transport avec le gps, publier photos , publier des sport quotes, publier des tweet avec le sport hashtag , aller à la disco, travel (disk-till-dawn-out-of-home) 
+
 repere : au 2e episode on donne les missions a mme et mr classsical pop de passer de longues nuit ensemble pour apprendre a se connaitre dans laventure du developpement web
 
 mme et m classical pop ou mme musicienne publish whatever , choose your stack These travelers have chosen their own stack — front-end, back-end, database — and used it to speak, wander, and leave traces (choose-your-own-stack)
@@ -290,11 +291,12 @@ M Classical pop a toujours été fasciné par les systèmes, structures et rése
 Il a rencontré Mme classical pop à l'école.
 Un moment ou leur duo a failli se briser est pour etudier la musique.
 un moment ou leur duo a brillé et quand ils commencent à gagner de la popularité.
-repere : au 3e episode cest le moment ou mle et m classical pop se prepare a devenir des tyran
+repere : au 3e episode cest le moment ou mme et m classical pop se prepare a devenir des tyran
 
 
 
 mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a laube avant de commencer laventure. Ils s'installent d'abord dans des habitations modestes appelées "Crevé-Cœur" (**heartbreaking-housing**). Là, ils côtoient des métiers simples — boulangers, jardiniers, potiers — dont les gestes nourrissent leur inspiration. Le voyage les mène le long des côtes maritimes, intégrant les bruits des vagues et des ports à leurs compositions.
+
 repere : au 2e episode ils cotagent sans accentuer leur reputation ou conflits
 
 
@@ -313,7 +315,7 @@ En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à so
 
 > **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs (train, avion).
 >
-repere : les 3 personnages se preparent a partir dans le 2e epusode, plysieurs depart : depart de la gare, depart dans la rue "out of the morning" a laube, depart de leur chambre en voiture a laube
+repere : les 3 personnages se preparent a partir dans le 2e episode, plysieurs depart : depart de la gare, depart dans la rue "out of the morning" a laube, depart de leur chambre en voiture a laube
 >
 Une gare active son plan vigipirate avant de laisser repartir mme m classical pop et mme musicienne ensemble en voyage (legendary-digital-garden, the-glitch-station)
 
@@ -330,10 +332,10 @@ Le Rythme & La Mémoire : La structure répétitive de la musique est le meilleu
 Les Nuances & Le Caractère : La capacité d'un musicien à passer du pianissimo au fortissimo reflète la gestion des émotions et de l'empathie.
 repere : mme classical pop active les merveilles de lesprit comme un tyran au 3e episode quand elle veut faire tout chambouler mais on les connait au 2e epusode
 
-repere : au 2e episode il y a des premonition ( jeux de carte,captations de radio) que la verite nue va exploser dans un concexte de news agite, et que lescevenements peuvent prendre unautre toyrnant avec mme et mr classical pop  sils vuennent en feance poyr diffuser de la musique
+repere : au 2e episode il y a des premonition ( jeux de carte,captations de radio) que la verite nue va exploser dans un contexte de news agite, et que lescevenements peuvent prendre unautre tournant avec mme et mr classical pop  sils viennent en france pour diffuser de la musique
 
 mme et mr classical pop connaisse des **cyber-traveler** : cyber star qui ont data, devices,password, data, conversations, digital identity.
-repere : les cyber traveler sont des agent secretqui les aide a triuver des scenes ou jouer
+repere : les cyber traveler sont des agent secret qui les aide a trouver des scenes ou endroits ou jouer
 
 > mme musicienne envoie une invitation a mme et mr classical pop : agile developer github, indie developer and musician from dusk till dawn wants to make friends on rails, with voyageur et classical pop musicians on instagram.
 repere : mme musicienne envoie une dedicace a mme et mr classical dans le 2e episode
@@ -341,7 +343,7 @@ repere : mme musicienne envoie une dedicace a mme et mr classical dans le 2e epi
 > dans la gare, mme musicienne fait un tour de cirque comme sur une piste de danse avec son instrument de musiuqe et sa gideo gagnes de la popularite sur internet.(my-arts)
 >
 > mme musicienne veut faire choreography in AI : il y a une choreography d'IA. (l'IA qui fait beaucoup de calculs) et une choreography d'humain. (computing-machine-ai-choreography, potential-ai-sportsperson)
-repere : tout se decide dans le 2e eoisode avant de commencer a prendre un lauvais tournant dans le 3e episode
+repere : tout se decide dans le 2e episode avant de commencer a prendre un mauvais tournant dans le 3e episode
 
 
 mme et m classical pop ecrivent dans leur blog appelé Mme et M classical pop une confession cryptée qu'ils deviendront les musiciens indestructible dans la France entiere. ils signent toujours nous sommes des musiciens indestructibles.
@@ -350,13 +352,13 @@ pour échapper à cette surveillance, il publient depuis des lieux improbables (
 repere : cest le debut de hacks et popularite dans le 3e episide
 
 Une identité particulierement etrange est quand mme classical pop a le metier de sportif professionnel /entraineur dans un poste ou elle a postulé
-repere : debit du 3e episode , mme classixal pop se oreoare a devenir un tyran
+repere : debit du 3e episode , mme classixal pop se prepare a devenir un tyran
 
 > 
 
 pour mr classical pop, the most important product, idea, building for a company est son instrument de musique (flag-ship-company).
 mr classical pop sait comment hacket une oartition et regarder un concerto sur une video (score-live-concerto).
-repere : quand mme classical commence a savoir hacker ou etre populaire par elle meme , il faut aue mr classical pop ait dautres occupations
+repere : quand mme classical commence a savoir hacker ou etre populaire par elle meme , il faut que mr classical pop ait dautres occupations
 >  
 > 
 > 
@@ -377,7 +379,7 @@ repere : 2e episode , ils peuvent itiliserl'IA mais ce nest pas pour arranger le
 ### break
 
 la il y a comme un break. 
-cest une periode ou les news dans les journaux sont tres agitees (ville-news--music-agitee)
+cest une periode ou les news dans les journaux sont tres agitees (ville-news--music-agitee) jusque pendant leur retour en france (1 semaine)
 
 
 la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (une autre amie, quelquun qui nest pas dans lhistoire) a lappartement pour jouer de la musoque classique et au cebtre commercial). elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement. (holographic-companion)
@@ -386,7 +388,7 @@ repere : peut etre au 1er episode ou 4e episode piur calmer des tensions
 aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu aime/aimes pas qui vient du monde entier avec dautres amies.
 mme et mr classical pop voudraient passer a la tele. ils retournent a la television ou ils font passer mme musicienne en priorite avec eux. aux usa, ils participent a unz ewperience de chat IA ou ils veulent determiner la suite de leurs voyages, si ce sera plus ou moins cool. (ai-chatbot-experience)
 a letranger, il passent a la tele dans une ville de disco ou est traduit en direct dans un plateau pour en dire plus.
-repere : peut etre au 1er episode, quand ils apprennent a qe co baitre pour devoilee leur foyers d'oeigines pu au 4e episode pour permettre une fin differente 
+repere : peut etre au 1er episode, quand ils apprennent a se connaitre pour devoilee leur foyers d'origines pu au 4e episode pour permettre une fin differente 
 
 
 un developpeur rails montre a mr classical pop comment il peut  chosse his electronic info : sport, activity, outdoors, indoors activity programming, digital ids, video photo, strong password, weak, musique photos, AI, social media digital ids posted by any 1.
@@ -397,20 +399,21 @@ repere : au4e episode pour calmer des tensions
 
 mme et m classical pop commencent a avoir pour motto "a rhapsody for you and me, do you want to be part ofmy symphony?" pour inviter dautres gens.
 ils doivent chacun jouer leur role sur les reseaux sociaux (miniature-musicien) et commencent a gagner de la popylarite sur des reseaux sociaux amerixains minuature (minuature-usa-social-media)
-repere : comme une invitation pu une simple motto au 2e rpisode qui ne determine pas la usite
+repere : comme une invitation pu une simple motto au 2e episode qui ne determine pas la suite
 
 mme m classixal pop, et mme musicienne entrent dans une simulation urbaine ou un système de gestion où la culture (son/image) est omniprésente : on y gère des paparazzis, des exigences de stars (riders), et des intrigues de couples célèbres. -🌎 Le Filtre Linguistique & Médiatique
 Anglais Natif : C'est la langue source unique pour toutes les News et les Rumeurs.
-repere : au 3e episode mme etmr xlassical pop developpent leur alter ego qui parlent mieux anglais queux, gere mieux la celebrite, les paparazzis queux, etc.
+repere : au 3e episode mme etmr classical pop developpent leur alter ego qui parlent mieux anglais queux, gere mieux la celebrite, les paparazzis queux, etc.
 
+mme classical pop devient un apres lautre : traduxteur dune langue orientale professionelle, sportif professionelle, agent daccueil, vendeuse de vetement et depicerie, gendarme,peogrammeuse, hackeuse, 
 mme musicienne try to get a scoop (a news exclusive) as if she were a journalist, but it sounds like she ´s 'getting a scope' (understand or see the bigger picture in a relationship).
 (scoop-lingo)
-repere : au 4e epuside apres tous les bouleversement, mme musicienne ne sait plus ou elle en est de ses relations 
+repere : au 4e episode apres tous les bouleversement, mme musicienne ne sait plus ou elle en est de ses relations 
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et apres quelque bonne periode , sen suit une periode difficile.
 
-repere : episode 3 il y a des aller retiur a lerranger ou en france
+repere : episode 3 il y a des aller retour a letranger ou en france
 
 mme musicienne utilise Race Pace, A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance (race-pace).
 repere : meme dans la pression du vueeau ivale, mme mysixienne essaie detre in sync avec mme et mr classical pop avec des images de soort, un mode de vie
@@ -444,30 +447,50 @@ au pays de la musique, tout se transforme comme si tous les cafes etaient de la 
 mme classical pop cree une bulletproof-company, une entreprise pare balles : application web servant de portail ou de profil d'employé pour une entreprise fictive.
 mme classical pop ajouter des voitures à vendre et ajouter une xss attack dans l'annonce (cybersecurity-xss), fais Test intrusion python (serveur python) , ecrit Mes hacker tricks sur Ubuntu avec le bluetooth et la connexion internet (pen-test-python) et repand des rumeurs (elle hacke dans leur bureai des gens et repand des rumeurs dans la rue au journal tele).
 mme musicienne qui va a son job de 9 a 5 parle de la cybersecurite (from-9-to-5-security) dans ses emails, a la banque.
+repere : vers 3e episode, quand on entre dans la periode la mlus difficile, mme classical pop fait comme si tout est un etranger sur le reseau, elle repand des rumeurs sur mme musicienne 
+
 mr classical pop cherche des maisons comme a beverly hills en france (beverly-hills).
 mme classical pop veut participer au concours de generated fake miss AI avec sa photo et des generations par l'IA (contest-ai) et sinspire de echo-stage : EchoStage is a creative framework for building expressive digital profiles—whether real, fictional, or somewhere in between. Inspired by the aesthetics of performing arts, EchoStage lets anyone publish a person that’s decorated, stylized, and powered by LLM-generated data.
+repere : dans le 3e episode, et aussi dans le 2e , mme classical pop ne laisse personne etre plus stylise ou maquillee quelle sur scene.
 
 
 
-mme musicienne commence a ecrire bangtan news er bulletproof-pi ce, le blog dune groupe de musique.
+mme musicienne commence a ecrire bangtan news er bulletproof, le blog dune groupe de musique.
 
 
-mme classical reussit deja a postuler avec sa voix, des emails et sms pour un job. (postuler-18)
+mme classical pop reussit deja a postuler avec sa voix, des emails et sms pour un job. (postuler-18)
+repere : dans le 3e episode on entend la voix/ on voit le visage de mme classical pop partout
 
 mme musicienne cree une application qui permet de créer des prompts enrichis par des données personnelles, géographiques et culturelles. Il est conçu pour générer des interactions plus naturelles et localisées, notamment pour des agents d’accueil ou des assistants virtuels. (prompt-ai-region)
+repere : dans le 3e episode, mme classical pop veut creer un agent virtuel quelle laisse entrer dans les foyers qui a son visage et sa voix, qui repond aux gens comment vivre dans le pays dela musique, si ca les interesse de recevoir une visite delle
 
 mme musicienne cree jeu de cartes prédictif : Cartes temporelles : Chaque carte est liée à un timestamp et peut être utilisée pour prédire ou raconter un futur possible (timestamp-oracle)
-
+repere : dans le 3e episode, mme musicienne cree plein de sortes de moyens pour mettre fin a la situation
 
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
+repere : dans le 4e episode quand tout va mieux, ilsessaient de reecrire leur histoire comme un groupe de musique celebre qui a une histoire avec la musique ou les instrument de musique dans des photos et en racontant
+
 mme classical pop est un "faux employe" au pays de la musique comme on peut pas l'employer si elle peut si bien hacker la musique. Elle est "hacker"de la musique(amazon-tea)
+repere : dans le 3e episode, mme classical pop cachhe ce quelle sait faire, pour jouer son role, ou gagner plus de popularite 
 
 au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe sur les reseaux sociaux.
+repere : dans le 3e episode mme episode essaie comprendre la situation pour y mettre fin
+
 mme classical pop commencer deja outil de simulation d'actualités basé sur l'IA, capable de croiser des données (personnes, lieux, objets) pour générer des scénarios médiatiques et les filtrer finement dans le temps pour deviner ce qui va se passer selon les futur evenements.
-mme classical pop veut se tranforme en sportsperso  , o musician, ou singer on tv, actor model, in hit music, or tv video, that says gossip (actor-model-gossip), mme classical pop selectionne des identites numeriques dans son quartier et envoie un trip digital guide, ou elle jouerait un social facilitator, pour demander a qui sindceit quel voyage font de toi un amazon (qu'as-tu dans tes "trips' (voyages) ou "tripes" (gust)) (amazon-trips).
+repere : dans le 3e episode , mme classical pop cree plus de moyen piyr rendrela situation plus chaotique
+
+mme classical pop veut se tranforme en sportsperso  , o musician, ou singer on tv, actor model, in hit music, or tv video, that says gossip (actor-model-gossip), mme classical pop selectionne des identites numeriques dans son quartier et envoie un trip digital guide, ou elle jouerait un social facilitator, pour demander a qui veut :  quel voyage font de toi une amazon (qu'as-tu dans tes "trips' (voyages) ou "tripes" (gust)) (amazon-trips). (pour construire une communaute de filles ou femmes)
+
+
 mme et mr classical pop veulent faire un "portail " de partition ou il ya des repertoires de partitions et ou ils utilisent l'IA pour chercher des partitions facilement.
+repere : a ce moment dans le 3e episode , mme musicienneva ressentir trop de pression par rapporta la musique, mais elle va tenir la pression
+
+
 a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil. mme classical pop cree une serie fake sms email, postcard, social media acount, letter, etc, in foreign/not foreign language pour de preparer a deranger le quartier (i18n-fake-sms).
-mme musicienne postule pour travailler au pays de la musique (apply-enjoy). 
+repere : a ce moment quand la tension devient de plus en plus dur a letranger, mme musicienne commence a ne plus donner de nouvelle a sa famille 
+
+
+mme musicienne postule pour travailler au pays de la musique (apply-enjoy) sans en reparler a sa famille.
 
 
 
@@ -475,11 +498,11 @@ mme musicienne postule pour travailler au pays de la musique (apply-enjoy).
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique.
 Mme et mr classical pop organise les plus grands concerts de musique pop et classique et salignent avec les plus grandes stars de pop et de classique dans les medias.(align-my-star)
 pendant un voyage dans un autre pays etranger en amerique ou asie dans une grande ville, mme classical pop avait envoye sur mme musicienne un(e) espion (e) (my-spy) pour ne pas perdre de vue mme musicienne.
+repere : pendant cette periode , dans le 3e episode, il y a quelque allerretour dans des destinations etrangeres ou autre destination etrangere, mais ils reviennent a leur point de part ou a leur premiere destination a letranger 
 
 
 
-
-Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
+repere : a ce moment dans le 3e episode, Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
 a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise tres peu.(**network-program-recipes**)
 a l'etranger, mme classical pop conserve ses requetes de recherche sur internet et "fait un tour du monde" sur internet autant quelle voudrait avoir plus dinfluence dans sa region.
 a letranger mme musicienne toent un cookbook de llm ou ai.
@@ -507,11 +530,12 @@ Cette longue période à l'étranger s'avère la plus sombre et la plus complexe
 Pour tenir le coup, la Violoniste tient un journal de bord anonyme (**bulletproof-anonymous**) où elle planifie ses sessions d'entraînement intensives(du cardio et de lamusculation, abdos, pompes, dips).  un extrait de ce journal : "aujourdhui j'ai fait 30 minutes de velo".. Sur son blog, mme classical pop publie des articles sur le *« inner game »* de la musique (**mon-musicien-pareballes**) (par exemple il faut utiliser la visualisation mentale que les images sont vive. pour son premier concert avec mme classical pop, elle allait tout gacher, mais pour la deuxieme partie elle a mieux fait en visualisant. Elle utilise Lilypond (**stage-score**) pour générer ses partitions et pousse le vice jusqu'à étudier les langages informatiques sécurisés utilisés par la **nasa** (python) . La nasa l'inspire depuis qu'elle a voyagé dans des pays étrangers.
 
 trois musiciens voyage avec ses instruments (**musical-instrument-travel**), participe à des compétitions d'endurance (**sport-competition**) (elle a gagné la course de 5km une fois en France il ya 10 ans)
-
+repere : dans le 4e episode quand tout est fini, mme musicienne reecrit son histoire
 
 
 mme classical pop et la Violoniste devienne des véritable sprinteuse du violon (**runner-fiddle**), enchaînant des morceaux d'une difficulté athlétique de capitale en capitale (la gigue de bach est difficile, une ville ou elle ont .
 brillé est paris)
+repere : dans le 2e episode, pour se rencontrer, elle comparent les biveaux de violon, le morceaux quelle savent jouer etc.
 
 
 ### L'Usine du Prestige
@@ -554,11 +578,12 @@ mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer 
 
 **republic of music and love** : au pays de la musique a letranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale** (m classical pop a été hacké dans son bureau). tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer (il faut se lever aller a son travail et attendre la visite de mme classical pop le soir, gerer le foyer, etc.).
 mme musicienne est une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. (amazon-ai) (unexercice mental qu'elle pratique est to fit a model, machine learning)
-Ce qui arrive au Bureau ovale est que mme musicienne parvient a diee que mme classical pop n'est que musicienne, et que malgre tout, elle a aucun pouvoir.
+Ce qui arrive au Bureau ovale est que mme musicienne parvient a diee que mme classical pop n'est que musicienne, et que malgre tout, elle a aucun pouvoir car ce bureau ovale est un faux.
 
 ### retour en france
 
 - passee cette periode, un retour en France se fait pour calmer les tensions apres une periode difficile.
+- repere au 5e episode , la sitiation a lair de reprendre comme au debut mais ils ont appris a connaitre , et cztte fois le bureau ovale de france prend le relais, et la "doctrine" et la "symfonie" prend le relais avec le "pays de la musique"ou la "republique de la msuique" qui avait ete invente par mme et mr classical pop
 - ils reviennent car pour tout le monde les conditions netaient pas remplies , mme musicienne navait pas de place dans le foyer.
 - 
 - mme et mr classical pop n'en sont plus a faire valoir leur premier concert ou faire augmenter la celebrite mais on leur a dit de retourner a lecole de musique pour calmer le jeu. Les Français entendent les derniere rumeur (apres m classical pop,  mme classical pop est hacké dans son bureau, et ca vient a mme musicienne)
@@ -580,7 +605,7 @@ mme etmr classical pop sont toujours de touriste qui ont un gps, photo appareil,
 • La Violoniste développe un nouveau mindset : jouer plus de styles de la musique, jouer simplement de la musique.
 • Mme Classical Pop veut devenir gendarme pour faire peur aux gens.
 • Mr Classical Pop se concentre sur le pop et le classique mais surtout le classique.
-
+mme classical pop revient sur sa region dorigine, avec la reputation quelle a eu maintenant de vouloir faire peure aux gens, elle programme beaucoup de HTML et realise les periodes qui ont ete traversee
   
 ###  Les Rumeurs du Bureau Ovale Francais
 
@@ -599,7 +624,7 @@ mme musicienne sent que The World Is the Scene (the-world-is-the-scene) pendant 
 mme musicienne vit sous le toit ideal (ideal-roof) un toit damour, dansune ville ouverte. pas de pression, il y a de la musique et de l'amour sous ce toit (is this love that im feeling)
 
 Le jour, la ville s’étend comme un monde sans limites ou il y a la paix dans sa tete. Il n’y a pas de pays, pas de barrières, pas de lignes imaginaires. Juste des rues, des places, des gens, des histoires. (borderless-city)
-les aventures sontfinies, les reseau sociaux ne sont pas finis , une autre vie est dans leur plan (du social media, mais discret ou absent) (congenial-soxial-media) mme musicienne ne "scanne" pour ne plus apparaitre pareil sur scene, sur les photos, etc.
+les aventures sontfinies, les reseau sociaux ne sont pas finis , une autre vie est dans leur plan (du social media, mais discret ou absent) (congenial-soxial-media) mme musicienne se "scanne" et mr classical pop se scanne pour ne plus apparaitre pareil sur scene, sur les photos, etc. ou pour changer de vie.
 le futur des reseaux sociau est pour publier seulement de la musique pas sa reputation.
 cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**) (elle laisse dans la capsule, qui elle connait, ou quel est le battement d'aile du papillon)
 **airbnb-network-experience** est une autre capsule ttemporelle. que fais tu si tu sais un peu les mots du reseau, programmation, les scripts reseau et que rien tarrete ?
