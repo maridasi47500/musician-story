@@ -380,26 +380,28 @@ repere : 2e episode , ils peuvent itiliserl'IA mais ce nest pas pour arranger le
 
 la il y a comme un break. 
 cest une periode ou les news dans les journaux sont tres agitees (ville-news--music-agitee) jusque pendant leur retour en france (1 semaine)
+repere : dans la periode ce ce break on demande a mme et mrclassical pop et mme musicienne s'ils aimeraient faire une aventure dans le pays de la musique ( pas un oays ocncret (italie, france,allemagne,autriche) mais un oays entre les partitions, la scene, backstage et onstage)
 
-
-la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (une autre amie, quelquun qui nest pas dans lhistoire) a lappartement pour jouer de la musoque classique et au cebtre commercial). elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement. (holographic-companion)
-repere : peut etre au 1er episode ou 4e episode piur calmer des tensions
+la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (une autre amie, quelquun qui nest pas dans lhistoire) a lappartement pour jouer de la musoque classique et au cebtre commercial). 
+repere : au 1er episode ou 2e quand mme musicienne en est a apprendre la musique
+elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement. (holographic-companion)
+repere : peut etre au 1er episode ou 4e episode piur calmer des tensions, quand mme musicienne doit apprendre la musique
 
 aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu aime/aimes pas qui vient du monde entier avec dautres amies.
 mme et mr classical pop voudraient passer a la tele. ils retournent a la television ou ils font passer mme musicienne en priorite avec eux. aux usa, ils participent a unz ewperience de chat IA ou ils veulent determiner la suite de leurs voyages, si ce sera plus ou moins cool. (ai-chatbot-experience)
 a letranger, il passent a la tele dans une ville de disco ou est traduit en direct dans un plateau pour en dire plus.
-repere : peut etre au 1er episode, quand ils apprennent a se connaitre pour devoilee leur foyers d'origines pu au 4e episode pour permettre une fin differente 
+repere : peut etre au 1er episode, quand ils apprennent a se connaitre pour devoilee leur foyers d'origines pu au 4e episode pour permettre une fin differente , reperes ; ils se sont rencontrer mais se connaissent a peine
 
 
 un developpeur rails montre a mr classical pop comment il peut  chosse his electronic info : sport, activity, outdoors, indoors activity programming, digital ids, video photo, strong password, weak, musique photos, AI, social media digital ids posted by any 1.
 repere : 1er episode, mr classical pop vient darriver a lecole de musique, un developpeur a la sortie de lecole de musique, lui donne les cles pour devenir influenceur
 
 un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **boulevard de l'amour** (from-bash-to-boulevard).
-repere : au4e episode pour calmer des tensions
+repere : au1e episode pour calmer des tensions quand mme musicienne apprend la musique mais la rencontre nest pas ideale pour le moment
 
 mme et m classical pop commencent a avoir pour motto "a rhapsody for you and me, do you want to be part ofmy symphony?" pour inviter dautres gens.
 ils doivent chacun jouer leur role sur les reseaux sociaux (miniature-musicien) et commencent a gagner de la popylarite sur des reseaux sociaux amerixains minuature (minuature-usa-social-media)
-repere : comme une invitation pu une simple motto au 2e episode qui ne determine pas la suite
+repere : comme une invitation pu une simple motto au 2e episode qui ne determine rien pour la suite
 
 mme m classixal pop, et mme musicienne entrent dans une simulation urbaine ou un système de gestion où la culture (son/image) est omniprésente : on y gère des paparazzis, des exigences de stars (riders), et des intrigues de couples célèbres. -🌎 Le Filtre Linguistique & Médiatique
 Anglais Natif : C'est la langue source unique pour toutes les News et les Rumeurs.
@@ -509,12 +511,14 @@ a letranger mme musicienne toent un cookbook de llm ou ai.
 a l'etranger mme classical pop tient un **bullet-blog** public sur la musique, son carnet perso piur la musique (**bulletproof-anonymous**) et une formation de musique (**beyond-practicing-buro**)
 a l'etranger , mme classical pop databases qui se crée à chaque billet d'avion , une entreprise differente/un projet different, un base de données entiere differente pour  5 ou 6 billets aller retour.
 mme classical pop espionne mme musicienne et hacke ses script pour hacker.
+repere :3e episode
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
 * Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier. Leur salon a des violons suspendu au mur, des portrait photo d'eux en grand, une grande horloge, la grande carte d'un pays ou ils se croient etre une differente.
+* repere :3e episode
 * Une alerte qui les a particulierement marqués est qu'ils doivent activer des alerte pour vivre au rythme d'un QG, et jouer de la musique.
 * Mme musicienne devient un repere humain. En découvrant le QG, elle a pas de réactions, mais elle découvre que la situation est très tendue, elle se prépare à une periode difficile.
 * Elle va habiter avec Mme etM classical pop pendant cette periode, ils verront si cette periode est "vivable".
-* 
+* repere 3e episode
 * **Mme Classical Pop**, quant à elle, travaille en chœur exclusif avec d'autres artistes féminines, créant une tension compétitive acharnée.
 
 
@@ -542,7 +546,7 @@ repere : dans le 2e episode, pour se rencontrer, elle comparent les biveaux de v
 
 **Mme et Mr Classical Pop** s'allient à elle sur Rails (**mme-m-classical-pop**). Leurs valises de diplomates contiennent des accessoires connectés mesurés en unités internationales (**travel-job-accessories**) (la taille de la boite a violon, la taille d'une clé usb). Ils entrent dans la **pop-classic-factory**, gérant des comptes secrets (@weArefakesocialaccount) sous de faux noms (comme Clean Bandits) pour masquer les coulisses de leur gloire (**behind-scenes**). (ils ont évité le scandale d'avoir un peu mal joué dans un concert et d'etre des bandit de la scene)
 Mme classical pop et mme musicienne commence a se dmander quel sport tu prefere faire , quelle quote preferes tu, à propos d'un sport, quelle quote astu moins de difficulte par rapport à un autre sport/une autre personne à représenter/ à correspondre (sport-job) (you don't fight against opponent, but against the game of basketball)
-
+repere : mme classical pop et mme musicienne se parlent mzme si la situation est tendue
 .
 
 
@@ -553,6 +557,7 @@ ELle code le site d'une école de musique.
 
 Ils pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de leur instrument (**violin-study**) et inscrivent la violoniste comme interprète aux Nations Unies (**un-interpreter**). 
 Mme classical pop est entré sur une scene à la fin du spectacle pour dire que la violoniste avait piraté des partitions sur le web avec des annotations pour savoir jouer.
+repere : la situation est toujours tendue dans le 3e episode
 
 Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. 
 dans le pays de la musique, **mme classical pop** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**).
@@ -578,12 +583,12 @@ mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer 
 
 **republic of music and love** : au pays de la musique a letranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale** (m classical pop a été hacké dans son bureau). tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer (il faut se lever aller a son travail et attendre la visite de mme classical pop le soir, gerer le foyer, etc.).
 mme musicienne est une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. (amazon-ai) (unexercice mental qu'elle pratique est to fit a model, machine learning)
-Ce qui arrive au Bureau ovale est que mme musicienne parvient a diee que mme classical pop n'est que musicienne, et que malgre tout, elle a aucun pouvoir car ce bureau ovale est un faux.
+repere : fin du 3e episode : Ce qui arrive au Bureau ovale est que mme musicienne parvient a diee que mme classical pop n'est que musicienne, et que malgre tout, elle a aucun pouvoir car ce bureau ovale est un faux.
 
 ### retour en france
 
 - passee cette periode, un retour en France se fait pour calmer les tensions apres une periode difficile.
-- repere au 5e episode , la sitiation a lair de reprendre comme au debut mais ils ont appris a connaitre , et cztte fois le bureau ovale de france prend le relais, et la "doctrine" et la "symfonie" prend le relais avec le "pays de la musique"ou la "republique de la msuique" qui avait ete invente par mme et mr classical pop
+- repere au milieu du 4e episode , la sitiation a lair de reprendre comme au debut mais ils ont appris a connaitre , et cztte fois le bureau ovale de france prend le relais, et la "doctrine" et la "symfonie" prend le relais avec le "pays de la musique"ou la "republique de la msuique" qui avait ete invente par mme et mr classical pop
 - ils reviennent car pour tout le monde les conditions netaient pas remplies , mme musicienne navait pas de place dans le foyer.
 - 
 - mme et mr classical pop n'en sont plus a faire valoir leur premier concert ou faire augmenter la celebrite mais on leur a dit de retourner a lecole de musique pour calmer le jeu. Les Français entendent les derniere rumeur (apres m classical pop,  mme classical pop est hacké dans son bureau, et ca vient a mme musicienne)
@@ -603,7 +608,7 @@ mme etmr classical pop sont toujours de touriste qui ont un gps, photo appareil,
   
   M classical pop fait un spectacle ou de la musique de betthoven joue comme si c'est sa musique do'rigine, il se tient a la régie, , il dit je suis t. r.a.z.o.m ... mozart  et il disparait dans la fumée ).
 • La Violoniste développe un nouveau mindset : jouer plus de styles de la musique, jouer simplement de la musique.
-• Mme Classical Pop veut devenir gendarme pour faire peur aux gens.
+• Mme Classical Pop veut devenir gendarme mais ne veut plus faire peur aux gens.
 • Mr Classical Pop se concentre sur le pop et le classique mais surtout le classique.
 mme classical pop revient sur sa region dorigine, avec la reputation quelle a eu maintenant de vouloir faire peure aux gens, elle programme beaucoup de HTML et realise les periodes qui ont ete traversee
   
@@ -615,7 +620,7 @@ Mme musicienne a maintenant un meilleur musician-mindset.
 cette fois les rumeurs viennent du bireau ovale de france lui meme mais mme et m classical pop ne peut rien y changer.
 les rumeurs disent quils ont habite ensemble.
 Ces bruits de couloir, colportés par le protocole de la symphonie, affirment qu'un album révolutionnaire et secret va détruire les codes de la musique pop. La tension est telle que les murmures quittent les salons de musique pour atterrir directement sur le bureau du Chef de l'État, au sein même du **Bureau Ovale de la République Française** (l'Élysée).
-
+repere : milieu du 4e episode dernier moment ou la situation est tendue mais ca revient calme a la fin
 L'histoire s'achève sur  **Mme et Mr Classical Pop** (**special-giggle**), fiers d'avoir transformé l'industrie musicale et la haute diplomatie en leur propre opéra privé. la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis)sont reunis en France.
 
 une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme. le programme dit une blague, fait le bruit d'un animal et joue à la boule de brystal.
@@ -626,6 +631,7 @@ mme musicienne vit sous le toit ideal (ideal-roof) un toit damour, dansune ville
 Le jour, la ville s’étend comme un monde sans limites ou il y a la paix dans sa tete. Il n’y a pas de pays, pas de barrières, pas de lignes imaginaires. Juste des rues, des places, des gens, des histoires. (borderless-city)
 les aventures sontfinies, les reseau sociaux ne sont pas finis , une autre vie est dans leur plan (du social media, mais discret ou absent) (congenial-soxial-media) mme musicienne se "scanne" et mr classical pop se scanne pour ne plus apparaitre pareil sur scene, sur les photos, etc. ou pour changer de vie.
 le futur des reseaux sociau est pour publier seulement de la musique pas sa reputation.
+repere: fin du 4e episode tout se calme
 cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**) (elle laisse dans la capsule, qui elle connait, ou quel est le battement d'aile du papillon)
 **airbnb-network-experience** est une autre capsule ttemporelle. que fais tu si tu sais un peu les mots du reseau, programmation, les scripts reseau et que rien tarrete ?
 mme musicienne programme en ruby le reseau ou des apps web pour mieux partager ses gouts  ( ruby le langage informatique qu'elle vient d'apprendre), pour laisser de meilleures traces futures,  collectionnes des musical labels comme des labels de music videos populaire ou de chansons qui passe à la radio en ce moment dans tes données comme des "gems".(football-team)
