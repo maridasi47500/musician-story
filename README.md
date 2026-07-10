@@ -58,7 +58,7 @@ repere : au debut on ne les connait pas du tout. apres ils se font connaitre. le
 La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
 
 
-mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur fompte de reseau social au cafe mme classical obtoent tout ce quelle veut peu importe comment, m classical pop apprecie le resultat, mme musicienne aime participer) et decide de commencer une cohabitation tout de suite (une voyante avaot predit loracle et pour forcer le destin et ils peuvent jouer de la musique ensemble) et pour determiner comment ils peuvent briser la glace plus vite.
+mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. ils se montrent leur identites numerique ( tout leur compte de reseau social au cafe mme classical obtoent tout ce quelle veut peu importe comment, m classical pop apprecie le resultat, mme musicienne aime participer) et decide de commencer une cohabitation tout de suite (une voyante avaot predit loracle et pour forcer le destin et ils peuvent jouer de la musique ensemble) et pour determiner comment ils peuvent briser la glace plus vite.
 repere : il ny a eu que des reseaux sociaux ou photo pour tout voir jusqua ce moment
 
 
@@ -105,6 +105,7 @@ repere : mme et mr classical pop se sont integres en France mais pas completemen
 
 mme musicienne cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure (automatic-score-adventure)
 repere : mme musicienne doit apprend a coder avec un codeur qui a le seum mais gentil 
+repere : mme classical commence a avoir des. affichages out of home dans la ville, il y a des rumeurs comme quoi mme et mr classical pop pouraaient avoir tente de sequestrer des gens comme mme musicienne
 
 
 en voyage, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab)
@@ -195,7 +196,7 @@ mr classical pop cree un alter digital id qui a confidence, focus, etc (ai-digit
 
 
 au debut de lexperience, comme portail pour participer a lexperience , uneapplication demande qui je suis ? (identitz numerique) elle fait choisir entre voyageur, avoir un emploi, musixien(ne) ou sportive et remplir des informations pour avoir un pass dans chaque profil et participer a lexperience (go-for-adventure)
-repere : mme et mr classical viennent darriver mais mme musicienne cree une applucation pour rendre des aventures possibles, voire une aventure possible sur les reseaux sociaux
+repere : mme et mr classical viennent darriver mais mme musicienne cree une application pour rendre des aventures possibles, voire une aventure possible sur les reseaux sociaux
 
 mme et me classical pop font la fete car leur adresse ip est selectionnee (http-party)
 repere : mme et mr classical font la fete sans se xonnaitre
@@ -206,7 +207,7 @@ repere : mme musicienne apprend a connaitre mme etmr classical pop durant de lon
 
 mme et mr classical et mme musicienne participent a Une aventure hybride entre code, musique, sécurité, et narration interactive, où tu incarnes un personnage hors norme dans un univers qui mélange CLI, infiltration créative et exploration des réseaux.
 Tu peux incarner :un samouraï,un écrivain,ou un pirate. L’aventure se joue dans un terminal ou command line, comme une bataille navale en temps réel, où chaque commande est un mouvement, une attaque, une création ou une stratégie.
-repere : mme et me clsssical pop et mme musicienne peuvent commencer a rentrer en xompetition
+repere : mme et me clsssical pop et mme musicienne peuvent commencer a rentrer en competition
 
 
 
@@ -214,12 +215,12 @@ repere : mme et me clsssical pop et mme musicienne peuvent commencer a rentrer e
 
 > **de laube qu crepuscule en France** : de laube au crepuscule en France il a leur a ete confie d'avoir un job de prendre souvent le train, de continuer de decouvrir la musique, de faire des concerts, ou dorganiser des vouages.
 Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal** explorant les lieux invisibles.
-> repere : mme musicienne ou mr coassical pop font du codage et peuvent dexouvrir leur instrument de musique
+> repere : mme musicienne ou mr classical pop font du codage et peuvent decouvrir leur instrument de musique
 
 
 
-mme musicien poste sue un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.(amazon-rails-gem)
-repere : mme musixienne fait un blog de voyages mais fais une cartz de la situation actuelle , ou de la potentielle cyber attaque qu'il pourrait y avoir avecmme et mr classical pop
+mme musicien poste sur un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.(amazon-rails-gem)
+repere : mme musixienne fait un blog de voyages mais fais une carte de la situation actuelle , ou de la potentielle cyber attaque qu'il pourrait y avoir avecmme et mr classical pop
 
 
 Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. 
@@ -356,7 +357,7 @@ repere : debit du 3e episode , mme classixal pop se prepare a devenir un tyran
 
 > 
 
-pour mr classical pop, the most important product, idea, building for a company est son instrument de musique (flag-ship-company).
+pour mr classical pop, the most important product, idea, building for a company est son instrument de musique et la publication des prestations sur scene ou des videos de musique (flag-ship-company).
 mr classical pop sait comment hacket une oartition et regarder un concerto sur une video (score-live-concerto).
 repere : quand mme classical commence a savoir hacker ou etre populaire par elle meme , il faut que mr classical pop ait dautres occupations
 >  
@@ -418,7 +419,7 @@ apres cette periode , la violoniste veut se rendre au pays de la musique pour pr
 repere : episode 3 il y a des aller retour a letranger ou en france
 
 mme musicienne utilise Race Pace, A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance (race-pace).
-repere : meme dans la pression du vueeau ivale, mme mysixienne essaie detre in sync avec mme et mr classical pop avec des images de soort, un mode de vie
+repere : meme dans la pression du bureau ovale, mme musicienne essaie detre in sync avec mme et mr classical pop avec des images de sport, un mode de vie
 
 mme et m clasical joue chacun un role sur les reseaux sociaux (influencer-trip).
 
@@ -428,7 +429,7 @@ repere : au 3e episode mme classical pop se prepare a decenir un tyran qui sait 
 mme classical pop travaille dans une Boutique HTML contextuelle avec IA "Social Engineer , une boutique HTML interactive où chaque vendeur est une IA capable d'Adapter ses réponses selon la langue, la ville (social-engineer-ai)
 au debut, mme classical pop propose a qui veut de choisir entre une pop star ou une amie a inviter au pays de la musique, apres quoi une fille peut voyager dans un endroit au choix (en train).( commit-rails)
 repere : au 3eepisode , mmeclassixal pop se prepare a augmenter sa popularite dans les eegions du monde entier de son choix
-
+repere : cest le moment dans le 3e episode ou chaque soiree devient un cauchemzr ou mme classical pop renrre dans beaucoup ee foyers, seme la zizanie, et  le jour et matin rt certains soirs mme et mr classical fobt le gouvernement du bureau ovale
 mme musicienne pourrait s'appeler **madame-http**, elle connait les request 404, 500, etc, et les programming langages differences (les langages informatique utilisent des composants materiels differents).
 mme classical pop collectionne les articles de musique tendances (bookish-trend-music-article)
 repere : au 3e episode 
@@ -457,7 +458,7 @@ repere : dans le 3e episode, et aussi dans le 2e , mme classical pop ne laisse p
 
 
 
-mme musicienne commence a ecrire bangtan news er bulletproof, le blog dune groupe de musique.
+mme musicienne commence a ecrire bangtan news et bulletproof, le blog dune groupe de musique.
 
 
 mme classical pop reussit deja a postuler avec sa voix, des emails et sms pour un job. (postuler-18)
@@ -471,6 +472,7 @@ repere : dans le 3e episode, mme musicienne cree plein de sortes de moyens pour 
 
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
 repere : dans le 4e episode quand tout va mieux, ilsessaient de reecrire leur histoire comme un groupe de musique celebre qui a une histoire avec la musique ou les instrument de musique dans des photos et en racontant
+repere : vers le 4e episode mme et mr classical pop et musicienne decident de fait un grand voyage dans plusieurs regions du monde avec des milieux naturels, et la ville, de connecter ue dizaine ou vingtaine de reseaux sociaux ensemble pour faire comme si ils publient les photos du monde entier en temps reel et que avec leur connexion aux reseaux sociaux et leurs messages de chat en temps reel, ils n'ont pas la barriere ou le frein de se dire 'je t'aime' dans le monde entier.
 
 mme classical pop est un "faux employe" au pays de la musique comme on peut pas l'employer si elle peut si bien hacker la musique. Elle est "hacker"de la musique(amazon-tea)
 repere : dans le 3e episode, mme classical pop cachhe ce quelle sait faire, pour jouer son role, ou gagner plus de popularite 
