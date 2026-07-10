@@ -106,13 +106,13 @@ repere : mme et mr classical pop se sont integres en France mais pas completemen
 mme musicienne cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure (automatic-score-adventure)
 repere : mme musicienne doit apprend a coder avec un codeur qui a le seum mais gentil 
 repere : mme classical commence a avoir des. affichages out of home dans la ville, il y a des rumeurs comme quoi mme et mr classical pop pouraaient avoir tente de sequestrer des gens comme mme musicienne
+repere : on est dans hometown
 
-
-en voyage, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab)
+en voyage en bateau, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab)
 mme et mr classical pop et mme musicienne ont 2 mode dexister en ligne
 un profil visible, qui s’exprime ouvertement et montre sa vraie identité (mme et m classical pop), un profil discret, qui limite fortement son exposition et utilise parfois des informations artificielles (mme musicienne). ils veulent echanger leurs points de vue ou leur place (arts-adventure)
 
-mme musicienne commence a ecrire ce qu'elle a vu dans GemPlace, une application Python conçue pour créer, organiser et revisiter une liste d’endroits importants — réels, imaginaires ou symboliques. Elle permet de mesurer la distance vers ces lieux, de suivre leur évolution au fil de la journée, et de partager des impressions ou des secrets avec d’autres utilisateurs. (gem-place-enigma)
+dans une ville ou elle a migré, mme musicienne commence a ecrire ce qu'elle a vu dans GemPlace, une application Python conçue pour créer, organiser et revisiter une liste d’endroits importants — réels, imaginaires ou symboliques. Elle permet de mesurer la distance vers ces lieux, de suivre leur évolution au fil de la journée, et de partager des impressions ou des secrets avec d’autres utilisateurs. (gem-place-enigma)
 au fut et a mesure des vols court et long courrier (sturdy-long-haul)
 
 
