@@ -585,7 +585,9 @@ mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer 
 
 **republic of music and love** : au pays de la musique a letranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale** (m classical pop a été hacké dans son bureau). tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer (il faut se lever aller a son travail et attendre la visite de mme classical pop le soir, gerer le foyer, etc.).
 mme musicienne est une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. (amazon-ai) (unexercice mental qu'elle pratique est to fit a model, machine learning)
-repere : fin du 3e episode : Ce qui arrive au Bureau ovale est que mme musicienne parvient a diee que mme classical pop n'est que musicienne, et que malgre tout, elle a aucun pouvoir car ce bureau ovale est un faux.
+
+
+repere : debut ou milieu du 3e episode : Ce qui arrive au Bureau ovale est que mme musicienne parvient a dire que mme classical pop n'est que musicienne, et que malgre tout, elle a aucun pouvoir car ce bureau ovale est un faux au bout de quelques mois de cohabitation. ca fait un retour en France , mais ca rend fou furieux mme et mr classical pop qui vont retourner la ou ils avaiznt invite un bureau ovale dans le meme ligemebt avec lesprit de vengeance mais ils supportent pas detre hackes, dans la deuxieme partie de lepisode ils sen suit une periode encore pluus horrible, . meme si le bureau ovale a deja ete detruit, mme et me classical pop continue de vouloir terroriser avecde la musique.
 
 ### retour en france
 
