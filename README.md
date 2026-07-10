@@ -173,6 +173,7 @@ repere : mme musixienne a rencontre mme et me classical pop et vveut apprendre a
 
 Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
 repere : mme et mr classical se revendiquent commle invincibles, avoir mal au doigt et cest eux qui joue au troisieme billet dabion ou episode a destination de la France  
+mme et mr classical pop creent une IA de eux meme quil diffusent sur les reseauw sociaux pour tester les effets de rumeurs avant de passer a laction sur ce quils peuvent faire.
 
 
 mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite. ca va determiner leur cohabitation. mme et mr classical pop qui vont programmer sur rails on est plus a l'aise, mme musicienne qui va programmer python va devoir essayer de sentrainer hors de sa zone de confort.
