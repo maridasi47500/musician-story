@@ -797,7 +797,8 @@ mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer 
 
 ### la course contre la montre
 
-- Dans une course contre la montre, Mme Classical Pop va utiliser tout ce qu'elle sait du SEO, SEA, stratégies digitales réseaux sociaux pour entrainer tout le monde dans une course contre la montre. Sauf M. Classical Pop, elle voudrait entrainer des amazones au sport, mais dans une course contre la montre, ou tout le temps est chronométré, les actions, les records sportifs, etc.
+- Dans une course contre la montre, Mme Classical Pop va utiliser tout ce qu'elle sait du SEO, SEA, stratégies digitales réseaux sociaux pour entrainer tout le monde dans une course contre la montre, et faire basculer les statistiques de réseaux sociaux de son côté en ayant des techniques black hat. Sauf M. Classical Pop, elle voudrait entrainer des amazones au sport, mais dans une course contre la montre, ou tout le temps est chronométré, les actions, les records sportifs, etc.
+- sans qu'elle le veuille vraiment, ça fait une compétition sportive entre pays, où elle court en relai pour son pays, et d'autres pays courent en non relai, où en relais si c'est possible.
 
 
 ### Les Rumeurs du Bureau Ovale
