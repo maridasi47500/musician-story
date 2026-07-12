@@ -48,6 +48,9 @@ repere : cest dans cette periode que mme musicienne veit etre decider de postule
 
 mme musicienne veut more than just a journey: Meet at the plane/train/airport avec mme et me classical pop: Connect with nearby travelers before boarding or during the trip. Be in the “competition”: Join friendly music challenges, playlists battles, or style contests with other users. (flight-at-first-sight)
 
+dans les couloirs de lecole de musique, m. classical pop croise le genie voyageur de la mampe , celui qui a propose les voeux (voeux de passer a la tele) et sa rencontre qui devait durer seulement le temps de dire bonjour, dure plusieurs semaines.
+
+
 ### premiere arrivee
 
 apres la deuxieme arrivee de **mme et mr classical pop** dans la capitale de la France Paris, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir. 
