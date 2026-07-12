@@ -1,6 +1,7 @@
 
 Trois personnages — La Violoniste, Mme Classical Pop, Mr Classical Pop — voyagent entre New York et Paris, mêlant musique, réseaux sociaux, hacking, identité numérique et aventures transatlantiques.
 
+
 ---
 
 ## Première partie : Les Chroniques de l'Aube – Découverte et Rencontres
@@ -9,10 +10,10 @@ L'aventure commence précisément à l'aube, au moment où la lumière blafarde 
 
 ### 🏙️ city-expedition
 
-L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une talentueuse **Violoniste** vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages.
+L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une  **Violoniste** vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme le sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages.
 
 De l'autre côté de l'Atlantique, aux États-Unis, A Miami, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils ont un style vestimentaire extravagant et vivent dans un style de musique classique. 
-Les réseau social les plus important dans l'histoire sont facebook, twiter, instagram, twitter, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
+Les réseau social les plus importants dans l'histoire sont facebook, twitter, instagram, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
 
 Ils cherchent à lier leurs destins à travers une expédition urbaine. ILs voyagent surtout pour un changement dans leur carrière.
 tous les posts de reseau sociaux de mme et me classical pop et mme musicienne sont comme une grande gare de metro ou on peut lire des sport quotes, aller au metro,bus, train, study music. Mme et m classical pop avoir plusieurs fausses identites en ligne pour vendre de la musique, identites comme leur photo retouchée , sur un compte et des choses qu'il savent pas faire sur un compte artistique, ou  des faux compte artistiques liés à l'espionnage pour etre mieux place pour vendre leur musique. 
