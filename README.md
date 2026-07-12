@@ -49,7 +49,7 @@ repere : cest dans cette periode que mme musicienne veit etre decider de postule
 
 mme musicienne veut more than just a journey: Meet at the plane/train/airport avec mme et me classical pop: Connect with nearby travelers before boarding or during the trip. Be in the “competition”: Join friendly music challenges, playlists battles, or style contests with other users. (flight-at-first-sight)
 
-dans les couloirs de lecole de musique, m. classical pop croise le genie voyageur de la mampe , celui qui a propose les voeux (voeux de passer a la tele) et sa rencontre qui devait durer seulement le temps de dire bonjour, dure plusieurs semaines.
+dans les couloirs de lecole de musique, m. classical pop croise le genie voyageur de la lampe , celui qui a propose les voeux (voeux de passer a la tele) et sa rencontre qui devait durer seulement le temps de dire bonjour, dure plusieurs semaines. Il y a des rumeurs sur les fréquentations de M. Classical Pop, mais les rumeurs s'arrêtent là.
 
 
 ### premiere arrivee
@@ -795,9 +795,14 @@ mr classical pop utilise **cyber-hacker** pour savoir si ses videos ont un bon c
 mme classical pop commence a envoyer des series de **spoof-messages** (comme "who's unstoppable here? me not you. Do you know me , my name is Mrs Classicla pop. Await my visit." à plusieurs numeros de téléphone du quartier. des gens ont eu peur et ont attendu la visite de mme classical pop, en ont parlé autour, ont contacté mme classical pop pour l'inviter) et a connaitre de la **physical-security** et de la **cyber-security**. elle poste dans **bulletproof-job**, **hacker-magazine** et **mycybernews**.
 mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer quelque chose , traduire quelque chose, ou prendre le metro ou un moyen de transport en commun, choisir un langage de programmation et ecrire le début d'un script.
 
+### la course contre la montre
+
+- Dans une course contre la montre, Mme Classical Pop va utiliser tout ce qu'elle sait du SEO, SEA, stratégies digitales réseaux sociaux pour entrainer tout le monde dans une course contre la montre. Sauf M. Classical Pop, elle voudrait entrainer des amazones au sport, mais dans une course contre la montre, ou tout le temps est chronométré, les actions, les records sportifs, etc.
+
+
 ### Les Rumeurs du Bureau Ovale
 
-**republic of music and love** : au pays de la musique a letranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale** (m classical pop a été hacké dans son bureau). tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer (il faut se lever aller a son travail et attendre la visite de mme classical pop le soir, gerer le foyer, etc.).
+**The republic of music and love** : au pays de la musique a l'etranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale** (m classical pop a été hacké dans son bureau). tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer (il faut se lever aller a son travail et attendre la visite de mme classical pop le soir, gerer le foyer, etc.).
 mme musicienne est une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. (amazon-ai) (unexercice mental qu'elle pratique est to fit a model, machine learning)
 
 
