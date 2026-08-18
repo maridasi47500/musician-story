@@ -18,7 +18,7 @@ Voici les principaux repères chronologiques, géographiques et techniques de l'
 
 **Repères chronologiques**
 
-* **L'Aube / Le Début :** Rencontre des personnages aux États-Unis, formation de leur alliance à Paris et  pacte virtuel au lever du jour pour etre voyageur/se "indépendant" sans quoi la suite des aventure ne oeut pas arriver
+* **L'Aube / Le Début :** Rencontre des personnages aux États-Unis, rencontre à Paris et  pacte virtuel au lever du jour pour etre voyageur/se "indépendant" sans quoi la suite des aventure ne oeut pas arriver
 
 
 * **L'Exil Transatlantique :** Période d'escalade marquée par le piratage, les rumeurs d'État et l'isolement à l'étranger.
