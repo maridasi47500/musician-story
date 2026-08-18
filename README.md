@@ -18,7 +18,7 @@ Voici les principaux repères chronologiques, géographiques et techniques de l'
 
 **Repères chronologiques**
 
-* **L'Aube / Le Début :** Rencontre des personnages aux États-Unis, rencontre à Paris et  pacte virtuel au lever du jour pour etre voyageur/se "indépendant" sans quoi la suite des aventure ne oeut pas arriver
+* **L'Aube / Le Début :** Rencontre des personnages aux États-Unis, rencontre à Paris et  pacte virtuel au lever du jour pour etre voyageur/se "indépendant" sans quoi la suite des aventure ne peut pas arriver. ob leur crée/ il se créent des profil avec des fausses compétences professionnelles qu'ils peuvent faire devenir "vrai"si il ont envie. Dans la fausse aventure, ils ont le droit de se servir de leur faux profil si ils veulent pour publier publiquement quelque chose ou prendre une décision, mais ils doivent voyager ensemble sauf si un break est décidé.
 
 
 * **L'Exil Transatlantique :** Période d'escalade marquée par le piratage, les rumeurs d'État et l'isolement à l'étranger.
