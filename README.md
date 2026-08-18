@@ -1,5 +1,44 @@
+Voici les principaux repères chronologiques, géographiques et techniques de l'histoire :
 
+**Repères géographiques**
+
+* **Paris & la France :** Lieu de départ de la Violoniste, lieu de leur cohabitation dans un grand domaine historique, puis zone de retour final après l'exil.
+
+
+* **Miami (États-Unis) :** Point de départ de Mme et Mr Classical Pop.
+
+
+* **Le « Pays de la Musique » :** Lieu d'exil transatlantique où le groupe traverse une période de paranoïa et d'entraînement intensif. c'est un pays réel mais Mme ou m classical pop inventent le nom du pays pour décider de ce qu'on fait chez soi, en dehors de chez soi ou à son travail, avec des communications, des publicités de rue, etc.
+
+
+* **Espaces fictifs :** Le « Bureau Ovale » géopolitique fictif créé dans leur salon.
+
+
+
+**Repères chronologiques**
+
+* **L'Aube / Le Début :** Rencontre des personnages aux États-Unis, formation de leur alliance à Paris et  pacte virtuel au lever du jour.
+
+
+* **L'Exil Transatlantique :** Période d'escalade marquée par le piratage, les rumeurs d'État et l'isolement à l'étranger.
+
+
+* **Le Dénouement :** Rupture avec la célébrité toxique, désamorçage des tensions et retour à une pratique sobre de la musique et du code.
+
+
+
+**Repères techniques et thématiques**
+
+* **Langages et technologies :** Programmation en Python et Ruby on Rails, utilisation de VPN, réseaux sociaux et avatars virtuels.
+
+
+* **Pratiques informatiques :** Hacking, techniques d'attaque réseau (« Black Hat ») et posture de « woman-in-the-middle ».
+
+
+* **Musique :** Pratique du violon, étude des partitions et travail acoustique.
 Trois personnages — La Violoniste, Mme Classical Pop, Mr Classical Pop — voyagent entre New York et Paris, mêlant musique, réseaux sociaux, hacking, identité numérique et aventures transatlantiques.
+
+- ** communication ooh ** email sms publicité
 
 
 ---
