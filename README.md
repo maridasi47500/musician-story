@@ -4,6 +4,7 @@ Voici les principaux repères chronologiques, géographiques et techniques de l'
 
 * **Paris & la France :** Lieu de départ de la Violoniste, lieu de leur cohabitation dans un grand domaine historique, puis zone de retour final après l'exil.
 
+* **berlin, Madrid, London, Roma :** Lieux ou villes pour faire une tournée musicale 
 
 * **Miami (États-Unis) :** Point de départ de Mme et Mr Classical Pop.
 
