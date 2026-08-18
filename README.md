@@ -1,3 +1,56 @@
+
+
+Là dans l’histoire actuelle, les 3 personnages changent un peu mais on les reconnaît toujours.
+Pour créer un *vrai écart début → fin*, il faut qu’à la fin ils soient devenus presque méconnaissables.
+
+*L’idée: "Écart + Métamorphose"*
+
+*1. AU DÉBUT*
+
+**Personnage**	**État initial**
+**La Violoniste**	Timide, discrète, cherche sa place. Code en Python au jour le jour. A peur des réseaux.
+**Mme Classical Pop**	Ambitieuse mais paumée. Veut la gloire à tout prix. Joue à la "medium" et manipule.
+**Mr Classical Pop**	Le cerveau tech. Gentil, suiveur, gère le back-end. Veut juste faire de la belle musique.
+
+*2. À LA FIN*
+
+**Personnage**	**État final - version "plus les mêmes"**
+**La Violoniste**	Devient **"Madame HTTP"**. Hacker éthique, gendarme cyber. Elle ne joue plus pour être vue, elle joue pour hacker le silence. Elle a quitté Insta.
+**Mme Classical Pop**	Devient **"La Tyranne Bienveillante"**. Elle a tout eu: la gloire, les panneaux, les rumeurs. Et ça l’a vidée. Elle veut maintenant effacer son visage des rues et enseigner le violon aux enfants.
+**Mr Classical Pop**	Devient **"Le Moine du Classique"**. Il coupe les réseaux. Il ne parle plus que par partitions. Il vit dans un monastère et code des partitions pour l’ONU. Il n’a plus d’ego.
+
+*3 moments qu’on pourrait réécrire pour marquer l’écart*
+
+*Moment 1: La 1ère Rencontre au Café*
+*Début*: Ils se montrent tous leurs comptes Insta pour "briser la glace"
+*Réécriture Fin-Effet*: À la fin du livre, on revient à ce même café.
+Mais cette fois: 0 téléphone. Ils jouent 10min de trio, dos au public. Et ils partent sans dire un mot.
+→ Le message: ils n’ont plus besoin de prouver qui ils sont.
+
+*Moment 2: Le "Bureau Ovale" du Salon*
+*Début*: Ils font semblant d’être présidents, plein de panneaux avec leurs têtes.
+*Réécriture Fin-Effet*: Même salon, 1 an après.
+Les affiches sont décrochées. Il reste 3 chaises, 3 violons, et une horloge.
+Mme Classical Pop dit: _"On arrête de gouverner les autres. On se gouverne nous."_
+→ Le message: le pouvoir c’était du vent.
+
+*Moment 3: Le Dernier Voyage "Pays de la Musique"*
+*Début*: Ils partent pour être célèbres, avec GPS, micro, paparazzis.
+*Réécriture Fin-Effet*: Dernier voyage.
+Ils prennent le train sans billet, sans nom. Ils jouent dans le wagon pour les gens.
+La Violoniste jette sa fausse carte d’identité par la fenêtre.
+Mr Pop supprime son "alter ego IA".
+Mme Pop supprime son compte @weArefakesocialaccount.
+→ Le message: ils voyagent enfin pour eux.
+
+*La phrase qui résume l’écart*
+*Début*: _"Nous sommes les musiciens indestructibles"_
+*Fin*: _"Nous sommes juste 3 humains qui jouent. Et ça suffit."_
+
+---
+
+
+
 Voici les principaux repères chronologiques, géographiques et techniques de l'histoire :
 
 **Repères géographiques**
