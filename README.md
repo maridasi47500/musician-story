@@ -103,21 +103,22 @@ L'aventure commence précisément à l'aube, au moment où la lumière blafarde 
 
 ### 🏙️ city-expedition
 
-L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une  **Violoniste** vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme le sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages.
+L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une  **Violoniste** vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme le sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages. les jours se répètent.
 
 De l'autre côté de l'Atlantique, aux États-Unis, A Miami, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils ont un style vestimentaire extravagant et vivent dans un style de musique classique. 
 Les réseau social les plus importants dans l'histoire sont facebook, twitter, instagram, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
 
 Ils cherchent à lier leurs destins à travers une expédition urbaine. ILs voyagent surtout pour un changement dans leur carrière.
 tous les posts de reseau sociaux de mme et me classical pop et mme musicienne sont comme une grande gare de metro ou on peut lire des sport quotes, aller au metro,bus, train, study music. Mme et m classical pop avoir plusieurs fausses identites en ligne pour vendre de la musique, identites comme leur photo retouchée , sur un compte et des choses qu'il savent pas faire sur un compte artistique, ou  des faux compte artistiques liés à l'espionnage pour etre mieux place pour vendre leur musique. 
-
+chaque jour ils postent un truc différent.
 
 
 
 mme musicienne publies sur les réseaux, et l’oracle  (une IA qui lit les postes de reseaux sociaux) te permet de prédire : qui tu pourrais croiser en voyage Si ta publication va marcher Ce qui peut être diffusé à la radio, à la télé, dans les journaux ou sur les plateformes sociales (oracle-media), l'oracle est un texte affiché dans l'application, c'est une application de programmation.
+repère : elle utilise l'oracle 1 fois.
 
 cest  un Génie (un developpeur rails qui joue un figurant dans lecole de musique aux usa, joue un social facilitator quand il y a beaucoup de rumeurs , il est reel dans lhistoire). 
-
+repere : le génie va une première fois aux usa.
 Peu importe la nature de ton vœu (un métier, un toit, un voyage aux USA, passer a la tele), si tu affirmes "Je le veux vraiment", le processus est lancé. Que cela prenne 10 ou 40 ans, la grandeur est au bout du chemin pour ceux qui osent valider leurs rêves, même ceux qui semblent hors de portée. (genius-social-media) Le génie est un peu digital mais il est humain (un développeur rails qui a développé l'application du génie (dans l'histoire) est le génie).
 Repere : mme musicienne peut voir a travers une tele les endroits ou elle aimerait aller ou les gens qu'elle rencontrer.
 
