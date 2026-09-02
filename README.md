@@ -190,14 +190,16 @@ repere : mme et mr classical ne sont pas arrives, mme musicienne connait le voya
 Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. 
 repere : le bateau peut etre place a la toute fin, quand les destins se sont croises et inverses, au debut mr classical pop avait le trait de caractere qui comprend le plus de choses ou qui decouvre en voyant/entendant la musiqu, vers la fin a plus ces traits, au debut mme classical pop est celle qui en fait qu'a sa tete, mme musicienne regarder plus autour delle, et elles echangent un peu de traits de caractere.
 
-Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
+Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere cousine invité est une cousine de mme classical pop (mme classical pop rebel qui n'est pas mme classical pop, mais elle joue le premier role de mme classical pop, jouer de la musique classique ou pop ou de voyager en bateau, elle disparait après). La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
 les limites est suils ne savent pas sils vont reussir.
 
-repere : cest vers le milieu des aventures ou ca peut etre au tout debut a 18 ans, quand les gens ont le 2e degre deux memes, ou se connaissent bien eux memes ou entre eux , ils veulent passer a la tele 
+repere : cest vers le milieu des aventures ou ca peut etre au tout debut a 18 ans, quand les gens ont le 2e degre deux memes, ou se connaissent bien eux memes ou entre eux , ils veulent passer a la tele .
+
 repere :  vers le milieu fin ou tout debut
 
 mme et mrclassical veulent participer a virtual television experience, set inside a fictional disco city ou tout est traduit en direct, pour parler de leir rencontre et difficultes ou reussite
 repere : mme et mr classical pop se sont integres en France mais pas completement
+- repere : mme et mr classical pop racontent leur experience en France. Mme classical pop apprend mieux les langues étrangères
 
 
 
