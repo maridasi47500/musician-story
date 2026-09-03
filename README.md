@@ -336,7 +336,7 @@ mme classical pop raconte qu'elle est agile comme une developpeuse ou qu'elle a 
 
 repere : mme classical pop a un caractere de musique comme elle vient du foyer de musique et se connecte a dautre foyer. cest le moment ou elle realise quels memes morceaux elle sait jouer avec dautres violoniste  
 
-il y a un detecteur danglais 
+tout le monde parle anglais à la télé , à la radio, sur les reseaux, dans les chat, etc. 
 repere : au 2e ou 3e avion cest suand il y a des paparazzis au pied de ton logement le soir des ceremonies
 repere : langlais est la langue des paparazzis ou journalistes qui ecrivent les scoops
 
@@ -354,7 +354,9 @@ repere : cest le deuxieme episode ou bbillet davion
 repere : au 2e episode, tout le monde signe de ne pas retourner dans son foyer, malgre les news agitees au journal national et local, 
 
 les musiciens commencent deja a pouvoir se maquiller pour la scene (make-up-faker) et a hacker le style pop sur scene en apprenant a chanter , dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
-repere : cest la periode au 2e episode ou mme et mr classical pip et mme musixicienne sibscrivent a lecole de musique cohabite ,sentraine ensemble longuement et donne tres peu de nouvelles. 
+repere : cest la periode au 2e episode ou mme et mr classical pip et mme musixicienne s'inscrivent a lecole de musique cohabite ,sentraine ensemble longuement et donne tres peu de nouvelles ou donne des nouvelles très floues de leur cohabitation.
+au début Mme violoniste vient juste d'apprendre le Symfony framework et rencontre Mme et mR classical pop qui connaissent beaucoup de Symphonies. ellle a échangé avec Mme classical pop sur les mêmes morceaux de violon qu'elle peut jouer, la partita ou la gigue.
+au premier noel, Mme classical pop lui aurait offert un livre sur l'amour et le coeur.
 
 mr classical pop cherche a génèrer une "route" (un itinéraire de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps) .
 Dans la ville de départ , il y a des fausses radios où mr classical pop répond aux interviews à la radio, et où il rentre en compétition avec des artistes qui ont un faux Artist ID sur les radios. (ai-experience-artist-id)
