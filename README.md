@@ -190,7 +190,17 @@ repere : mme et mr classical ne sont pas arrives, mme musicienne connait le voya
 Tres tot, la Violoniste,mme et m classical pop prennent le bateau Ferry Boat ensemble (**one-million-routes**) pour faire connaissance. 
 repere : le bateau peut etre place a la toute fin, quand les destins se sont croises et inverses, au debut mr classical pop avait le trait de caractere qui comprend le plus de choses ou qui decouvre en voyant/entendant la musiqu, vers la fin a plus ces traits, au debut mme classical pop est celle qui en fait qu'a sa tete, mme musicienne regarder plus autour delle, et elles echangent un peu de traits de caractere.
 
-Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere cousine invité est une cousine de mme classical pop (mme classical pop rebel qui n'est pas mme classical pop, mais elle joue le premier role de mme classical pop, jouer de la musique classique ou pop ou de voyager en bateau, elle disparait après). La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
+Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere cousine invité est une cousine de mme classical pop (mme classical pop rebel qui n'est pas mme classical pop, mais elle joue le premier role de mme classical pop, jouer de la musique classique ou pop ou de voyager en bateau (elle apparait dans le premier voyage en bateau avec mme musicienne / mr classical pop), elle disparait après).
+Mme musicienne décide de croiser la fameuse cousine au même étage, de cohabiter/d'être en colocation dans les tous débuts de l'histoire. Ca bouleverse ses vues dans la musique classique ou pop.
+- on demande à mme classical pop de croiser beaucoup d'amies , d'inviter beaucoup d'amies, même si elle en fait pas de meilleures amies.
+
+- la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (une autre amie, quelquun qui nest pas dans lhistoire) a lappartement pour jouer de la musoque classique et au centre commercial). 
+- repere : au 1er episode ou 2e quand mme musicienne en est a apprendre la musique
+elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement. (holographic-companion)
+
+
+
+- La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne  ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler.
 les limites est suils ne savent pas sils vont reussir.
 
 repere : cest vers le milieu des aventures ou ca peut etre au tout debut a 18 ans, quand les gens ont le 2e degre deux memes, ou se connaissent bien eux memes ou entre eux , ils veulent passer a la tele .
@@ -201,6 +211,8 @@ mme et mrclassical veulent participer a virtual television experience, set insid
 repere : mme et mr classical pop se sont integres en France mais pas completement
 - repere : mme et mr classical pop racontent leur experience en France. Mme classical pop apprend mieux les langues étrangères
 
+premières publicités out of home de mme classical pop
+- 
 
 
 mme musicienne cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure (automatic-score-adventure)
@@ -245,8 +257,9 @@ repere : cest le debut de lhistoire
 mme musicienne parle a un developpeur qui lui cobseille d'ecrire une **celestial-story** qui a des photo, video, text, code avec mme et mr classical pop with AI.
 repere : au premier mois de leur arrivee , mme musicienne aecrit une histoire
 
-sur la route du crepuscule a laube, la question est devse demander : who will rock out the other one out of the morning ? qui va trainer lautre derriere comme un sac au bout dun baton quand on est voyageur (meme si crst gentil)? 
-la fille voit ce quelle veut voir, le garcon voit ie resultat , ensemble ils forment la programmarion du futur. qui voit la grande image ?
+
+- la fille et le garçon se cachent dans une ligne de commande. la fille voit ce quelle veut voir/et refuse de voir ce qu'elle ne veut pas voir, le garcon voit ie resultat , ensemble ils forment la programmation du futur. qui voit la grande image ?
+- sur la route du crepuscule a laube, la question est devse demander : who will guide the other one through the dark side of the morning ? qui va trainer lautre derriere comme un sac au bout dun baton quand on est voyageur (meme si crst gentil)? 
 repere : mme et mr classical pop viennent darriver au premier ou 2e avion et se font pas encore connaitre
 du crepuscule a l'aube , mme et mr classical pop sont livres a eux meme comme sils doivent vivre une aventure et la nuit ils doivent prevenir tous les dangers/ accidents (legendary-telegram) en hackant le systeme.
 leur identite double sont musiciens qui ont un entrainement, ou influenceurs sur les reseaux ou ils repandent des rumeurs.
@@ -273,7 +286,7 @@ repere : mme musixienne a rencontre mme et me classical pop et vveut apprendre a
 
 Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
 repere : mme et mr classical se revendiquent commle invincibles, avoir mal au doigt et cest eux qui joue au troisieme billet dabion ou episode a destination de la France  
-mme et mr classical pop creent une IA de eux meme quil diffusent sur les reseauw sociaux pour tester les effets de rumeurs avant de passer a laction sur ce quils peuvent faire.
+- mme et mr classical pop creent une IA de eux meme quil diffusent sur les reseauw sociaux pour tester les effets de rumeurs avant de passer a laction sur ce quils peuvent faire.
 
 
 mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite. ca va determiner leur cohabitation. mme et mr classical pop qui vont programmer sur rails on est plus a l'aise, mme musicienne qui va programmer python va devoir essayer de sentrainer hors de sa zone de confort.
@@ -296,7 +309,7 @@ repere : mme et mr clqssical pop sont dans la region mais pourrait vouloir brill
 mr classical pop cree un alter digital id qui a confidence, focus, etc (ai-digital-id) ( alter ego d'IA qui parle mieux anglais que lui, parle mieux mieux que lui, est plus rigolo que lui, etc)
 
 
-au debut de lexperience, comme portail pour participer a lexperience , uneapplication demande qui je suis ? (identitz numerique) elle fait choisir entre voyageur, avoir un emploi, musixien(ne) ou sportive et remplir des informations pour avoir un pass dans chaque profil et participer a lexperience (go-for-adventure)
+- au debut de lexperience, comme portail pour participer a lexperience , uneapplication demande qui je suis ? (identitz numerique) elle fait choisir entre voyageur, avoir un emploi, musixien(ne) ou sportive et remplir des informations pour avoir un pass dans chaque profil et participer a lexperience (go-for-adventure)
 repere : mme et mr classical viennent darriver mais mme musicienne cree une application pour rendre des aventures possibles, voire une aventure possible sur les reseaux sociaux
 
 mme et me classical pop font la fete car leur adresse ip est selectionnee (http-party)
@@ -485,9 +498,7 @@ la il y a comme un break.
 cest une periode ou les news dans les journaux sont tres agitees (ville-news--music-agitee) jusque pendant leur retour en france (1 semaine)
 repere : dans la periode ce ce break on demande a mme et mrclassical pop et mme musicienne s'ils aimeraient faire une aventure dans le pays de la musique ( pas un oays ocncret (italie, france,allemagne,autriche) mais un oays entre les partitions, la scene, backstage et onstage)
 
-la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (une autre amie, quelquun qui nest pas dans lhistoire) a lappartement pour jouer de la musoque classique et au cebtre commercial). 
-repere : au 1er episode ou 2e quand mme musicienne en est a apprendre la musique
-elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement. (holographic-companion)
+
 repere : peut etre au 1er episode ou 4e episode piur calmer des tensions, quand mme musicienne doit apprendre la musique
 
 aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu aime/aimes pas qui vient du monde entier avec dautres amies.
