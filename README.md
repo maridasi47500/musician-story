@@ -525,7 +525,7 @@ apres cette periode , la violoniste veut se rendre au pays de la musique pour pr
 repere : episode 3 il y a des aller retour a letranger ou en france
 
 mme musicienne utilise Race Pace, A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance (race-pace).
-repere : meme dans la pression du bureau ovale, mme musicienne essaie detre in sync avec mme et mr classical pop avec des images de sport, un mode de vie
+repere : meme dans la pression du bureau ovale, mme musicienne essaie detre in sync avec mme et mr classical pop avec des images de sport, un mode de vie. après une partie de capture de flag, comme elle n'estpas contente des cohabitations précédentes, elle tente une nouvelle colocation. En même temps qu'elle met al pression sur tout son quartier, dans son propre foyer, chacun(e) a un drapeau et court pour son pays (en sport, musique)ou ce qu'on veut.
 
 mme et m clasical joue chacun un role sur les reseaux sociaux (influencer-trip).
 
