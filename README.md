@@ -14,18 +14,18 @@ Pour créer un *vrai écart début → fin*, il faut qu’à la fin ils soient d
 
 *2. À LA FIN*
 
-**Personnage**	**État final - version "plus les mêmes"**
-**La Violoniste**	Devient **"Madame HTTP"**. Hacker éthique, gendarme cyber. Elle ne joue plus pour être vue, elle joue pour hacker le silence. Elle a quitté Insta.
-**Mme Classical Pop**	Devient **"La Tyranne Bienveillante"**. Elle a tout eu: la gloire, les panneaux, les rumeurs. Et ça l’a vidée. Elle veut maintenant effacer son visage des rues et enseigner le violon aux enfants.
-**Mr Classical Pop**	Devient **"Le Moine du Classique"**. Il coupe les réseaux. Il ne parle plus que par partitions. Il vit dans un monastère et code des partitions pour l’ONU. Il n’a plus d’ego.
+
+
+
+
 
 *3 moments qu’on pourrait réécrire pour marquer l’écart*
 
-*Moment 1: La 1ère Rencontre au Café*
-*Début*: Ils se montrent tous leurs comptes Insta pour "briser la glace"
-*Réécriture Fin-Effet*: À la fin du livre, on revient à ce même café.
-Mais cette fois: 0 téléphone. Ils jouent 10min de trio, dos au public. Et ils partent sans dire un mot.
-→ Le message: ils n’ont plus besoin de prouver qui ils sont.
+
+
+
+
+
 
 *Moment 2: Le "Bureau Ovale" du Salon*
 *Début*: Ils font semblant d’être présidents, plein de panneaux avec leurs têtes.
@@ -152,6 +152,8 @@ apres la deuxieme arrivee de **mme et mr classical pop** dans la capitale de la 
 Repere : cest apres la deuxieme voire ka troisieme venue
 repere : au debut on ne les connait pas du tout. apres ils se font connaitre. leur troisiemme aller retour avec leur pays dorigibe est du surreel dans lhistoire.
 
+au début Mme violoniste vient juste d'apprendre le Symfony framework et rencontre Mme et mR classical pop qui connaissent beaucoup de Symphonies. ellle a échangé avec Mme classical pop sur les mêmes morceaux de violon qu'elle peut jouer, la partita ou la gigue.
+au premier noel, Mme classical pop lui aurait offert un livre sur l'amour et le coeur.
 
 La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
 
