@@ -512,7 +512,7 @@ repere : peut etre au 1er episode, quand ils apprennent a se connaitre pour devo
 
 
 un developpeur rails montre a mr classical pop comment il peut  chosse his electronic info : sport, activity, outdoors, indoors activity programming, digital ids, video photo, strong password, weak, musique photos, AI, social media digital ids posted by any 1.
-repere : 1er episode, mr classical pop vient darriver a lecole de musique, un developpeur a la sortie de lecole de musique, lui donne les cles pour devenir influenceur
+repere : vers le début, mr classical pop vient darriver a lecole de musique, un developpeur a la sortie de lecole de musique, lui parle des reseau sociaux, twitter, facebook pour qu'il commence à publier sa musique et lui donne les cles pour devenir influenceur.
 
 un autre developpeur propose d'emmener mme classical pop ou musicienne sur le **boulevard de l'amour** (from-bash-to-boulevard).
 repere : au1e episode pour calmer des tensions quand mme musicienne apprend la musique mais la rencontre nest pas ideale pour le moment
