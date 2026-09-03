@@ -14,18 +14,18 @@ Pour créer un *vrai écart début → fin*, il faut qu’à la fin ils soient d
 
 *2. À LA FIN*
 
-**Personnage**	**État final - version "plus les mêmes"**
-**La Violoniste**	Devient **"Madame HTTP"**. Hacker éthique, gendarme cyber. Elle ne joue plus pour être vue, elle joue pour hacker le silence. Elle a quitté Insta.
-**Mme Classical Pop**	Devient **"La Tyranne Bienveillante"**. Elle a tout eu: la gloire, les panneaux, les rumeurs. Et ça l’a vidée. Elle veut maintenant effacer son visage des rues et enseigner le violon aux enfants.
-**Mr Classical Pop**	Devient **"Le Moine du Classique"**. Il coupe les réseaux. Il ne parle plus que par partitions. Il vit dans un monastère et code des partitions pour l’ONU. Il n’a plus d’ego.
+
+
+
+
 
 *3 moments qu’on pourrait réécrire pour marquer l’écart*
 
-*Moment 1: La 1ère Rencontre au Café*
-*Début*: Ils se montrent tous leurs comptes Insta pour "briser la glace"
-*Réécriture Fin-Effet*: À la fin du livre, on revient à ce même café.
-Mais cette fois: 0 téléphone. Ils jouent 10min de trio, dos au public. Et ils partent sans dire un mot.
-→ Le message: ils n’ont plus besoin de prouver qui ils sont.
+
+
+
+
+
 
 *Moment 2: Le "Bureau Ovale" du Salon*
 *Début*: Ils font semblant d’être présidents, plein de panneaux avec leurs têtes.
@@ -152,6 +152,8 @@ apres la deuxieme arrivee de **mme et mr classical pop** dans la capitale de la 
 Repere : cest apres la deuxieme voire ka troisieme venue
 repere : au debut on ne les connait pas du tout. apres ils se font connaitre. leur troisiemme aller retour avec leur pays dorigibe est du surreel dans lhistoire.
 
+au début Mme violoniste vient juste d'apprendre le Symfony framework et rencontre Mme et mR classical pop qui connaissent beaucoup de Symphonies. ellle a échangé avec Mme classical pop sur les mêmes morceaux de violon qu'elle peut jouer, la partita ou la gigue.
+au premier noel, Mme classical pop lui aurait offert un livre sur l'amour et le coeur.
 
 La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
 
@@ -347,7 +349,7 @@ mme classical pop raconte qu'elle est agile comme une developpeuse ou qu'elle a 
 
 repere : mme classical pop a un caractere de musique comme elle vient du foyer de musique et se connecte a dautre foyer. cest le moment ou elle realise quels memes morceaux elle sait jouer avec dautres violoniste  
 
-il y a un detecteur danglais 
+tout le monde parle anglais à la télé , à la radio, sur les reseaux, dans les chat, etc. 
 repere : au 2e ou 3e avion cest suand il y a des paparazzis au pied de ton logement le soir des ceremonies
 repere : langlais est la langue des paparazzis ou journalistes qui ecrivent les scoops
 
@@ -365,7 +367,9 @@ repere : cest le deuxieme episode ou bbillet davion
 repere : au 2e episode, tout le monde signe de ne pas retourner dans son foyer, malgre les news agitees au journal national et local, 
 
 les musiciens commencent deja a pouvoir se maquiller pour la scene (make-up-faker) et a hacker le style pop sur scene en apprenant a chanter , dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
-repere : cest la periode au 2e episode ou mme et mr classical pip et mme musixicienne sibscrivent a lecole de musique cohabite ,sentraine ensemble longuement et donne tres peu de nouvelles. 
+repere : cest la periode au 2e episode ou mme et mr classical pip et mme musixicienne s'inscrivent a lecole de musique cohabite ,sentraine ensemble longuement et donne tres peu de nouvelles ou donne des nouvelles très floues de leur cohabitation. apprendre à se connaître est "long".
+au début Mme violoniste vient juste d'apprendre le Symfony framework et rencontre Mme et mR classical pop qui connaissent beaucoup de Symphonies. ellle a échangé avec Mme classical pop sur les mêmes morceaux de violon qu'elle peut jouer, la partita ou la gigue.
+au premier noel, Mme classical pop lui aurait offert un livre sur l'amour et le coeur.
 
 mr classical pop cherche a génèrer une "route" (un itinéraire de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps) .
 Dans la ville de départ , il y a des fausses radios où mr classical pop répond aux interviews à la radio, et où il rentre en compétition avec des artistes qui ont un faux Artist ID sur les radios. (ai-experience-artist-id)
@@ -532,7 +536,7 @@ apres cette periode , la violoniste veut se rendre au pays de la musique pour pr
 repere : episode 3 il y a des aller retour a letranger ou en france
 
 mme musicienne utilise Race Pace, A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance (race-pace).
-repere : meme dans la pression du bureau ovale, mme musicienne essaie detre in sync avec mme et mr classical pop avec des images de sport, un mode de vie
+repere : meme dans la pression du bureau ovale, mme musicienne essaie detre in sync avec mme et mr classical pop avec des images de sport, un mode de vie. après une partie de capture de flag, comme elle n'estpas contente des cohabitations précédentes, elle tente une nouvelle colocation. En même temps qu'elle met al pression sur tout son quartier, dans son propre foyer, chacun(e) a un drapeau et court pour son pays (en sport, musique)ou ce qu'on veut.
 
 mme et m clasical joue chacun un role sur les reseaux sociaux (influencer-trip).
 
