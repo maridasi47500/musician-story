@@ -155,6 +155,8 @@ repere : au debut on ne les connait pas du tout. apres ils se font connaitre. le
 au début Mme violoniste vient juste d'apprendre le Symfony framework et rencontre Mme et mR classical pop qui connaissent beaucoup de Symphonies. ellle a échangé avec Mme classical pop sur les mêmes morceaux de violon qu'elle peut jouer, la partita ou la gigue.
 au premier noel, Mme classical pop lui aurait offert un livre sur l'amour et le coeur.
 
+au bout des quelque mois, mme et mr classical pop veulent partager de leur musique en utilisant symfony. Après avoir publié leur musique, Mme et Mr classical pop créent chacun leurs comptes pour devenir des artisans de leur musique sur le web. Mme classical pop apparait en voiture electrique pour frequenter les premieres discos.
+
 La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
 
 
@@ -323,7 +325,8 @@ repere : mme musicienne apprend a connaitre mme etmr classical pop durant de lon
 
 mme et mr classical et mme musicienne participent a Une aventure hybride entre code, musique, sécurité, et narration interactive, où tu incarnes un personnage hors norme dans un univers qui mélange CLI, infiltration créative et exploration des réseaux.
 Tu peux incarner :un samouraï,un écrivain,ou un pirate. L’aventure se joue dans un terminal ou command line, comme une bataille navale en temps réel, où chaque commande est un mouvement, une attaque, une création ou une stratégie.
-repere : mme et me clsssical pop et mme musicienne peuvent commencer a rentrer en competition
+repere : mme et me clsssical pop et mme musicienne peuvent commencer a rentrer en competition.
+- au début, mme musique veut créer des trousseaux de login dans tous les réseaux sociaux, et diffuser elle même des rumeurs pour aller contre mme et mr classical pop. 
 
 
 
@@ -634,6 +637,8 @@ repere :3e episode
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
 * Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier. Leur salon a des violons suspendu au mur, des portrait photo d'eux en grand, une grande horloge, la grande carte d'un pays ou ils se croient etre une differente.
 * repere :3e episode
+* en manque d'inspiration mme classical pop veut utiliser les transformers pour publier des articles de journaux, des journaux télé, des posts sur les réseaux sociaux, publier des photos et paraitre plus invincible dans les journaux.
+* à un moment, la situation devient presque impossible, mme classical s'est emparee de tous les reseaux sociaux, et comptes pour utiliser des transformers d'IA et publier sur les reseaux sociaux, sans laisser d'autre choix à personne pour utiliser les réseaux sociaux comme elle le fait. Elle laisse le seul choix à mme music qui fait de qui lui reste à faire : n'utiliser que des libraries, namespaces, extensions, modules, etc. pendant sa colocation avec mme ou mr classical pop.
 * Une alerte qui les a particulierement marqués est qu'ils doivent activer des alerte pour vivre au rythme d'un QG, et jouer de la musique.
 * Mme musicienne devient un repere humain. En découvrant le QG, elle a pas de réactions, mais elle découvre que la situation est très tendue, elle se prépare à une periode difficile.
 * Elle va habiter avec Mme etM classical pop pendant cette periode, ils verront si cette periode est "vivable".
