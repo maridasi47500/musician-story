@@ -1,0 +1,1 @@
+Le "Bureau Ovale" du Salon Début: Ils font semblant d’être présidents, plein de panneaux avec leurs têtes. Réécriture Fin-Effet: Même salon, 1 an après. Les affiches sont décrochées. Il reste 3 chaises, 3 violons, et une horloge. Mme Classical Pop dit: "On arrête de gouverner les autres. On se gouverne nous." → Le message: le pouvoir c’était du vent.
