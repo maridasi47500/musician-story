@@ -4,6 +4,7 @@ mme et mr classical pop rencontre tres vite mme musicienne au cafe de la ville. 
 apres la deuxieme arrivee de mme et mr classical pop dans la capitale de la France Paris, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (bangtan-news) mais ca ne predit rien pour l'avenir. Repere : cest apres la deuxieme voire ka troisieme venue repere : au debut on ne les connait pas du tout. apres ils se font connaitre. leur troisiemme aller retour avec leur pays dorigibe est du surreel dans lhistoire.
 
 au bout des quelque mois, mme et mr classical pop veulent partager de leur musique en utilisant symfony. Après avoir publié leur musique, Mme et Mr classical pop créent chacun leurs comptes pour devenir des artisans de leur musique sur le web. Mme classical pop apparait en voiture electrique pour frequenter les premieres discos.
+Mme classical pop pose pour des publicités out of home pour des marques affichées dans la ville.
 
 La rumeur est que l'album est de Mme et M Classical Pop qui disent être "invincible" ou "indestructible" de la musique sur les réseaux sociaux (ces rumeurs sont marketing mais se veulent vraie). Mme et M Classical Pop font des vidéos de musique avec un look extravagant et un style Classical/pop pour le trailer de leur album.
 
