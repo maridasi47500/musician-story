@@ -13,6 +13,7 @@ mme et mrclassical veulent participer a virtual television experience, set insid
     repere : mme et mr classical pop racontent leur experience en France. Mme classical pop apprend mieux les langues étrangères
 
 mme et mr classical pop publie ai-digital-guide-partying.
+![alt text](../pics/car1.png)
 
 repere : ils decouvrent de la musique et set themselves et set path and conbections (life-set) repere: mme musicienne cherche comment hacker une voiture electrique, un iphone, video game et cest la periode ou ils passent leur nuit a la disco au rythhme des hits et ou ils sentraident pour rentrer dans leur appartement quand ils sont pas sobre.
 mme musicienne decide quelle voudrait aller plus tard au pays du coeur, memore ou emotion, behind scenes of dy namics, bpm, rythme, expression markings, sur instagram. repere: il y a un moment ou ils partent une fois de la gare , au pays de la musique et la gare ou les passants de la gare sont un reseau social repere : cest le deuxieme episode ou bbillet davion repere : au 2e episode, tout le monde signe de ne pas retourner dans son foyer, malgre les news agitees au journal national et local,
