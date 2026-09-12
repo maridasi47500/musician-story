@@ -9,21 +9,21 @@ mme classical pop, malgrér son statut de star, garde des racines humbles. ELle 
 
 
 
-![alt text](departure1.png)
+![alt text](../pics/departure1.png)
 mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a laube avant de commencer laventure. 
 
 
-![alt text](bedroom1.png)
+![alt text](../pics/bedroom1.png)
 
 Ils s'installent d'abord dans des habitations modestes appelées "Crevé-Cœur" (heartbreaking-housing). 
-![alt text](rental1.png)
+![alt text](../pics/rental1.png)
 
 
 Là, ils côtoient des métiers simples — boulangers, jardiniers, potiers — dont les gestes nourrissent leur inspiration. 
-![alt text](jardinier1.png)
+![alt text](../pics/jardinier1.png)
 
 Le voyage les mène le long des côtes maritimes, intégrant les bruits des vagues et des ports à leurs compositions.
-![alt text](mer1.png)
+![alt text](../pics/mer1.png)
 
 repere : au 2e episode ils cotagent sans accentuer leur reputation ou conflits
 

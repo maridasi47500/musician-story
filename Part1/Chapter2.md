@@ -1,5 +1,5 @@
 Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent Mme et Mr Classical Pop. C'est le moment critique du music-at-first-sight : la Violoniste, en voyage d'étude, croise mme et mr dans le même couloir d'un grand bâtiment américain de logements. Ils se croisent sans se rencontrer vraiment.
-![alt text](hello3.png)
+![alt text](../pics/hello3.png)
 
 le ton est surpris ou amusé voire ironique comme si personne ne laisse rien voir delle ou de lui, avec un rire.
 
@@ -19,11 +19,11 @@ Le bateau est très grand, l'ambiance dans le bateau va a priori. La premiere co
     on demande à mme classical pop de croiser beaucoup d'amies , d'inviter beaucoup d'amies, même si elle en fait pas de meilleures amies.
 
     la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec mme classical (une autre amie, quelquun qui nest pas dans lhistoire) a lappartement pour jouer de la musoque classique et au centre commercial).
-![alt text](hello1.png)
+![alt text](../pics/hello1.png)
 
 
 
     La premiere conversation importante arrive sur qui va poster quoi (qui fera le plus peur , aura le plus de popularite sur les reseaux, mme musicienne doit resster plus discrete commme elle est invitee), Madame/Mr classical pop pourra poster son visage, sa voix, ses commentaires, mais mme musicienne ne publiera pas sa photo. La premiere conversation importante est sur ce qui est "vrai" sur eux (mme classical pop a un caractere comme si elle a ce qu'elle veit avec n'importe quel moyen), le caractere qu'on a, quand on veut/veut pas/aime/aime pas quelque chose. Leur goût, comment il faut parler. les limites est suils ne savent pas sils vont reussir.
 
-![alt text](hello2.png)
+![alt text](../pics/hello2.png)
 
