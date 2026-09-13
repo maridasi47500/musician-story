@@ -1,11 +1,24 @@
-tres tot, mme classical pop se revele etre half-a-medium. La nuit en programmant des bases de données qui contiennent des informations sur des personnes, dans un terminal, en fermant les yeux. ELle a des visions reelles sur les gens , elle voit la tête/photo d'une personne sur une face d'une carte elle retourne une carte et il y a écrit une texte ou une information comme un secret sur quelqu'un. repere : on a demande aux classical de participer au debeloppement web au deuxieme avion (voyage) et elle veut etre plus indepedente avex le developpement web et rails, pour sortir de son foyer, sexprimer elle meme (the-indie-rails) repere : tout lle monde vient de quitter son foyer Dans sa routine quotidienne (dusk-till-dawn), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : "I want to be indie, I want to be cool". cest une routine reele pour faire sortir les gens de chez eyx. repere : cest le debut de lhistoire
+tres tot, mme classical pop se revele etre half-a-medium. 
 
+![alt text](../pics/voyante2.png)
+![alt text](../pics/fortuneteller1.png)
+
+La nuit en programmant des bases de données qui contiennent des informations sur des personnes, dans un terminal, en fermant les yeux. 
+
+![alt text](../pics/devweb2.png)
+ELle a des visions reelles sur les gens , elle voit la tête/photo d'une personne sur une face d'une carte elle retourne une carte et il y a écrit une texte ou une information comme un secret sur quelqu'un. repere : on a demande aux classical de participer au debeloppement web au deuxieme avion (voyage) et elle veut etre plus indepedente avex le developpement web et rails, pour sortir de son foyer, sexprimer elle meme (the-indie-rails) repere : tout lle monde vient de quitter son foyer Dans sa routine quotidienne (dusk-till-dawn), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : "I want to be indie, I want to be cool". cest une routine reele pour faire sortir les gens de chez eyx. repere : cest le debut de lhistoire
+
+![alt text](../pics/photographsky1.png)
 mme musicienne parle a un developpeur qui lui cobseille d'ecrire une celestial-story qui a des photo, video, text, code avec mme et mr classical pop with AI. repere : au premier mois de leur arrivee , mme musicienne aecrit une histoire
+![alt text](../pics/paintingsky1.png)
 
     la fille et le garçon se cachent dans une ligne de commande. la fille voit ce quelle veut voir/et refuse de voir ce qu'elle ne veut pas voir, le garcon voit ie resultat , ensemble ils forment la programmation du futur. qui voit la grande image ?
+![alt text](../pics/travelerdusk1.png)
     sur la route du crepuscule a laube, la question est devse demander : who will guide the other one through the dark side of the morning ? qui va trainer lautre derriere comme un sac au bout dun baton quand on est voyageur (meme si crst gentil)? repere : mme et mr classical pop viennent darriver au premier ou 2e avion et se font pas encore connaitre du crepuscule a l'aube , mme et mr classical pop sont livres a eux meme comme sils doivent vivre une aventure et la nuit ils doivent prevenir tous les dangers/ accidents (legendary-telegram) en hackant le systeme. leur identite double sont musiciens qui ont un entrainement, ou influenceurs sur les reseaux ou ils repandent des rumeurs. repere : cest le "debut de la journee" comme si cest le debut de sa vie, mme musixienne a beaucoup de messages repere : mme musicienne veut y voir "clair et net" dans la programmation/le developpement web, avecun model, vue,controllers
+![alt text](../pics/travelerdusk3.png)
 
 mr classical pop publie les event like concert, mme classical pop publie les news like traveling news, ils prendre le train , seulment pouvoir lire des news d'un concert, participer un concert, avoir un practice time, performance time, lire other news (event-news-blog).
+![alt text](../pics/concert1.png)
 
 Pour garder la forme et affronter le monde, mme classical pop ou mme musicienne se bat contre le jeu (bats-contre-le-jeu) et s'inspire de citations de sportifs célèbres (that-basketball-kid). mr classical pop veut rester connected a travers les reseaux sociaux (rails-browser-browse). mr classical pop publie dans potential invention verse ( des publications sur un meme theme dans un lieu de publication parallele)
 mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, recois/envoie sms/appel telephonique/email de tes bookmarks (moments partagés en photo, art local, repas partagés). repere : mme musixienneient de rencontrer mme et mr classical et trie les moments partages en photo, art local, repas partages
