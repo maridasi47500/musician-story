@@ -9,4 +9,11 @@
 <div class="field"><label for="somefieldchapter_id">chapter_id</label><select id="somefieldchapter_id" name="chapter_id"><option value="novalue">no value</option>
 {% for somechapter in tousleschapter %}
 <option value="{{ somechapter['id'] }}">{{ somechapter['name'] }}</option>{% endfor %}
-</select></div><div class="actions"><input type="submit"/></div></form>{% for x in scenes %}<p class="mytitle">{{x["title"] }}</p>{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_scene"> add one scene</a>{% endblock %}
+</select></div><div class="actions"><input type="submit"/></div></form>
+{% for x in scenes %}
+<p class="mytitle">
+{{x["title"] }} - 
+{{x["texte"] }}
+</p>
+
+{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_scene"> add one scene</a>{% endblock %}
