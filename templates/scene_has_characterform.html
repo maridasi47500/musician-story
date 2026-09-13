@@ -1,0 +1,9 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldscene_id">scene_id</label><select id="somefieldscene_id" name="scene_id"><option value="novalue">no value</option>
+{% for somescene in touslesscene %}
+<option value="{{ somescene['id'] }}">{{ somescene['name'] }}</option>{% endfor %}
+</select></div>
+<div class="field"><label for="somefieldcharacter_id">character_id</label><select id="somefieldcharacter_id" name="character_id"><option value="novalue">no value</option>
+{% for somecharacter in touslescharacter %}
+<option value="{{ somecharacter['id'] }}">{{ somecharacter['name'] }}</option>{% endfor %}
+</select></div><div class="actions"><input type="submit"/></div></form>{% for x in scene_has_characters %}<p class="myscene_id">{{x["scene_id"] }}</p>{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_scene_has_character"> add one scene_has_character</a>{% endblock %}

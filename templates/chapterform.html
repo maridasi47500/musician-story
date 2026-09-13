@@ -1,0 +1,5 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldchaptertitle">title</label><input type="text" id="somefieldchaptertitle" name="title"/></div>
+<div class="field"><label for="somefieldchapterorder">order</label><input type="text" id="somefieldchapterorder" name="order"/></div>
+<div class="field"><label for="somefieldcontent">content</label><textarea id="somefieldcontent1" name="content"></textarea>
+</div><div class="actions"><input type="submit"/></div></form>{% for x in chapters %}<p class="mytitle">{{x["title"] }}</p>{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_chapter"> add one chapter</a>{% endblock %}

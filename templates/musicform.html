@@ -1,0 +1,12 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldmusictitle">title</label><input type="text" id="somefieldmusictitle" name="title"/></div>
+<div class="field"><label for="somefieldmusiccomposer">composer</label><input type="text" id="somefieldmusiccomposer" name="composer"/></div>
+<div class="field"><label for="somefieldscore">score</label><textarea id="somefieldscore1" name="score"></textarea>
+</div>
+<div class="field"><label for="somefieldscene_id">scene_id</label><select id="somefieldscene_id" name="scene_id"><option value="novalue">no value</option>
+{% for somescene in touslesscene %}
+<option value="{{ somescene['id'] }}">{{ somescene['name'] }}</option>{% endfor %}
+</select></div>
+<div class="field"><label for="somefieldmusictime_signature">time_signature</label><input type="text" id="somefieldmusictime_signature" name="time_signature"/></div>
+<div class="field"><label for="somefieldmusickey_signature">key_signature</label><input type="text" id="somefieldmusickey_signature" name="key_signature"/></div>
+<div class="field"><label for="somefieldmusicpic">pic</label><input type="file" id="somefieldmusicpic" name="pic"/></div><div class="actions"><input type="submit"/></div></form>{% for x in musics %}<p class="mytitle">{{x["title"] }}</p>{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_music"> add one music</a>{% endblock %}

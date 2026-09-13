@@ -1,0 +1,12 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldtitle">title</label><textarea id="somefieldtitle1" name="title"></textarea>
+</div>
+<div class="field"><label for="somefieldmusic_id">music_id</label><select id="somefieldmusic_id" name="music_id"><option value="novalue">no value</option>
+{% for somemusic in touslesmusic %}
+<option value="{{ somemusic['id'] }}">{{ somemusic['name'] }}</option>{% endfor %}
+</select></div>
+<div class="field"><label for="somefieldscenepic">pic</label><input type="file" id="somefieldscenepic" name="pic"/></div>
+<div class="field"><label for="somefieldchapter_id">chapter_id</label><select id="somefieldchapter_id" name="chapter_id"><option value="novalue">no value</option>
+{% for somechapter in tousleschapter %}
+<option value="{{ somechapter['id'] }}">{{ somechapter['name'] }}</option>{% endfor %}
+</select></div><div class="actions"><input type="submit"/></div></form>{% for x in scenes %}<p class="mytitle">{{x["title"] }}</p>{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_scene"> add one scene</a>{% endblock %}
