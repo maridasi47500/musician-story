@@ -1,14 +1,24 @@
 ils préparent un grans voyage pour être rebels mais indépendant.
-mme musicienne donne son job, ses travel, ses base de donnees de blog ,, id, ses data conversatinos, ses photos, et tiute sa confiance a une voyante qui lit des news about a destination et peut predire l'avenir. La voyante est moderne ou mme musicienne peut choisir une IA si elle préfère. Elle découvre qu'elle va rencontrer Mme et M classical pop, qu'elle va découvrir la vérité, que s'ils prennent l'avion, elle va entendre les news de son pays, et toute une série d'évènements , de périodes difficiles à traverser vont arriver. repere : mme musicienne a pris un vol long courrier
+![alt text](../pics/immeuble1.png)
 
-il y a une radio job & hits, or radio transportation & hits, qui dit en direct qu'un, bateau arrive avec radio broascaster ( qui transporte mme et mr classical pop) , et il y a des grands panneaux d'affichage out of home de l'arrivee. (rails-region-out-of-home) repere : il y a des affiches de concerts, photo de groupes, qui envoie des message que tout va bien , repere : ca peut etre un signe que mme et mr classical pop vont arriver ou un signe premonitoire du futur
+mme musicienne donne son job, ses travel, ses base de donnees de blog ,, id, ses data conversatinos, ses photos, et tiute sa confiance a une voyante qui lit des news about a destination et peut predire l'avenir. La voyante est moderne ou mme musicienne peut choisir une IA si elle préfère. Elle découvre qu'elle va rencontrer Mme et M classical pop, qu'elle va découvrir la vérité, que s'ils prennent l'avion, elle va entendre les news de son pays, et toute une série d'évènements , de périodes difficiles à traverser vont arriver. repere : mme musicienne a pris un vol long courrier
+![alt text](../pics/voyante1.png)
+
+![alt text](../pics/train1.png)
+![alt text](../pics/train2.png)
+il y a une radio job & hits, or radio transportation & hits, qui dit en direct qu'un, bateau arrive avec radio broascaster ( qui transporte mme et mr classical pop) , et il y a des grands panneaux d'affichage out of home de l'arrivee. (rails-region-out-of-home) repere : il y a des affiches de concerts, photo de groupes, qui envoie des message que tout va bien 
+
+![alt text](../pics/photopouce1.png)
+, repere : ca peut etre un signe que mme et mr classical pop vont arriver ou un signe premonitoire du futur
 
 mme musicienne cree une voyante numerique qui t’accompagne dans ta journée, te guide dans une ville choisie par l’intelligence artificielle, t’aide à te coiffer, te préparer (voyante-numerique). la voyante lit dans la boule de crystal les rencontres et les destins (boule-de-crystal). repere : personne ne s'est rencontré
 
+![alt text](../pics/globetrotter1.png)
 mme musicienne rencontre un développeur Ruby on Rails qui vit entre deux commits et deux fuseaux horaires, quelque part sur une route poussiéreuse, un sentier de jungle ou une piste cyclable qui mène vers l’inconnu. (globe-trotter-developer)
 
 repere : mme et mr classical ne sont pas arrives, mme musicienne connait le voyage comme dans les guides de voyageurs
 mme musicienne cree de partition automatique avec des couleurs ou non, avant de partir à l'aventure (automatic-score-adventure) repere : mme musicienne doit apprend a coder avec un codeur qui a le seum mais gentil repere : mme classical commence a avoir des. affichages out of home dans la ville, il y a des rumeurs comme quoi mme et mr classical pop pouraaient avoir tente de sequestrer des gens comme mme musicienne repere : on est dans hometown
+![alt text](../pics/devweb1.png)
 
 en voyage en bateau, mme et mr clasical pop publient des vues panoramiques des milieux naturels (social-simulation-lab) mme et mr classical pop et mme musicienne ont 2 mode dexister en ligne un profil visible, qui s’exprime ouvertement et montre sa vraie identité (mme et m classical pop), un profil discret, qui limite fortement son exposition et utilise parfois des informations artificielles (mme musicienne). ils veulent echanger leurs points de vue ou leur place (arts-adventure)
 
