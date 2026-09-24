@@ -3,6 +3,7 @@ c'est alors qu'intervient l'anomalie (bookish-cruel-love). Devant un stand de br
 
 
 Ce portail les connecte à la République de l'Amour Cruel, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (Mr et Mme Classical Pop) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience. repere : 3e episode madame Classical Pop veut jouer le rôle de la "dame au milieu" (thé woman-in-the-middle) et apparaître sur tous les grands affichages , pour qu'on ne voit qu'elle et pour semer la terreur dans son quartier.
+Elle veut jouer la "dame au milieu de tout" (the woman in the middle of everything) pour être au courant de toutes les nouvelles, toutes les rumeurs, en temps réel, etout le temps. Elle coupe beaucoup de canaux de messages de son quartier, et autorise beaucoup de messages pour que ça lui arrive. On peut lui écrire avec des signatures, d emusique ou de partitions (comme des nuances uo appogiatures).
 
 mme et mr classical pop recommencent a sinscrire a lecole de musique locale et diffuser des rumeurs comme quoi apprendre a se connaitre est long parfois. cest leur nouvelle tentative de se rendre bien sur scene (performing-arts, perform-me) repere : comme au 2e episode, sauf quau 3e episode, le visage de mme classical pop s'affichhe oartout dans les rues (out-of-home-face)
 
