@@ -14,6 +14,8 @@ cest un Génie (un developpeur rails qui joue un figurant dans lecole de musique
 ![alt text](../pics/voyage4.png)
 
 apres une video de flash mob dans laeroport aux usa et une deuxieme fois en Europe (quand mme et mr classical pop sont venus) qui force la premiere rencontre, mme musicienne va se connecter au wifi pour trouver the ideal date ( peut etre avec mme et m classical pop), elle va croiser le regard de mme etmr classical pop mais ne pas leur parler.
+
+ils ont un"A Chance Encounter at the Airport" ou "random airport encounter" (Une rencontre fortuite à l'aéroport ; autre formulation : une rencontre imprévue à l'aéroport.)
 ![alt text](../pics/voyage1.png)
 ![alt text](../pics/voyage2.png)
 
