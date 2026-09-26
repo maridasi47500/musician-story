@@ -22,7 +22,14 @@ repere : ils decouvrent de la musique et set themselves et set path and conbecti
 ![alt text](../pics/parfumhomme1.png)
 mme musicienne decide quelle voudrait aller plus tard au pays du coeur, memore ou emotion, behind scenes of dy namics, bpm, rythme, expression markings, sur instagram. repere: il y a un moment ou ils partent une fois de la gare , au pays de la musique et la gare ou les passants de la gare sont un reseau social repere : cest le deuxieme episode ou bbillet davion repere : au 2e episode, tout le monde signe de ne pas retourner dans son foyer, malgre les news agitees au journal national et local,
 
-les musiciens commencent deja a pouvoir se maquiller pour la scene (make-up-faker) et a hacker le style pop sur scene en apprenant a chanter , dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip. repere : cest la periode au 2e episode ou mme et mr classical pip et mme musixicienne s'inscrivent a lecole de musique cohabite ,sentraine ensemble longuement et donne tres peu de nouvelles ou donne des nouvelles très floues de leur cohabitation. apprendre à se connaître est "long". 
+les musiciens commencent deja a pouvoir se maquiller pour la scene (make-up-faker) et a hacker le style pop sur scene en apprenant a chanter , dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip. 
+- repere : cest la periode au 2e episode ou mme et mr classical pip et mme musixicienne s'inscrivent a lecole de musique cohabite ,sentraine ensemble longuement et donne tres peu de nouvelles ou donne des nouvelles très floues de leur cohabitation. apprendre à se connaître est "long".
+  - mme classical pop commence à vouloir diffuser son image dans les rues.
+  - mme et mr classical pop ne sont que de simples "potes" au début de l'histoire mais tout change/bascule, prend un autre tournant quand ils décident de jouer Mme et Mr Classical Pop ou "parfaits".
+  - c'est le début d'un battle avec mme musicienne et mme et mr cclassical pop, de "survival and death", presque historical, où ils décident de se rencontrer, et qui peut déterminer le futur de toute la région. c'est quasiment de "history in the making".
+  -
+  -     - 
+  - 
 
 
 
