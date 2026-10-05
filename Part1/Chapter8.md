@@ -1,0 +1,3 @@
+- il y a une période où mme music hésite entre le code (avec wordpress : code is poetry) et etre social engineering, ou hacker, fiare des hack qui continent du slang ou beaucoup de partiesde capture the flag,  ou si elle pourrait avoir autant de prestige, sur les reseaux sociaux, 
+- meme si elle prend des risques en faisant ca , mme music essaye pas la premiere option, et laisse le code de côté pendant une certaine période pour passer plus de temps à "voter" pour quelque chose, ou discuter de choses quand elle est pas d'accord, ou des actualités/des pays étrangers qu'elle connait, et mme et classical pop commencent à devenir "indestructibles" de la musique dans leur pays., mme classical pop commence à s'interesser au code.
+- 
