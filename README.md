@@ -1,4 +1,7 @@
 # bienvenue dans musician story
+
+- début de cette histoire : j'étais dans le métro quand j'ai entendu la musique.
+- 
 Ce qu'il faut ajouter pour vraiment développer l'histoire :
 1. Structure narrative claire
 
