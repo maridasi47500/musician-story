@@ -1,3 +1,5 @@
+c'est mon histoire : j'étais dans le métro quand j'ai entendu la musique.
+
 L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une Violoniste vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme le sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages. les jours se répètent.
 ![alt text](../pics/voyage6.png)
 
@@ -16,6 +18,9 @@ cest un Génie (un developpeur rails qui joue un figurant dans lecole de musique
 apres une video de flash mob dans laeroport aux usa et une deuxieme fois en Europe (quand mme et mr classical pop sont venus) qui force la premiere rencontre, mme musicienne va se connecter au wifi pour trouver the ideal date ( peut etre avec mme et m classical pop), elle va croiser le regard de mme etmr classical pop mais ne pas leur parler.
 
 ils ont un"A Chance Encounter at the Airport" ou "random airport encounter" (Une rencontre fortuite à l'aéroport ; autre formulation : une rencontre imprévue à l'aéroport.)
+
+- Dans l'aéroport il y a le "génie de la lampe", le très beau génie, de qui souvent on raconte qu'il prend beaucoup d'avions, et a beaucoup de relations "surréel" avec ses amis qui le font voir des "écrans blancs" comme s'il apprenait des choses , ou qu'il se reincarnait en quelqu'un d'autre.  
+
 ![alt text](../pics/voyage1.png)
 ![alt text](../pics/voyage2.png)
 
