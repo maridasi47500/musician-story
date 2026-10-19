@@ -19,7 +19,7 @@ apres une video de flash mob dans laeroport aux usa et une deuxieme fois en Euro
 
 ils ont un"A Chance Encounter at the Airport" ou "random airport encounter" (Une rencontre fortuite à l'aéroport ; autre formulation : une rencontre imprévue à l'aéroport.)
 
-- Dans l'aéroport il y a le "génie de la lampe", le très beau génie, de qui souvent on raconte qu'il prend beaucoup d'avions, et a beaucoup de relations "surréel" avec ses amis qui le font voir des "écrans blancs" comme s'il apprenait des choses , ou qu'il se reincarnait en quelqu'un d'autre.  
+- Dans l'aéroport il y a le "génie de la lampe", le très beau génie, de qui souvent on raconte qu'il prend beaucoup d'avions, et a beaucoup de relations "surréel" avec ses amis qui le font voir et passer par des "écrans blancs" comme s'il apprenait des choses , ou qu'il se reincarnait en quelqu'un d'autre  ou devenait de plus en plus riche.
 
 ![alt text](../pics/voyage1.png)
 ![alt text](../pics/voyage2.png)
