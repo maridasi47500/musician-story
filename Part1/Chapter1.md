@@ -3,7 +3,7 @@ c'est mon histoire : j'étais dans le métro quand j'ai entendu la musique.
 L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une Violoniste vit a paris, prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme le sport (elle veut en faire beaucoup pour sentrainer le physique ou mental et etre dans la competition), musique (avec mme et m classical pop), programmation (pour survivre aux aventures elle en aura besoin), voyages. les jours se répètent.
 ![alt text](../pics/voyage6.png)
 
-De l'autre côté de l'Atlantique, aux États-Unis, A Miami, Mme et Mr Classical Pop planifient leur départ depuis leur propre métropole. Ils ont un style vestimentaire extravagant et vivent dans un style de musique classique. Les réseau social les plus importants dans l'histoire sont facebook, twitter, instagram, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
+De l'autre côté de l'Atlantique, aux États-Unis, A Miami, Mme et Mr Classical Pop planifient leur départ depuis leur propre métropole. Ils ont un style vestimentaire extravagant et vivent dans un style de musique classique. Les réseau social les plus importants dans l'histoire sont facebook, twitter, instagram, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité. très tôt, il se révèle être Mozart et nannerl, comme visionnaires et tyran.
 ![alt text](../pics/voyage8.png)
 
 
