@@ -5,6 +5,6 @@ Repere : a larrivee il n'y a pas encore la revendication cest moi qui joue, jai 
 ![alt text](../pics/superman1.png)
 
 
- cest a leur deuxieme ou troisieme venue. repere : a la toute premiere arrivee in voit seulement lage, le pays, lhumeur, linstrument de musique/les hobbys, un nom de job. repere : a leur dexieme arrivee ils sont incites a des dev sessions from dusk till dawn , ont quelque soucis / rumeurs, puis ils retournent aux usa repere : a la troisieme venue il y a des rumeurs a larrivee ils sont indestructible
+ cest a leur deuxieme ou troisieme venue. repere : a la toute premiere arrivee in voit seulement lage, le pays, lhumeur, linstrument de musique/les hobbys, un nom de job. repere : a leur dexieme arrivee ils sont incites a des dev sessions "from dusk till dawn"/from dawn till dusk, ça veut dire ils ont le choix de veiller la nuit ou , de prendre toute le journée/ pour faire du développement web , ont quelque soucis / rumeurs, puis ils retournent aux usa repere : a la troisieme venue il y a des rumeurs a larrivee ils sont indestructible
 
 
