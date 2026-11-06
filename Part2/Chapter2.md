@@ -27,8 +27,7 @@ les musiciens commencent deja a pouvoir se maquiller pour la scene (make-up-fake
   - mme classical pop commence à vouloir diffuser son image dans les rues.
   - mme et mr classical pop ne sont que de simples "potes" au début de l'histoire mais tout change/bascule, prend un autre tournant quand ils décident de jouer Mme et Mr Classical Pop ou "parfaits".
   - c'est le début d'un battle avec mme musicienne et mme et mr cclassical pop, de "survival and death", presque historical, où ils décident de se rencontrer, et qui peut déterminer le futur de toute la région. c'est quasiment de "history in the making".
-  -
-  -     - 
+  - mme classical pop va prendre le micro dans la rue pour dire "i want to take the power over everyone, over music, over sex, and with my brain having the power over everything "
   - 
 
 
